@@ -1,0 +1,964 @@
+Adipocytic:
+  Angiolipoma:
+    MESH: D018206
+    Preferred Name: Angiolipoma
+    Type: Benign
+    UMLS: C0206632
+  Hibernoma:
+    MESH: D008067
+    Preferred Name: Hibernoma
+    Type: Benign
+    UMLS: C0205822
+  Lipoma:
+    MESH: D008067
+    Preferred Name: Lipoma
+    Type: Benign
+    UMLS: C0023798
+  Liposarcoma:
+    MESH: D008080
+    Preferred Name: Liposarcoma
+    Type: Premalignant/Malignant
+    UMLS: C0023827
+  Pleomorphic lipoma:
+    MESH: D008067
+    Preferred Name: Pleomorphic lipoma
+    Type: Benign
+    UMLS: C0205823
+  Spindle cell lipoma:
+    Preferred Name: Spindle cell lipoma
+    Type: Benign
+    UMLS: C0334474
+Adnexal:
+  Accessory nipple:
+    MESH: C562557
+    Preferred Name: Accessory nipple
+    Synonyms:
+    - Supernumerary nipple
+    Type: Benign
+    UMLS: C0266011
+  Adenoid cystic carcinoma:
+    MESH: D003528
+    Preferred Name: Adenoid cystic carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0010606
+  Adenoma, Sweat Gland:
+    MESH: D006607
+    Preferred Name: Adenoma, Sweat Gland
+    Synonyms:
+    - Hidradenoma
+    Type: Benign
+    UMLS: C0019522
+  Benign chondroid syringoma:
+    Preferred Name: Benign chondroid syringoma
+    Synonyms:
+    - Chondroid syringoma
+    Type: Benign
+    UMLS: C2231111
+  Cylindroma of skin:
+    Preferred Name: Cylindroma of skin
+    Synonyms:
+    - Cylindroma
+    Type: Benign
+    UMLS: C5441545
+  Dermal duct tumor:
+    MESH: D057091
+    Preferred Name: Dermal duct tumor
+    Type: Benign
+    UMLS: C0346024
+  Digital papillary eccrine carcinoma of skin:
+    Preferred Name: Digital papillary eccrine carcinoma of skin
+    Synonyms:
+    - Aggressive digital papillary adenocarcinoma
+    - Papillary digital carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1367789
+  Eccrine Poroma:
+    MESH: D057091
+    Preferred Name: Eccrine Poroma
+    Synonyms:
+    - Poroma
+    Type: Benign
+    UMLS: C1533161
+  Eccrine acrospiroma:
+    MESH: D018250
+    Preferred Name: Eccrine acrospiroma
+    Synonyms:
+    - Acrospiromas
+    Type: Benign
+    UMLS: C0206671
+  Eccrine angiomatous hamartoma:
+    Preferred Name: Eccrine angiomatous hamartoma
+    Type: Benign
+    UMLS: C0406801
+  Eccrine papillary adenoma:
+    Preferred Name: Eccrine papillary adenoma
+    Synonyms:
+    - Papillary eccrine adenoma
+    Type: Benign
+    UMLS: C0334350
+  Eccrine spiradenoma:
+    Preferred Name: Eccrine spiradenoma
+    Synonyms:
+    - Spiradenoma
+    Type: Benign
+    UMLS: C0334347
+  Endocrine mucin-producing sweat gland carcinoma:
+    Preferred Name: Endocrine mucin-producing sweat gland carcinoma
+    Synonyms:
+    - Eccrine mucin-producing sweat gland carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C5231080
+  Hidradenoma papilliferum:
+    MESH: D000074009
+    Preferred Name: Hidradenoma papilliferum
+    Synonyms:
+    - HPAP
+    Type: Benign
+    UMLS: C0334348
+  Hidroacanthoma simplex:
+    Preferred Name: Hidroacanthoma simplex
+    Type: Benign
+    UMLS: C1275212
+  Malignant eccrine spiradenoma:
+    Preferred Name: Malignant eccrine spiradenoma
+    Synonyms:
+    - Spiradenocarcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1266063
+  Microcystic adnexal carcinoma:
+    MESH: C000632664
+    Preferred Name: Microcystic adnexal carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0346027
+  Mucinous Adenocarcinoma:
+    MESH: D002288
+    Preferred Name: Mucinous Adenocarcinoma
+    Synonyms:
+    - Mucinous carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0007130
+  Syringocystadenoma papilliferum:
+    MESH: D000074009
+    Preferred Name: Syringocystadenoma papilliferum
+    Synonyms:
+    - SCAP
+    Type: Benign
+    UMLS: C0406803
+  Syringofibroadenoma:
+    MESH: D057091
+    Preferred Name: Syringofibroadenoma
+    Type: Benign
+    UMLS: C1266060
+  Syringoma:
+    MESH: D018252
+    Preferred Name: Syringoma
+    Type: Benign
+    UMLS: C0206673
+Cystic:
+  Branchioma:
+    MESH: D001935
+    Preferred Name: Branchioma
+    Synonyms:
+    - Branchial cyst
+    Type: Benign
+    UMLS: C0006131
+  Congenital bronchogenic cyst:
+    MESH: D001994
+    Preferred Name: Congenital bronchogenic cyst
+    Synonyms:
+    - Bronchogenic cyst
+    Type: Benign
+    UMLS: C0006281
+  Dermoid cyst:
+    MESH: D003884
+    Preferred Name: Dermoid cyst
+    Type: Benign
+    UMLS: C0011649
+  Epidermal inclusion cyst:
+    Preferred Name: Epidermal inclusion cyst
+    Synonyms:
+    - Epidermoid cyst
+    Type: Benign
+    UMLS: C0259770
+  Familial thyroglossal duct cyst:
+    MESH: C536909
+    Preferred Name: Familial thyroglossal duct cyst
+    Synonyms:
+    - Thyroglossal duct cyst
+    Type: Benign
+    UMLS: C3495590
+  Hidrocystoma:
+    MESH: D018251
+    Preferred Name: Hidrocystoma
+    Type: Benign
+    UMLS: C0206672
+  Median raphe cyst:
+    Preferred Name: Median raphe cyst
+    Type: Benign
+    UMLS: C0406824
+  Pilar cyst:
+    MESH: D004814
+    Preferred Name: Pilar cyst
+    Synonyms:
+    - Thrichilemmal cyst
+    Type: Benign
+    UMLS: C0086809
+  Presternal ciliated cyst:
+    Preferred Name: Presternal ciliated cyst
+    Synonyms:
+    - Cutaneous ciliated cyst
+    Type: Benign
+    UMLS: C0406823
+  Proliferating trichilemmal tumor:
+    Preferred Name: Proliferating trichilemmal tumor
+    Synonyms:
+    - Proliferating pilar cyst
+    Type: Benign
+    UMLS: C2959585
+  Steatocystomas:
+    Preferred Name: Steatocystomas
+    Synonyms:
+    - Steatocystoma
+    Type: Benign
+    UMLS: C1314743
+  Vellus hair cyst:
+    Preferred Name: Vellus hair cyst
+    Type: Benign
+    UMLS: C0345997
+Fibrohistiocytic:
+  Acquired Digital Fibrokeratoma:
+    Preferred Name: Acquired Digital Fibrokeratoma
+    Type: Benign
+    UMLS: C0346045
+  Angiofibroma:
+    MESH: D018322
+    Preferred Name: Angiofibroma
+    Type: Benign
+    UMLS: C0206731
+  Atypical fibroxanthoma of skin:
+    Preferred Name: Atypical fibroxanthoma of skin
+    Synonyms:
+    - Atypical fibroxanthoma
+    Type: Benign
+    UMLS: C0346053
+  Circumscribed storiform collagenoma:
+    Preferred Name: Circumscribed storiform collagenoma
+    Synonyms:
+    - Sclerotic fibroma
+    Type: Benign
+    UMLS: C0406815
+  Collagen nevus of skin:
+    Preferred Name: Collagen nevus of skin
+    Synonyms:
+    - Collagenoma
+    Type: Benign
+    UMLS: C0265978
+  Cutaneous Fibrous Histiocytoma:
+    MESH: D018219
+    Preferred Name: Cutaneous Fibrous Histiocytoma
+    Synonyms:
+    - Dermatofibroma
+    Type: Benign
+    UMLS: C0002991
+  Dermatofibrosarcoma protuberans:
+    Preferred Name: Dermatofibrosarcoma protuberans
+    Type: Premalignant/Malignant
+    UMLS: C0392784
+  Dermatomyofibroma:
+    Preferred Name: Dermatomyofibroma
+    Type: Benign
+    UMLS: C1275239
+  Epithelioid fibrous histiocytoma:
+    Preferred Name: Epithelioid fibrous histiocytoma
+    Synonyms:
+    - Epithelioid cell histiocytoma
+    Type: Benign
+    UMLS: C1707544
+  Fibromatosis:
+    MESH: D005350
+    Preferred Name: Fibromatosis
+    Type: Benign
+    UMLS: C0016048
+  Fibrous Hamartoma of Infancy:
+    Preferred Name: Fibrous Hamartoma of Infancy
+    Synonyms:
+    - Fibrous harmatoma of infancy
+    Type: Benign
+    UMLS: C0265979
+  Fibrous histiocytoma of tendon sheath:
+    MESH: D000070779
+    Preferred Name: Fibrous histiocytoma of tendon sheath
+    Synonyms:
+    - Giant cell tumor of tendon sheath
+    Type: Benign
+    UMLS: C1318543
+  Infantile digital fibroma:
+    Preferred Name: Infantile digital fibroma
+    Type: Benign
+    UMLS: C1318562
+  Keloid:
+    MESH: D007627
+    Preferred Name: Keloid
+    Type: Benign
+    UMLS: C0022548
+  Multinucleate cell angiohistiocytoma:
+    Preferred Name: Multinucleate cell angiohistiocytoma
+    Type: Benign
+    UMLS: .nan
+  Myofibroma:
+    MESH: D047708
+    Preferred Name: Myofibroma
+    Synonyms:
+    - morphologic abnormality
+    Type: Benign
+    UMLS: C1266121
+  Nevus elasticus:
+    Preferred Name: Nevus elasticus
+    Synonyms:
+    - Elastoma
+    Type: Benign
+    UMLS: C0473583
+  Nodular fasciitis:
+    Preferred Name: Nodular fasciitis
+    Synonyms:
+    - Nodular fascitis
+    Type: Benign
+    UMLS: C0410005
+  Pleomorphic fibroma:
+    Preferred Name: Pleomorphic fibroma
+    Type: Benign
+    UMLS: C5399786
+  Skin Undifferentiated Pleomorphic Sarcoma:
+    Preferred Name: Skin Undifferentiated Pleomorphic Sarcoma
+    Synonyms:
+    - Pleomorphic dermal sarcoma
+    Type: Premalignant/Malignant
+    UMLS: C1275254
+  Skin tag:
+    Preferred Name: Skin tag
+    Synonyms:
+    - Fibroepithelial polyp
+    Type: Benign
+    UMLS: C0037293
+Follicular:
+  Acanthoma, Pilar Sheath:
+    MESH: D049309
+    Preferred Name: Acanthoma, Pilar Sheath
+    Synonyms:
+    - Pilar sheath acanthoma
+    Type: Benign
+    UMLS: C0346005
+  Cutaneous lymphadenoma:
+    Preferred Name: Cutaneous lymphadenoma
+    Synonyms:
+    - Lymphadenoma
+    Type: Benign
+    UMLS: C1275221
+  Desmoplastic Trichoepithelioma:
+    Preferred Name: Desmoplastic Trichoepithelioma
+    Type: Benign
+    UMLS: C0432526
+  Desmoplastic trichilemmoma:
+    Preferred Name: Desmoplastic trichilemmoma
+    Synonyms:
+    - Demoplastic trichilemmoma
+    Type: Benign
+    UMLS: C1275206
+  Dilated pore of winer:
+    Preferred Name: Dilated pore of winer
+    Type: Benign
+    UMLS: C0346004
+  Fibrofolliculoma:
+    Preferred Name: Fibrofolliculoma
+    Type: Benign
+    UMLS: C0346011
+  Pilomatricoma:
+    MESH: D018296
+    Preferred Name: Pilomatricoma
+    Type: Benign
+    UMLS: C0206711
+  Pilomatrixoma:
+    MESH: D018296
+    Preferred Name: Pilomatrixoma
+    Synonyms:
+    - Pilomatricoma
+    Type: Premalignant/Malignant
+    UMLS: C0206711
+  Trichilemmoma:
+    Preferred Name: Trichilemmoma
+    Type: Benign
+    UMLS: C0334263
+  Trichoadenoma:
+    Preferred Name: Trichoadenoma
+    Type: Benign
+    UMLS: C0346007
+  Trichoepithelioma:
+    Preferred Name: Trichoepithelioma
+    Synonyms:
+    - Trichoblastoma
+    Type: Benign
+    UMLS: C0349658
+  Trichofolliculoma:
+    MESH: C536553
+    Preferred Name: Trichofolliculoma
+    Type: Benign
+    UMLS: C0334262
+  Tumor of follicular infundibulum:
+    Preferred Name: Tumor of follicular infundibulum
+    Type: Benign
+    UMLS: C0346006
+Hematolymphoid:
+  Adult T-Cell Lymphoma:
+    MESH: D015459
+    Preferred Name: Adult T-Cell Lymphoma/Leukemia
+    Synonyms:
+    - Adult T-cell leukemia/lymphoma
+    Type: Premalignant/Malignant
+    UMLS: C0023493
+  Leukemic infiltration of skin:
+    Preferred Name: Leukemic infiltration of skin
+    Synonyms:
+    - Leukemia cutis
+    Type: Premalignant/Malignant
+    UMLS: C0948976
+  Lymphoma, T-Cell, Cutaneous:
+    MESH: D016410
+    Preferred Name: Lymphoma, T-Cell, Cutaneous
+    Synonyms:
+    - "Primary cutaneous  \u03B3/\u03B4 T-cell lymphoma"
+    Type: Premalignant/Malignant
+    UMLS: C0079773
+  Lymphomatoid papulosis:
+    MESH: D017731
+    Preferred Name: Lymphomatoid papulosis
+    Type: Premalignant/Malignant
+    UMLS: C0206182
+  Mycosis fungoides:
+    MESH: D009182
+    Preferred Name: Mycosis fungoides
+    Type: Premalignant/Malignant
+    UMLS: C0026948
+  Nasal Type Extranodal NK:
+    MESH: D054391
+    Preferred Name: Nasal Type Extranodal NK/T-Cell Lymphoma
+    Synonyms:
+    - Extranodal NK/T-cell lymphoma
+    Type: Premalignant/Malignant
+    UMLS: C0392788
+  Primary cutaneous B-cell lymphoma:
+    Preferred Name: Primary cutaneous B-cell lymphoma
+    Type: Premalignant/Malignant
+    UMLS: C1274310
+  Primary cutaneous anaplastic large cell lymphoma:
+    MESH: D054446
+    Preferred Name: Primary cutaneous anaplastic large cell lymphoma
+    Type: Premalignant/Malignant
+    UMLS: C1301362
+  Subcutaneous panniculitis-like T-cell lymphoma:
+    MESH: C537503
+    Preferred Name: Subcutaneous panniculitis-like T-cell lymphoma
+    Type: Premalignant/Malignant
+    UMLS: C0522624
+Keratinocytic:
+  Acantholytic actinic keratosis:
+    Preferred Name: Acantholytic actinic keratosis
+    Type: Premalignant/Malignant
+    UMLS: C1274595
+  Acanthoma, Clear Cell:
+    MESH: D049309
+    Preferred Name: Acanthoma, Clear Cell
+    Synonyms:
+    - Clear cell acanthoma
+    Type: Benign
+    UMLS: C0333992
+  Actinic keratosis:
+    MESH: D055623
+    Preferred Name: Actinic keratosis
+    Type: Premalignant/Malignant
+    UMLS: C0022602
+  Basal cell carcinoma - adenoid:
+    Preferred Name: Basal cell carcinoma - adenoid
+    Synonyms:
+    - Adenoid basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1304296
+  Basal cell carcinoma, infundibulocystic:
+    MESH: C537655
+    Preferred Name: Basal cell carcinoma, infundibulocystic
+    Synonyms:
+    - Infundibulocystic basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1304297
+  Basal cell carcinoma, micronodular:
+    Preferred Name: Basal cell carcinoma, micronodular
+    Synonyms:
+    - Micronodular Basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1367861
+  Basal cell carcinoma, nodular:
+    Preferred Name: Basal cell carcinoma, nodular
+    Synonyms:
+    - Nodular basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C4083056
+  Basal cell papilloma clonal type:
+    Preferred Name: Basal cell papilloma clonal type
+    Synonyms:
+    - Clonal seborrheic keratosis
+    Type: Benign
+    UMLS: C1275159
+  Bowenoid actinic keratosis:
+    Preferred Name: Bowenoid actinic keratosis
+    Type: Premalignant/Malignant
+    UMLS: C0582412
+  Epidermal nevus:
+    MESH: C580062
+    Preferred Name: Epidermal nevus
+    Type: Benign
+    UMLS: C0334082
+  Familial benign pemphigus:
+    MESH: D016506
+    Preferred Name: Familial benign pemphigus
+    Synonyms:
+    - Hailey-Hailey disease
+    Type: Benign
+    UMLS: C0085106
+  Fibroepithelioma of Pinkus:
+    Preferred Name: Fibroepithelioma of Pinkus
+    Type: Premalignant/Malignant
+    UMLS: C0346013
+  Hyperkeratosis lenticularis perstans:
+    MESH: C538377
+    Preferred Name: Hyperkeratosis lenticularis perstans
+    Type: Benign
+    UMLS: C0263420
+  Hyperkeratosis, Epidermolytic:
+    MESH: D017488
+    Preferred Name: Hyperkeratosis, Epidermolytic
+    Synonyms:
+    - Epidermolytic hyperkeratosis
+    Type: Benign
+    UMLS: C0079153
+  Hypertrophic solar keratosis:
+    Preferred Name: Hypertrophic solar keratosis
+    Synonyms:
+    - Hypertrophic actinic keratosis
+    Type: Premalignant/Malignant
+    UMLS: C0432525
+  Inflammatory linear verrucous epidermal nevus:
+    MESH: D054000
+    Preferred Name: Inflammatory linear verrucous epidermal nevus
+    Type: Benign
+    UMLS: C0473574
+  Inverted follicular keratosis:
+    Preferred Name: Inverted follicular keratosis
+    Type: Benign
+    UMLS: C0334019
+  Keratoacanthoma:
+    MESH: D007636
+    Preferred Name: Keratoacanthoma
+    Type: Premalignant/Malignant
+    UMLS: C0022572
+  Lichenoid actinic keratosis:
+    Preferred Name: Lichenoid actinic keratosis
+    Type: Premalignant/Malignant
+    UMLS: C1274594
+  Melanoacanthoma:
+    Preferred Name: Melanoacanthoma
+    Type: Benign
+    UMLS: C1321683
+  Morpheaform basal cell carcinoma:
+    Preferred Name: Morpheaform basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0555191
+  Nevus comedonicus:
+    Preferred Name: Nevus comedonicus
+    Type: Benign
+    UMLS: C0265987
+  Paget Disease Extramammary:
+    MESH: D010145
+    Preferred Name: Paget Disease Extramammary
+    Synonyms:
+    - Paget disease
+    Type: Premalignant/Malignant
+    UMLS: C0030186
+  Pigmented basal cell carcinoma:
+    MESH: D002280
+    Preferred Name: Pigmented basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C1368275
+  Porokeratosis:
+    MESH: D017499
+    Preferred Name: Porokeratosis
+    Type: Benign
+    UMLS: C0162839
+  Skin Squamous Cell Carcinoma In Situ:
+    Preferred Name: Skin Squamous Cell Carcinoma In Situ
+    Synonyms:
+    - Squamous cell carcinoma in situ
+    - SCCIS
+    - Bowen's disease
+    Type: Premalignant/Malignant
+    UMLS: C2314897
+  Squamous cell carcinoma:
+    MESH: D002294
+    Preferred Name: Squamous cell carcinoma
+    Synonyms:
+    - Suqamous cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0007137
+  Squamous cell carcinoma, spindle cell:
+    Preferred Name: Squamous cell carcinoma, spindle cell
+    Synonyms:
+    - Spindled squamous cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0349656
+  Superficial basal cell carcinoma:
+    Preferred Name: Superficial basal cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0862889
+  Verrucous carcinoma:
+    MESH: D018289
+    Preferred Name: Verrucous carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0206706
+  Warty dyskeratoma:
+    Preferred Name: Warty dyskeratoma
+    Type: Benign
+    UMLS: C0334063
+Melanocytic:
+  Acquired melanocytic nevus:
+    Preferred Name: Acquired melanocytic nevus
+    Synonyms:
+    - Common acquired nevus
+    Type: Benign
+    UMLS: C1302707
+  Blue nevus:
+    MESH: D018329
+    Preferred Name: Blue nevus
+    Type: Benign
+    UMLS: C0206736
+  Caf\xE9-au-lait macules with temporal dysrhythmia":
+    Preferred Name: "Caf\xE9-au-lait macules with temporal dysrhythmia"
+    Synonyms:
+    - "Caf\xE9 au lait macule"
+    Type: Benign
+    UMLS: C1321487
+  Congenital melanocytic nevus:
+    Preferred Name: Congenital melanocytic nevus
+    Type: Benign
+    UMLS: C1318558
+  Deep penetrating melanocytic nevus:
+    Preferred Name: Deep penetrating melanocytic nevus
+    Synonyms:
+    - Deep penetrating nevus
+    Type: Premalignant/Malignant
+    UMLS: C1275438
+  Dysplastic Nevus:
+    MESH: D004416
+    Preferred Name: Dysplastic Nevus
+    Synonyms:
+    - Atypical nevus
+    Type: Premalignant/Malignant
+    UMLS: C0205748
+  Epithelioid and spindle cell nevus:
+    MESH: D018332
+    Preferred Name: Epithelioid and spindle cell nevus
+    Synonyms:
+    - Pigmented spindle cell nevus of reed
+    Type: Premalignant/Malignant
+    UMLS: C0206739
+  Freckles:
+    MESH: D008548
+    Preferred Name: Freckles
+    Synonyms:
+    - Ephelides
+    Type: Benign
+    UMLS: C0016689
+  Halo nevus:
+    MESH: D055882
+    Preferred Name: Halo nevus
+    Type: Benign
+    UMLS: C0474824
+  Lentigo simplex:
+    Preferred Name: Lentigo simplex
+    Type: Benign
+    UMLS: C0302255
+  Melanoma:
+    MESH: D008545
+    Preferred Name: Melanoma
+    Type: Premalignant/Malignant
+    UMLS: C0025202
+  Recurrent melanocytic nevus:
+    Preferred Name: Recurrent melanocytic nevus
+    Synonyms:
+    - Recurrent nevus
+    Type: Benign
+    UMLS: C5231097
+  Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome:
+    Preferred Name: Severe growth deficiency, strabismus, extensive dermal melanocytosis,
+      intellectual disability syndrome
+    Synonyms:
+    - Dermal melanocytosis
+    Type: Benign
+    UMLS: C5567481
+  Solar lentigo:
+    Preferred Name: Solar lentigo
+    Type: Benign
+    UMLS: C0036651
+  balloon cell nevus:
+    Preferred Name: balloon cell nevus
+    Type: Benign
+    UMLS: C0334425
+Neural or neuroendocrine:
+  Cellular neurothekeoma:
+    Preferred Name: Cellular neurothekeoma
+    Type: Benign
+    UMLS: C1275959
+  Dermal nerve sheath myxoma:
+    Preferred Name: Dermal nerve sheath myxoma
+    Synonyms:
+    - Nerve sheath myxoma
+    Type: Benign
+    UMLS: C1275265
+  Ganglioneuroma of skin:
+    Preferred Name: Ganglioneuroma of skin
+    Synonyms:
+    - Cutaneous ganglioneuroma
+    Type: Benign
+    UMLS: C0346063
+  Granular cell tumor:
+    MESH: D016586
+    Preferred Name: Granular cell tumor
+    Type: Benign
+    UMLS: C0085167
+  Malignant peripheral nerve sheath tumor:
+    MESH: D018319
+    Preferred Name: Malignant peripheral nerve sheath tumor
+    Type: Premalignant/Malignant
+    UMLS: C0751690
+  Merkel cell carcinoma:
+    MESH: D015266
+    Preferred Name: Merkel cell carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0007129
+  Neurilemmoma:
+    MESH: D009442
+    Preferred Name: Neurilemmoma
+    Synonyms:
+    - Schwannoma
+    Type: Benign
+    UMLS: C0027809
+  Neuroblastoma:
+    MESH: D009447
+    Preferred Name: Neuroblastoma
+    Type: Premalignant/Malignant
+    UMLS: C0027819
+  Neurofibroma:
+    MESH: D009455
+    Preferred Name: Neurofibroma
+    Type: Benign
+    UMLS: C0027830
+  Palisaded encapsulated neuroma:
+    Preferred Name: Palisaded encapsulated neuroma
+    Type: Benign
+    UMLS: C0431126
+  Perineurioma:
+    MESH: D018317
+    Preferred Name: Perineurioma
+    Type: Benign
+    UMLS: C0751691
+  Polydactyly:
+    MESH: D017689
+    Preferred Name: Polydactyly
+    Synonyms:
+    - Supernumery digit
+    Type: Benign
+    UMLS: C0152427
+  Traumatic neuroma:
+    Preferred Name: Traumatic neuroma
+    Type: Benign
+    UMLS: C0161823
+Sebaceous:
+  Nevus Sebaceus of Jadassohn:
+    MESH: D054000
+    Preferred Name: Nevus Sebaceus of Jadassohn
+    Synonyms:
+    - Nevus sebaceus
+    Type: Benign
+    UMLS: C4552097
+  Sebaceoma:
+    Preferred Name: Sebaceoma
+    Type: Benign
+    UMLS: C1275210
+  Sebaceous Adenocarcinoma:
+    MESH: D018266
+    Preferred Name: Sebaceous Adenocarcinoma
+    Synonyms:
+    - Sebaceous carcinoma
+    Type: Premalignant/Malignant
+    UMLS: C0206684
+  Sebaceous adenoma:
+    Preferred Name: Sebaceous adenoma
+    Type: Benign
+    UMLS: C1368816
+  Sebaceous hyperplasia:
+    Preferred Name: Sebaceous hyperplasia
+    Type: Benign
+    UMLS: C0406484
+Smooth muscle:
+  Genital leiomyoma:
+    Preferred Name: Genital leiomyoma
+    Type: Benign
+    UMLS: C1275267
+  Pigmented hairy epidermal nevus:
+    Preferred Name: Pigmented hairy epidermal nevus
+    Synonyms:
+    - Becker nevus
+    Type: Benign
+    UMLS: C0263579
+  Pilar leiomyoma:
+    Preferred Name: Pilar leiomyoma
+    Type: Benign
+    UMLS: C1709540
+  leiomyosarcoma:
+    MESH: D007890
+    Preferred Name: leiomyosarcoma
+    Type: Premalignant/Malignant
+    UMLS: C0023269
+Vascular:
+  Angiokeratoma:
+    MESH: D000794
+    Preferred Name: Angiokeratoma
+    Type: Benign
+    UMLS: C0002985
+  Angioma serpiginosum:
+    MESH: C536366
+    Preferred Name: Angioma serpiginosum
+    Type: Benign
+    UMLS: C0263637
+  Angiomatosis, Bacillary:
+    MESH: D016917
+    Preferred Name: Angiomatosis, Bacillary
+    Synonyms:
+    - Bacillary angiomatosis
+    Type: Benign
+    UMLS: C0085434
+  Congenital arteriovenous malformation:
+    MESH: D001165
+    Preferred Name: Congenital arteriovenous malformation
+    Synonyms:
+    - Arteriovenous malformation
+    Type: Benign
+    UMLS: C0003857
+  Epithelioid hemangioma of skin:
+    MESH: D000796
+    Preferred Name: Epithelioid hemangioma of skin
+    Synonyms:
+    - Angiolymphoid hyperplasia with eosinophils
+    - Epithelioid hemangioma
+    Type: Benign
+    UMLS: C0002989
+  Glomeruloid hemangioma:
+    Preferred Name: Glomeruloid hemangioma
+    Type: Benign
+    UMLS: C1304511
+  Glomus tumor:
+    MESH: D005918
+    Preferred Name: Glomus tumor
+    Type: Benign
+    UMLS: C0017653
+  Hemangioma, Cavernous:
+    MESH: D006392
+    Preferred Name: Hemangioma, Cavernous
+    Synonyms:
+    - Cavernous hemangioma
+    Type: Benign
+    UMLS: C0018920
+  Hemangiopericytoma:
+    MESH: D006393
+    Preferred Name: Hemangiopericytoma
+    Type: Benign
+    UMLS: C0018922
+  Hemangiosarcoma:
+    MESH: D006394
+    Preferred Name: Hemangiosarcoma
+    Synonyms:
+    - Angiosarcoma
+    Type: Premalignant/Malignant
+    UMLS: C0018923
+  Hobnail Hemangioma:
+    Preferred Name: Hobnail Hemangioma
+    Synonyms:
+    - Targetoid hemosiderotic hemangioma
+    - hobnail hemangioma
+    Type: Benign
+    UMLS: C0346076
+  Intravascular papillary endothelial hyperplasia:
+    Preferred Name: Intravascular papillary endothelial hyperplasia
+    Type: Benign
+    UMLS: C0343083
+  Kaposi sarcoma:
+    MESH: D012514
+    Preferred Name: Kaposi sarcoma
+    Type: Premalignant/Malignant
+    UMLS: C0036220
+  Kaposiform hemangioendothelioma:
+    MESH: C537007
+    Preferred Name: Kaposiform hemangioendothelioma
+    Type: Premalignant/Malignant
+    UMLS: C1367420
+  Kimura disease:
+    MESH: D000082242
+    Preferred Name: Kimura disease
+    Type: Benign
+    UMLS: C0033838
+  Lymphangioma:
+    MESH: D008202
+    Preferred Name: Lymphangioma
+    Type: Benign
+    UMLS: C0024221
+  Microvenular hemangioma:
+    Preferred Name: Microvenular hemangioma
+    Type: Benign
+    UMLS: C1304506
+  Port-Wine Stain:
+    MESH: D019339
+    Preferred Name: Port-Wine Stain
+    Synonyms:
+    - Nevus flammeus
+    Type: Benign
+    UMLS: C0235752
+  Pyogenic granuloma:
+    MESH: D017789
+    Preferred Name: Pyogenic granuloma
+    Type: Benign
+    UMLS: C0085653
+  Senile angioma:
+    Preferred Name: Senile angioma
+    Synonyms:
+    - Cherry angioma
+    Type: Benign
+    UMLS: C0343082
+  Spindle cell hemangioma:
+    Preferred Name: Spindle cell hemangioma
+    Type: Benign
+    UMLS: C1304508
+  Strawberry nevus of skin:
+    MESH: D018324
+    Preferred Name: Strawberry nevus of skin
+    Synonyms:
+    - Infantile hemangioma
+    Type: Benign
+    UMLS: C0206733
+  Tufted angioma of skin:
+    MESH: C536924
+    Preferred Name: Tufted angioma of skin
+    Synonyms:
+    - Tufted angioma
+    Type: Benign
+    UMLS: C0346073
+  Venous lake:
+    Preferred Name: Venous lake
+    Type: Benign
+    UMLS: C0948672
