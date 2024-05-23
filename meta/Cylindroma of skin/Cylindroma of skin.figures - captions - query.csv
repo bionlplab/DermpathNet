@@ -1,0 +1,45 @@
+pmcid,label,caption,graphic,disease,modality
+PMC3667320,Figure 1,Clinical picture of nodulo-ulcerative lesion on the right side of the nose,IJD-58-244c-g001,NotMatch,NotMatch
+PMC3667320,Figure 2,"Microphotograph showing adenoid pattern with connection of the lesion to the overlying epidermis (inset) (hematoxylin and eosin, ×100)",IJD-58-244c-g002,NotMatch,Match
+PMC3667320,Figure 3,"Bcl-2 expression in the tumor cells (immunochemistry, ×400)",IJD-58-244c-g003,NotMatch,NotMatch
+PMC4349015,Figure 1,"(a) Cytology smear shows discrete and tight clusters of small roundcells (MGG, ×240). (b) cytology smear shows pinkish basement membrane like material surrounded by round cells (MGG, ×440) (c) Histology section of cylindroma showing acellular basement membrane like material along with round cells (H and E, ×220)",JCytol-31-213-g001,Match,NotMatch
+PMC6210812,Figure 1,"Nodular hidradenoma (a) fine-needle aspiration smears showing cohesive clusters and sheets of epithelial cells adhered to eosinophilic basement membrane like material (Giemsa stain ×100). (b) Basaloid tumor cells with high N:C ratio, bland chromatin, round to oval nuclei, and moderate amount of cytoplasm with vacoulations at places (Giemsa stain ×400). (c) Histopathological image showing nests and sheets of cells with clear cytoplasm and presence of few cystic spaces (Hematoxylin and Eosin, × 100)",JCytol-35-204-g002,NotMatch,Match
+PMC6210812,Figure 2,"Cylindroma (a) fine-needle aspiration smears showing papillary clusters of basaloid cells with an inset showing presence of hyaline globule (Giemsa stain ×100). (b) Histopathological image showing compact nests of basaloid cells forming jigsaw puzzle (Hematoxylin and Eosin, × 400)",JCytol-35-204-g003,Match,Match
+PMC6210812,Figure 3,"Chondroid syringoma (a) fine-needle aspiration smears showing the presence of abundant chondromyxoid ground substance (Giemsa, ×4) with an inset showing round to plasmacytoid tumor cells with monomorphic, centrally to eccentrically located nuclei, fine chromatin, and moderate to abundant cytoplasm (Giemsa, ×40). (b) Histopathological image showing benign epithelial and myoepithelial cells arranged in nests, tubules, and cords surrounded by chondromyxoid stroma (Hematoxylin and Eosin, ×4)",JCytol-35-204-g004,NotMatch,NotMatch
+PMC2740523,Figure 1,Cylindroma of the scalp,IJPS-41-229-g001,Match,NotMatch
+PMC2740523,Figure 2,Area of resection and drawing flaps of the scalp,IJPS-41-229-g002,NotMatch,NotMatch
+PMC2740523,Figure 3,Schematic drawing of the scalp flap,IJPS-41-229-g003,NotMatch,NotMatch
+PMC2740523,Figure 4,Aggressive local recurrence,IJPS-41-229-g004,NotMatch,NotMatch
+PMC2740523,Figure 5,Sebaceous carcinoma on the superior right eyelid superior,IJPS-41-229-g005,NotMatch,NotMatch
+PMC2740523,Figure 6,Eyelid reconstruction by means of an orbicularioculis musculocutaneous flap,IJPS-41-229-g006,NotMatch,NotMatch
+PMC2740523,Figure 7,Postsurgical result,IJPS-41-229-g007,NotMatch,NotMatch
+PMC2740523,Figure 8,Syringoid eccrine carcinoma of the scalp,IJPS-41-229-g008,NotMatch,NotMatch
+PMC2740523,Figure 9,Resection of the tumor and a designed scalp flap,IJPS-41-229-g009,NotMatch,NotMatch
+PMC2740523,Figure 10,Irrigation of the scalp flap,IJPS-41-229-g010,NotMatch,NotMatch
+PMC2740523,Figure 11,Postsurgical result after two years,IJPS-41-229-g011,NotMatch,NotMatch
+PMC7716756,Figure 1,Nodular tumors on the zygomatic area,CHSJ-46-03-309-fig1,NotMatch,NotMatch
+PMC7716756,Figure 2,Nodular tumors on the nasal pyramid and on the skin part of the upper lip,CHSJ-46-03-309-fig2,NotMatch,NotMatch
+PMC7716756,Figure 3,Erythematous papules with arciform shape and ring shape with hypopigmented center on the upper limbs,CHSJ-46-03-309-fig3,NotMatch,NotMatch
+PMC7716756,Figure 4,"Basal cell carcinoma, nodular type, proliferating cells that forms islands of basaloid cells arising from epidermis and extending into superficial and deep dermis. H-E staining, x10",CHSJ-46-03-309-fig4,NotMatch,NotMatch
+PMC7716756,Figure 5,"Adenoid cystic subtype of basal cell carcinoma. Cyst-like structures with intracystic mucin accumulation, surrounded by basaloid cells’ arrangement and abundant peritumoral inflammatory infiltrate. H-E staining, x5",CHSJ-46-03-309-fig5,NotMatch,NotMatch
+PMC7716756,Figure 6,"Adenoid cystic subtype of basal cell carcinoma (continuation). Adenoid elements with mucin accumulation, abundant peritumoral inflammatory infiltrate. H-E staining, x10",CHSJ-46-03-309-fig6,NotMatch,NotMatch
+PMC7716756,Figure 7,"Area with actinic degeneration with diffuse chronic inflammatory reaction, hyperplasia of the sebaceus glands. H-E staining, x10",CHSJ-46-03-309-fig7,NotMatch,NotMatch
+PMC7716756,Figure 8,"Dermis with epithelioid and gigantocellular cells around slightly degenerated collagen fibers. H-E staining, x20",CHSJ-46-03-309-fig8,NotMatch,Match
+PMC3853602,Figure 1,Family pedigree chart showing affected members in four successive generations,AMHSR-3-3-g001,NotMatch,NotMatch
+PMC3853602,Figure 2,Clinical photograph showing multiple papulonodular lesions on scalp and face,AMHSR-3-3-g002,NotMatch,NotMatch
+PMC3853602,Figure 3,Patient showing multiple papulonodular lesions on leg,AMHSR-3-3-g003,NotMatch,NotMatch
+PMC3853602,Figure 4,Computed tomography brain showing multiple lobulated masses over scalp and face,AMHSR-3-3-g004,NotMatch,NotMatch
+PMC3853602,Figure 5,Gross photograph showing grayish brown growth with an irregular nodular surface,AMHSR-3-3-g005,NotMatch,NotMatch
+PMC3853602,Figure 6,"Photomicrograph of tumor composed of closely set tumor lobules forming mosaic-like masses with jigsaw puzzle pattern separated by thin bands of hyaline material (May-Grünwald, ×400)",AMHSR-3-3-g006,NotMatch,NotMatch
+PMC8870953,Figure 1,Small hyperemic granulomatous area on ACC.,children-09-00292-g001,NotMatch,NotMatch
+PMC8870953,Figure 2,Areas of ulceration on the previous lesion.,children-09-00292-g002,NotMatch,NotMatch
+PMC8870953,Figure 3,"(A,B): Hematoxylin-Eosin. Primary cutaneous adenoid-cystic carcinoma on aplasia cutis of the scalp. Scale bar 100 µm.",children-09-00292-g003,NotMatch,NotMatch
+PMC8870953,Figure 4,Well-healed surgical scar.,children-09-00292-g004,NotMatch,NotMatch
+PMC8312157,Figure 1.,The clinical and gross images of back (a and c) and axillary (b and d) swelling show proliferative tumour. CECT and MRI images (e and f) showing bony infiltration of tumour.,10.1177_2632010X211033840-fig1,NotMatch,NotMatch
+PMC8312157,Figure 2.,"Biopsy section show infiltrative tumour in (a) (H&E × 100). Cytology smear show papillaroid fragments in (b) (H&E × 200). Resection sections show intradermal tumour in (c) (H&E × 100), infiltration in (d and e) (H&E × 200) with clear cells and mucin filled spaces in (f) (H&E × 200).",10.1177_2632010X211033840-fig2,NotMatch,Match
+PMC8312157,Figure 3.,Immunohistochemistery sections (×200) showing: Cytokeratin in (a) and S 100 positivity in (b). Negative staining for CEA in (c) and CD 10 in (d).,10.1177_2632010X211033840-fig3,NotMatch,NotMatch
+PMC8312157,Figure 4.,Gross picture of specimen (a). H&E section (×200) showing focal keratin pearl formation in (b). H&E sections (×100) showing positive margin (c) and perineural invasion (d). Immunohistochemistery sections (×200) showing positivity for p63 (e) and Cytokeratin (f). Negative staining is seen for CD 10 seen in (g) and BerEP4 in (h).,10.1177_2632010X211033840-fig4,NotMatch,Match
+PMC8312157,Figure 5.,"Scalp lesion of the patient (a). H&E section (×4) with pilar type keratinisation and area of clear cells (b). H&E section (×20) Areas of nucleomegaly, nucleolar prominence and mitosis (c). H&E section (×20) with area of pilar differentiation (d).",10.1177_2632010X211033840-fig5,NotMatch,Match
+PMC8312157,Figure 6.,Relationship of adnexal tumour with epidermis.,10.1177_2632010X211033840-fig6,NotMatch,NotMatch
+PMC9527686,Figure 1.,"A) Parieto-occipital spiroadenocylindroma. B) Malignant clues include infiltrative growth (H&E, 4x). C) Other features of malignancy are loss of the dual cell population, cytological atypia and increased mitotic activity (H&E, 20x). D) Histology displays round nodules composed of two types of cells, clear cells and dark cells (H&E, 10x).",dr-14-3-9418-g001,Match,Match
+PMC9527686,Figure 2.,Skin-colored papules on the frontal area.,dr-14-3-9418-g002,NotMatch,NotMatch

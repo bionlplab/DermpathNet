@@ -1,0 +1,19 @@
+pmcid,label,caption,graphic,disease,modality
+PMC5315040,Figure 1,"Clinical appearance. Pigmented papule, 5 mm diameter, nasal dorsum, brown to black, well delimited. The surrounding skin is of normal appearance. (b) Dermoscopic analysis: arborizing vessels (arrows), multiple brown points (circle) and a large blue-gray oval nest structure (triangle). There is little brown pigment dispersed through the lesion (star). [Copyright: ©2017 Enei et al.]",dp0701a08g001,NotMatch,NotMatch
+PMC5315040,Figure 2,"(a) Clinical appearance after one year of evolution. The papule shows no significant changes, including size and color (b) Dermoscopic analysis: the centre of the lesion displays a dense blue-brown pigment with reticular distribution (stars). At the periphery are the extreme distal vessels from Figure 1 (black arrows) and artifacts (black triangles). Two round, yellowish brown structures are in the middle of the pigmented area (segmented arrows). [Copyright: ©2017 Enei et al.]",dp0701a08g002,NotMatch,NotMatch
+PMC5315040,Figure 3,"Histopathologic analysis. Irregularly dilated blood vessels mainly in the superficial dermis, having a prominent endothelium composed of relatively small cells (a), with little cytoplasm and hyperchromatic nuclei, projected towards the lumen (hobnail aspect)(b). [Copyright: ©2017 Enei et al.]",dp0701a08g003,NotMatch,NotMatch
+PMC4230664,FIGURE 1,"Violaceous, targetoid lesion consisting of a papular center surrounded by a paler,
+intermediate area and a peripheral purpuric halo on the upper back",abd-89-06-0956-g01,NotMatch,NotMatch
+PMC4230664,FIGURE 2,"100x. Dermal angiomatous proliferation with dilated vessels in the superficial
+dermis and dissecting collagen bundles in the middle and deep dermis",abd-89-06-0956-g02,NotMatch,Match
+PMC4230664,FIGURE 6,1000x Detail of hobnail endothelial cells,abd-89-06-0956-g06,NotMatch,NotMatch
+PMC4230664,FIGURE 3,"200x. Detail of dilated vessels in the superficial dermis simulating
+angiokeratoma",abd-89-06-0956-g03,NotMatch,Match
+PMC4230664,FIGURE 4,"400x. Peripheral area of the lesion with intense red blood cell extravasation and
+hemosiderin deposition",abd-89-06-0956-g04,NotMatch,Match
+PMC4230664,FIGURE 5,200x. Detail of angulated and slit-like vessels simulating Kaposi's Sarcoma,abd-89-06-0956-g05,NotMatch,Match
+PMC3229956,Fig. 1,A dark brown papule with ecchymotic halo on left upper back (case 1).,ad-23-539-g001,NotMatch,NotMatch
+PMC3229956,Fig. 2,"(A) Wedge-shaped architecture and dilated vessels in the upper dermis (H&E, ×40). (B) Intraluminal papillary projection and hobnail endothelial cells lining superficial vessels (H&E, ×400). (C) Collagen-dissecting, rather narrow vessels and numerous extravasated erythrocytes in deeper dermis (H&E, ×400).",ad-23-539-g002,NotMatch,Match
+PMC3229956,Fig. 3,Strongly positive reaction with CD31 (A) and focal positive reaction with D2-40 (B) (×100).,ad-23-539-g003,NotMatch,Match
+PMC3229956,Fig. 4,Two dusky red to brown plaques with surrounding ecchymotic macular rings on the left knee (case 2).,ad-23-539-g004,NotMatch,NotMatch
+PMC3229956,Fig. 5,"(A) Intraluminal papillary projection and hobnail endothelial cells lining superficial dilated vessels (H&E, ×400). (B) Hemosiderin deposits in deeper dermis (H&E, ×400).",ad-23-539-g005,NotMatch,Match

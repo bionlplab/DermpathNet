@@ -39,7 +39,7 @@
 <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <div class="search-container">
   <input type="text" id="mySearch" placeholder="Search..." onkeyup="searchTree(this.value)">
-  <button onclick="searchTree()">Search</button>
+  <button onclick="searchTree(document.getElementById('mySearch').value)">Search</button>
 </div>
 
 <div id="suggestions"></div>
@@ -69,11 +69,11 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Pleomorphic lipoma"> Pleomorphic lipoma</span>
+                    <span class="node" id="Pleomorphiclipoma"> Pleomorphic lipoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Spindle cell lipoma"> Spindle cell lipoma</span>
+                    <span class="node" id="Spindlecelllipoma"> Spindle cell lipoma</span>
                   </li> 
                 </ul>
               <li><span class="toggle">+</span> Premalignant/Malignant
@@ -91,55 +91,55 @@
                 <ul>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Accessory nipple"> Accessory nipple</span>
+                    <span class="node" id="Accessorynipple"> Accessory nipple</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Adenoma, Sweat Gland"> Adenoma, Sweat Gland</span>
+                    <span class="node" id="AdenomaSweatGland"> Adenoma, Sweat Gland</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Benign chondroid syringoma"> Benign chondroid syringoma</span>
+                    <span class="node" id="Benignchondroidsyringoma"> Benign chondroid syringoma</span>
                   </li> 
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Cylindroma of skin"> Cylindroma of skin</span>
+                    <span class="node" id="Cylindromaofskin"> Cylindroma of skin</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Dermal duct tumor"> Dermal duct tumor</span>
+                    <span class="node" id="Dermalducttumor"> Dermal duct tumor</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Eccrine poroma">Eccrine poroma</span>
+                    <span class="node" id="Eccrineporoma">Eccrine poroma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Eccrine acrospiroma">Eccrine acrospiroma</span>
+                    <span class="node" id="Eccrineacrospiroma">Eccrine acrospiroma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Eccrine angiomatous hamartoma">Eccrine angiomatous hamartoma</span>
+                    <span class="node" id="Eccrineangiomatoushamartoma">Eccrine angiomatous hamartoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Eccrine papillary adenoma">Eccrine papillary adenoma</span>
+                    <span class="node" id="Eccrinepapillaryadenoma">Eccrine papillary adenoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Eccrine spiradenoma">Eccrine spiradenoma</span>
+                    <span class="node" id="Eccrinespiradenoma">Eccrine spiradenoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Hidradenoma papilliferum">Hidradenoma papilliferum</span>
+                    <span class="node" id="Hidradenomapapilliferum">Hidradenoma papilliferum</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Hidroacanthoma simplex">Hidroacanthoma simplex</span>
+                    <span class="node" id="Hidroacanthomasimplex">Hidroacanthoma simplex</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Syringocystadenoma papilliferum">Syringocystadenoma papilliferum</span>
+                    <span class="node" id="Syringocystadenomapapilliferum">Syringocystadenoma papilliferum</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -155,27 +155,27 @@
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Adenoid cystic carcinoma">Adenoid cystic carcinoma</span>
+                      <span class="node" id="Adenoidcysticcarcinoma">Adenoid cystic carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Digital papillary eccrine carcinoma of skin">Digital papillary eccrine carcinoma of skin</span>
+                      <span class="node" id="Digitalpapillaryeccrinecarcinomaofskin">Digital papillary eccrine carcinoma of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Endocrine mucin-producing sweat gland carcinoma">Endocrine mucin-producing sweat gland carcinoma</span>
+                      <span class="node" id="Endocrinemucin-producingsweatglandcarcinoma">Endocrine mucin-producing sweat gland carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Malignant eccrine spiradenoma">Malignant eccrine spiradenoma</span>
+                      <span class="node" id="Malignanteccrinespiradenoma">Malignant eccrine spiradenoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Microcystic adnexal carcinoma">Microcystic adnexal carcinoma</span>
+                      <span class="node" id="Microcysticadnexalcarcinoma">Microcystic adnexal carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Mucinous Adenocarcinoma">Mucinous Adenocarcinoma</span>
+                      <span class="node" id="MucinousAdenocarcinoma">Mucinous Adenocarcinoma</span>
                     </li>
                   </ul>
                 </li>                
@@ -194,19 +194,19 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Congenital bronchogenic cyst">Congenital bronchogenic cyst</span>
+                    <span class="node" id="Congenitalbronchogeniccyst">Congenital bronchogenic cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Dermoid cyst">Dermoid cyst</span>
+                    <span class="node" id="Dermoidcyst">Dermoid cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Epidermal inclusion cyst">Epidermal inclusion cyst</span>
+                    <span class="node" id="Epidermalinclusioncyst">Epidermal inclusion cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Familial thyroglossal duct cyst">Familial thyroglossal duct cyst</span>
+                    <span class="node" id="Familialthyroglossalductcyst">Familial thyroglossal duct cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -214,19 +214,19 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Median raphe cyst">Median raphe cyst</span>
+                    <span class="node" id="Medianraphecyst">Median raphe cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Pilar cyst">Pilar cyst</span>
+                    <span class="node" id="Pilarcyst">Pilar cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Presternal ciliated cyst">Presternal ciliated cyst</span>
+                    <span class="node" id="Presternalciliatedcyst">Presternal ciliated cyst</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Proliferating trichilemmal tumor">Proliferating trichilemmal tumor</span>
+                    <span class="node" id="Proliferatingtrichilemmaltumor">Proliferating trichilemmal tumor</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -234,7 +234,7 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Vellus hair cyst">Vellus hair cyst</span>
+                    <span class="node" id="Vellushaircyst">Vellus hair cyst</span>
                   </li>
                   </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
@@ -253,7 +253,7 @@
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Acquired Digital Fibrokeratoma">Acquired Digital Fibrokeratoma</span>
+                      <span class="node" id="AcquiredDigitalFibrokeratoma">Acquired Digital Fibrokeratoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -261,19 +261,19 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Atypical fibroxanthoma of skin">Atypical fibroxanthoma of skin</span>
+                      <span class="node" id="Atypicalfibroxanthomaofskin">Atypical fibroxanthoma of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Circumscribed storiform collagenoma">Circumscribed storiform collagenoma</span>
+                      <span class="node" id="Circumscribedstoriformcollagenoma">Circumscribed storiform collagenoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Collagen nevus of skin">Collagen nevus of skin</span>
+                      <span class="node" id="Collagennevusofskin">Collagen nevus of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Cutaneous Fibrous Histiocytoma">Cutaneous Fibrous Histiocytoma</span>
+                      <span class="node" id="CutaneousFibrousHistiocytoma">Cutaneous Fibrous Histiocytoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -281,7 +281,7 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Epithelioid fibrous histiocytoma">Epithelioid fibrous histiocytoma</span>
+                      <span class="node" id="Epithelioidfibroushistiocytoma">Epithelioid fibrous histiocytoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -289,15 +289,15 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Fibrous Hamartoma of Infancy">Fibrous Hamartoma of Infancy</span>
+                      <span class="node" id="FibrousHamartomaofInfancy">Fibrous Hamartoma of Infancy</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Fibrous histiocytoma of tendon sheath">Fibrous histiocytoma of tendon sheath</span>
+                      <span class="node" id="Fibroushistiocytomaoftendonsheath">Fibrous histiocytoma of tendon sheath</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Infantile digital fibroma">Infantile digital fibroma</span>
+                      <span class="node" id="Infantiledigitalfibroma">Infantile digital fibroma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -305,7 +305,7 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Multinucleate cell angiohistiocytoma">Multinucleate cell angiohistiocytoma</span>
+                      <span class="node" id="Multinucleatecellangiohistiocytoma">Multinucleate cell angiohistiocytoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -313,30 +313,30 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Nevus elasticus">Nevus elasticus</span>
+                      <span class="node" id="Nevuselasticus">Nevus elasticus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Nodular fasciitis">Nodular fasciitis</span>
+                      <span class="node" id="Nodularfasciitis">Nodular fasciitis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Pleomorphic fibroma">Pleomorphic fibroma</span>
+                      <span class="node" id="Pleomorphicfibroma">Pleomorphic fibroma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Skin tag">Skin tag</span>
+                      <span class="node" id="Skintag">Skin tag</span>
                     </li>
                   </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Dermatofibrosarcoma Protuberans">Dermatofibrosarcoma Protuberans</span>
+                      <span class="node" id="DermatofibrosarcomaProtuberans">Dermatofibrosarcoma Protuberans</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Skin Undifferentiated Pleomorphic Sarcoma">Skin Undifferentiated Pleomorphic Sarcoma</span>
+                      <span class="node" id="Skin UndifferentiatedPleomorphicSarcoma">Skin Undifferentiated Pleomorphic Sarcoma</span>
                     </li>
                   </li>
                   </ul>
@@ -349,23 +349,23 @@
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Acanthoma, Pilar Sheath">Acanthoma, Pilar Sheath</span>
+                      <span class="node" id="AcanthomaPilarSheath">Acanthoma, Pilar Sheath</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Cutaneous Lymphadenoma">Cutaneous Lymphadenoma</span>
+                      <span class="node" id="CutaneousLymphadenoma">Cutaneous Lymphadenoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Desmoplastic Trichoepithelioma">Desmoplastic Trichoepithelioma</span>
+                      <span class="node" id="DesmoplasticTrichoepithelioma">Desmoplastic Trichoepithelioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Desmoplastic trichilemmoma">Desmoplastic trichilemmoma</span>
+                      <span class="node" id="Desmoplastictrichilemmoma">Desmoplastic trichilemmoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Dilated pore of winer">Dilated pore of winer</span>
+                      <span class="node" id="Dilatedporeofwiner">Dilated pore of winer</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -393,7 +393,7 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Tumor of follicular infundibulum">Tumor of follicular infundibulum</span>
+                      <span class="node" id="Tumoroffollicularinfundibulum">Tumor of follicular infundibulum</span>
                     </li>
                   </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
@@ -416,39 +416,39 @@
                 <ul>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Adult T-Cell Lymphoma">Adult T-Cell Lymphoma</span>
+                    <span class="node" id="AdultT-CellLymphoma">Adult T-Cell Lymphoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Leukemic infiltration of skin">Leukemic infiltration of skin</span>
+                    <span class="node" id="Leukemicinfiltrationofskin">Leukemic infiltration of skin</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Lymphoma T-Cell Cutaneous">Lymphoma, T-Cell, Cutaneous</span>
+                    <span class="node" id="LymphomaT-CellCutaneous">Lymphoma, T-Cell, Cutaneous</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Lymphomatoid papulosis">Lymphomatoid papulosis</span>
+                    <span class="node" id="Lymphomatoidpapulosis">Lymphomatoid papulosis</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Mycosis fungoides">Mycosis fungoides</span>
+                    <span class="node" id="Mycosisfungoides">Mycosis fungoides</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Nasal Type Extranodal NK">Nasal Type Extranodal NK</span>
+                    <span class="node" id="NasalTypeExtranodalNK">Nasal Type Extranodal NK</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Primary cutaneous anaplastic large cell lymphoma">Primary cutaneous anaplastic large cell lymphoma</span>
+                    <span class="node" id="Primarycutaneousanaplasticlargecelllymphoma">Primary cutaneous anaplastic large cell lymphoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Primary cutaneous B-cell lymphoma">Primary cutaneous B-cell lymphoma</span>
+                    <span class="node" id="PrimarycutaneousB-celllymphoma">Primary cutaneous B-cell lymphoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Subcutaneous panniculitis-like T-cell lymphoma">Subcutaneous panniculitis-like T-cell lymphoma</span>
+                    <span class="node" id="Subcutaneouspanniculitis-likeT-celllymphoma">Subcutaneous panniculitis-like T-cell lymphoma</span>
                   </li>
               </ul>
               </li>
@@ -462,35 +462,35 @@
               <ul>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Acanthoma, Clear Cell">Acanthoma, Clear Cell</span>
+                  <span class="node" id="AcanthomaClearCell">Acanthoma, Clear Cell</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Basal cell papilloma clonal type">Basal cell papilloma clonal type</span>
+                  <span class="node" id="Basalcellpapillomaclonaltype">Basal cell papilloma clonal type</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Epidermal nevus">Epidermal nevus</span>
+                  <span class="node" id="Epidermalnevus">Epidermal nevus</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Familial benign pemphigus">Familial benign pemphigus</span>
+                  <span class="node" id="Familialbenignpemphigus">Familial benign pemphigus</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Hyperkeratosis Lenticularis Perstans">Hyperkeratosis Lenticularis Perstans</span>
+                  <span class="node" id="HyperkeratosisLenticularisPerstans">Hyperkeratosis Lenticularis Perstans</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Hyperkeratosis, Epidermolytic">Hyperkeratosis Epidermolytic</span>
+                  <span class="node" id="HyperkeratosisEpidermolytic">Hyperkeratosis Epidermolytic</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Inflammatory linear verrucous epidermal nevus">Inflammatory linear verrucous epidermal nevus</span>
+                  <span class="node" id="Inflammatorylinearverrucousepidermalnevus">Inflammatory linear verrucous epidermal nevus</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Inverted follicular keratosis">Inverted follicular keratosis</span>
+                  <span class="node" id="Invertedfollicularkeratosis">Inverted follicular keratosis</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
@@ -498,7 +498,7 @@
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Nevus comedonicus">Nevus comedonicus</span>
+                  <span class="node" id="Nevuscomedonicus">Nevus comedonicus</span>
                 </li>
                 <li>
                   <span class="toggle">+</span>
@@ -506,46 +506,46 @@
                 </li>
                 <li>
                   <span class="toggle">+</span>
-                  <span class="node" id="Warty dyskeratoma">Warty dyskeratoma</span>
+                  <span class="node" id="Wartydyskeratoma">Warty dyskeratoma</span>
                 </li>
               </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Acantholytic actinic keratosis">Acantholytic actinic keratosis</span>
+                      <span class="node" id="Acantholyticactinickeratosis">Acantholytic actinic keratosis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Actinic keratosis">Actinic keratosis</span>
+                      <span class="node" id="Actinickeratosis">Actinic keratosis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Basal cell carcinoma Adenoid">Basal cell carcinoma, Adenoid</span>
+                      <span class="node" id="BasalcellcarcinomaAdenoid">Basal cell carcinoma, Adenoid</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Basal cell carcinoma Infundibulocystic">Basal cell carcinoma, Infundibulocystic</span>
+                      <span class="node" id="BasalcellcarcinomaInfundibulocystic">Basal cell carcinoma, Infundibulocystic</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Basal cell carcinoma Micronodular">Basal cell carcinoma, Micronodular</span>
+                      <span class="node" id="BasalcellcarcinomaMicronodular">Basal cell carcinoma, Micronodular</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Basal cell carcinoma Nodular">Basal cell carcinoma, Nodular</span>
+                      <span class="node" id="BasalcellcarcinomaNodular">Basal cell carcinoma, Nodular</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Bowenoid actinic keratosis">Bowenoid actinic keratosis</span>
+                      <span class="node" id="Bowenoidactinickeratosis">Bowenoid actinic keratosis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Fibroepithelioma of Pinkus">Fibroepithelioma of Pinkus</span>
+                      <span class="node" id="FibroepitheliomaofPinkus">Fibroepithelioma of Pinkus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Hypertrophic solar keratosis">Hypertrophic solar keratosis</span>
+                      <span class="node" id="Hypertrophicsolarkeratosis">Hypertrophic solar keratosis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -553,39 +553,39 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Lichenoid actinic keratosis">Lichenoid actinic keratosis</span>
+                      <span class="node" id="Lichenoidactinickeratosis">Lichenoid actinic keratosis</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Morpheaform basal cell carcinoma">Morpheaform basal cell carcinoma</span>
+                      <span class="node" id="Morpheaformbasalcellcarcinoma">Morpheaform basal cell carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Paget Disease Extramammary">Paget Disease Extramammary</span>
+                      <span class="node" id="PagetDiseaseExtramammary">Paget Disease Extramammary</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Pigmented basal cell carcinoma">Pigmented basal cell carcinoma</span>
+                      <span class="node" id="Pigmentedbasalcellcarcinoma">Pigmented basal cell carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Skin Squamous Cell Carcinoma In Situ">Skin Squamous Cell Carcinoma In Situ</span>
+                      <span class="node" id="SkinSquamousCellCarcinomaInSitu">Skin Squamous Cell Carcinoma In Situ</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Squamous cell carcinoma">Squamous cell carcinoma</span>
+                      <span class="node" id="Squamouscellcarcinoma">Squamous cell carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Squamous cell carcinoma spindle cell">Squamous cell carcinoma, spindle cell</span>
+                      <span class="node" id="Squamouscellcarcinomaspindlecell">Squamous cell carcinoma, spindle cell</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Superficial basal cell carcinoma">Superficial basal cell carcinoma</span>
+                      <span class="node" id="Superficialbasalcellcarcinoma">Superficial basal cell carcinoma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Verrucous carcinoma">Verrucous carcinoma</span>
+                      <span class="node" id="Verrucouscarcinoma">Verrucous carcinoma</span>
                     </li>
                   </ul>
               </ul>
@@ -597,23 +597,23 @@
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Acquired melanocytic nevus">Acquired melanocytic nevus</span>
+                      <span class="node" id="Acquiredmelanocyticnevus">Acquired melanocytic nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Balloon cell nevus">Balloon cell nevus</span>
+                      <span class="node" id="Ballooncellnevus">Balloon cell nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Blue nevus">Blue nevus</span>
+                      <span class="node" id="Bluenevus">Blue nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Café-au-lait macules with temporal dysrhythmia">Café-au-lait macules with temporal dysrhythmia</span>
+                      <span class="node" id="Café-au-laitmaculeswithtemporaldysrhythmia">Café-au-lait macules with temporal dysrhythmia</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Congenital melanocytic nevus">Congenital melanocytic nevus</span>
+                      <span class="node" id="Congenitalmelanocyticnevus">Congenital melanocytic nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -621,38 +621,38 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Halo nevus">Halo nevus</span>
+                      <span class="node" id="Halonevus">Halo nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Lentigo simplex">Lentigo simplex</span>
+                      <span class="node" id="Lentigosimplex">Lentigo simplex</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Recurrent melanocytic nevus">Recurrent melanocytic nevus</span>
+                      <span class="node" id="Recurrentmelanocyticnevus">Recurrent melanocytic nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Severe growth deficiency strabismus extensive dermal melanocytosis intellectual disability syndrome">Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome</span>
+                      <span class="node" id="Severegrowthdeficiencystrabismusextensivedermalmelanocytosisintellectualdisabilitysyndrome">Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Solar lentigo">Solar lentigo</span>
+                      <span class="node" id="Solarlentigo">Solar lentigo</span>
                     </li>
                   </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Deep penetrating melanocytic nevus">Deep penetrating melanocytic nevus</span>
+                      <span class="node" id="Deeppenetratingmelanocyticnevus">Deep penetrating melanocytic nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Dysplastic Nevus">Dysplastic Nevus</span>
+                      <span class="node" id="DysplasticNevus">Dysplastic Nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Epithelioid and spindle cell nevus">Epithelioid and spindle cell nevus</span>
+                      <span class="node" id="Epithelioidandspindlecellnevus">Epithelioid and spindle cell nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -671,19 +671,19 @@
                 <ul>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Cellular neurothekeoma">Cellular neurothekeoma</span>
+                    <span class="node" id="Cellularneurothekeoma">Cellular neurothekeoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Dermal nerve sheath myxoma">Dermal nerve sheath myxoma</span>
+                    <span class="node" id="Dermalnervesheathmyxoma">Dermal nerve sheath myxoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Ganglioneuroma of skin">Ganglioneuroma of skin</span>
+                    <span class="node" id="Ganglioneuromaofskin">Ganglioneuroma of skin</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Granular cell tumor">Granular cell tumor</span>
+                    <span class="node" id="Granularcelltumor">Granular cell tumor</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -695,7 +695,7 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Palisaded encapsulated neuroma">Palisaded encapsulated neuroma</span>
+                    <span class="node" id="Palisadedencapsulatedneuroma">Palisaded encapsulated neuroma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -707,18 +707,18 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Traumatic neuroma">Traumatic neuroma</span>
+                    <span class="node" id="Traumaticneuroma">Traumatic neuroma</span>
                   </li>
                   </ul>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Malignant peripheral nerve sheath tumor">Malignant peripheral nerve sheath tumor</span>
+                      <span class="node" id="Malignantperipheralnervesheathtumor">Malignant peripheral nerve sheath tumor</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Merkel cell carcinoma">Merkel cell carcinoma</span>
+                      <span class="node" id="Merkelcellcarcinoma">Merkel cell carcinoma</span>
                     </li> 
                     <li>
                       <span class="toggle">+</span>
@@ -739,7 +739,7 @@
                 <ul>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Nevus Sebaceus of Jadassohn">Nevus Sebaceus of Jadassohn</span>
+                    <span class="node" id="NevusSebaceusofJadassohn">Nevus Sebaceus of Jadassohn</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
@@ -747,18 +747,18 @@
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Sebaceous adenoma">Sebaceous adenoma</span>
+                    <span class="node" id="Sebaceousadenoma">Sebaceous adenoma</span>
                   </li>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Sebaceous hyperplasia">Sebaceous hyperplasia</span>
+                    <span class="node" id="Sebaceoushyperplasia">Sebaceous hyperplasia</span>
                   </li>
                     </ul>
                   <li><span class="toggle">+</span> Premalignant/Malignant
                     <ul>
                       <li>
                         <span class="toggle">+</span>
-                        <span class="node" id="Sebaceous Adenocarcinoma">Sebaceous Adenocarcinoma</span>
+                        <span class="node" id="SebaceousAdenocarcinoma">Sebaceous Adenocarcinoma</span>
                       </li>
                     </ul>
                   </li>
@@ -770,15 +770,15 @@
                 <ul>
                   <li>
                     <span class="toggle">+</span>
-                    <span class="node" id="Genital leiomyoma">Genital leiomyoma</span>
+                    <span class="node" id="Genitalleiomyoma">Genital leiomyoma</span>
                   </li>
                         <li>
                           <span class="toggle">+</span>
-                          <span class="node" id="Pigmented hairy epidermal nevus">Pigmented hairy epidermal nevus</span>
+                          <span class="node" id="Pigmentedhairyepidermalnevus">Pigmented hairy epidermal nevus</span>
                         </li>
                         <li>
                           <span class="toggle">+</span>
-                          <span class="node" id="Pilar leiomyoma">Pilar leiomyoma</span>
+                          <span class="node" id="Pilarleiomyoma">Pilar leiomyoma</span>
                         </li>
                       </li>
                 </ul>
@@ -803,31 +803,31 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Angioma serpiginosum">Angioma serpiginosum</span>
+                      <span class="node" id="Angiomaserpiginosum">Angioma serpiginosum</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Angiomatosis Bacillary">Angiomatosis, Bacillary</span>
+                      <span class="node" id="AngiomatosisBacillary">Angiomatosis, Bacillary</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Congenital arteriovenous malformation">Congenital arteriovenous malformation</span>
+                      <span class="node" id="Congenitalarteriovenousmalformation">Congenital arteriovenous malformation</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Epithelioid hemangioma of skin">Epithelioid hemangioma of skin</span>
+                      <span class="node" id="Epithelioidhemangiomaofskin">Epithelioid hemangioma of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Glomeruloid hemangioma">Glomeruloid hemangioma</span>
+                      <span class="node" id="Glomeruloidhemangioma">Glomeruloid hemangioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Glomus tumor">Glomus tumor</span>
+                      <span class="node" id="Glomustumor">Glomus tumor</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Hemangioma Cavernous">Hemangioma, Cavernous</span>
+                      <span class="node" id="HemangiomaCavernous">Hemangioma, Cavernous</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -835,15 +835,15 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Hobnail Hemangioma">Hobnail Hemangioma</span>
+                      <span class="node" id="HobnailHemangioma">Hobnail Hemangioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Intravascular papillary endothelial hyperplasia">Intravascular papillary endothelial hyperplasia</span>
+                      <span class="node" id="Intravascularpapillaryendothelialhyperplasia">Intravascular papillary endothelial hyperplasia</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Kimura disease">Kimura disease</span>
+                      <span class="node" id="Kimuradisease">Kimura disease</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -851,35 +851,35 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Microvenular hemangioma">Microvenular hemangioma</span>
+                      <span class="node" id="Microvenularhemangioma">Microvenular hemangioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Port-Wine Stain">Port-Wine Stain</span>
+                      <span class="node" id="Port-WineStain">Port-Wine Stain</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Pyogenic granuloma">Pyogenic granuloma</span>
+                      <span class="node" id="Pyogenicgranuloma">Pyogenic granuloma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Senile angioma">Senile angioma</span>
+                      <span class="node" id="Senileangioma">Senile angioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Spindle cell hemangioma">Spindle cell hemangioma</span>
+                      <span class="node" id="Spindlecellhemangioma">Spindle cell hemangioma</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Strawberry nevus of skin">Strawberry nevus of skin</span>
+                      <span class="node" id="Strawberrynevusofskin">Strawberry nevus of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Tufted angioma of skin">Tufted angioma of skin</span>
+                      <span class="node" id="Tuftedangiomaofskin">Tufted angioma of skin</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Venous lake">Venous lake</span>
+                      <span class="node" id="Venouslake">Venous lake</span>
                     </li>
                   </ul>
                   
@@ -891,11 +891,11 @@
                       </li>
                       <li>
                         <span class="toggle">+</span>
-                        <span class="node" id="Kaposi sarcoma">Kaposi sarcoma</span>
+                        <span class="node" id="Kaposisarcoma">Kaposi sarcoma</span>
                       </li>
                       <li>
                         <span class="toggle">+</span>
-                        <span class="node" id="Kaposiform hemangioendothelioma">Kaposiform hemangioendothelioma</span>
+                        <span class="node" id="Kaposiformhemangioendothelioma">Kaposiform hemangioendothelioma</span>
                       </li>
                     </li>
                     </ul>

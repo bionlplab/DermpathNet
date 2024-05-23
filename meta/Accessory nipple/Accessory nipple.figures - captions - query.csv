@@ -1,0 +1,63 @@
+pmcid,label,caption,graphic,disease,modality
+PMC4516107,FIGURE 1,A 5x5 mm brownish-pinknodule along the right milkline,abd-90-03-0434-g01,NotMatch,NotMatch
+PMC4516107,FIGURE 2,"Dermatoscopy of accessory nipple with peripheral pigment network and a central
+scar-like patch",abd-90-03-0434-g02,Match,NotMatch
+PMC4516107,FIGURE 3,"Digital microscopy of accessory nipple (Arrow shows cleft-like appearance
+responding to nipple tip)",abd-90-03-0434-g03,Match,NotMatch
+PMC2639561,Figure 1,Congenital abnormality known as nipple dichotomy or intra-areolar polythelia (description in the text).,1757-1626-2-32-1,NotMatch,NotMatch
+PMC2639561,Figure 2,Excision of the nipple-areola complex along with underlying parenchyma (central quadrantectomy); the lower skin circle will replace the excised areola.,1757-1626-2-32-2,NotMatch,NotMatch
+PMC2639561,Figure 3,Results at 6 months after surgery.,1757-1626-2-32-3,NotMatch,NotMatch
+PMC6351429,Fig. 1,"Showing the supernumerary nipple behind the anterior border of latissimus dorsi muscle, the costal margin is marked anteriorly with the normal right nipple shown.",gr1,Match,NotMatch
+PMC4689912,Figure 1,Volar view of forearm.,CRIS2015-752479.001,NotMatch,NotMatch
+PMC4689912,Figure 2,Lateral view of forearm.,CRIS2015-752479.002,NotMatch,NotMatch
+PMC4689912,Figure 3,Accessory nipple in “milk line.”,CRIS2015-752479.003,Match,NotMatch
+PMC4689912,Figure 4,Resected specimen.,CRIS2015-752479.004,NotMatch,NotMatch
+PMC4689912,Figure 5,Low power pathology slide (features of accessory nipple including increase in pilosebaceous units and smooth muscle bundles).,CRIS2015-752479.005,Match,NotMatch
+PMC4689912,Figure 6,High power pathology slide (sebaceous gland with increase in surrounding smooth muscle bundles).,CRIS2015-752479.006,NotMatch,NotMatch
+PMC7256431,Fig 1,Pink sclerotic 1.5-cm plaque in left inframammary region.,gr1,NotMatch,NotMatch
+PMC7256431,Fig 2,High-power hematoxylin-eosin staining revealing poorly differentiated infiltrative breast carcinoma.,gr2,NotMatch,NotMatch
+PMC7256431,Fig 3,"A, Lesion before biopsy. B, Lesion with tumor shrinkage after 8 months of treatment with fulvestrant and anastrozole.",gr3,NotMatch,NotMatch
+PMC7256431,Fig 4,Anatomic location of ectopic breast tissue.,gr4,NotMatch,NotMatch
+PMC4112267,Figure 1,"Clinical and dermoscopic presentation of multiple, unilateral accessory nipples. A 42-year-old patient with two accessory nipples, linearly distributed within the left milk line (b) – in the first line, (c) – in the second line, with a tendency to decline the further away the AN was situated from the normal nipple (a)",PDIA-31-22872-g001,Match,NotMatch
+PMC4112267,Figure 2,"Dermoscopic image of a normal male nipple – the central homogenous whitish and pinkish structureless area with multiple, small whitish globules corresponding to the tip of the nipple are all duly noted. Light-brownish network-like structures with several, tiny, regular, roundish globules were also observed in the areola",PDIA-31-22872-g002,NotMatch,NotMatch
+PMC4112267,Figure 3,Dermoscopic picture of the first-line accessory nipple shows the central scar-like structureless area with a small central dimpling. Light-brown irregular peripheral network-like structures surround the central part of the accessory nipple,PDIA-31-22872-g003,Match,NotMatch
+PMC4112267,Figure 4,Dermoscopic image of the second-line accessory nipple presents a flat central scar-like area with peripheral network-like structures,PDIA-31-22872-g004,Match,NotMatch
+PMC4112267,Figure 5,"Central white scar-like area. Dermoscopy reveals a centrally located, sharply circumscribed, oval, white area surrounded by a peripheral network (network-like structures). Small dots comparable to these of the fisheye-like structures are also visible in the central part of the lesion, resembling comedo-like openings",PDIA-31-22872-g005,NotMatch,NotMatch
+PMC4112267,Figure 6,"The dermoscopic image shows the presence of central network-like structures covering the whole part of the AN. Numerous, small dark-brown dots, referred to as fisheye-like structures are visible in the central area. These are sharply circumscribed, round structures mimicking comedo-like openings",PDIA-31-22872-g006,NotMatch,NotMatch
+PMC4112267,Figure 7,"Cleft-like appearance. A cleft dividing the nipple into two nearly equal parts has been observed in the central part of the accessory nipple. The cleft-like appearance corresponds with the tip of the nipple. Moreover, the presence of central network-like structures and the white cobblestone- like pattern have been noted",PDIA-31-22872-g007,Match,NotMatch
+PMC4112267,Figure 8,"Dermoscopic image of the AN described as a white cobblestone-like pattern. The presence of central network-like structures has been observed within the AN, covering the entire nipple, which divides its background into numerous, closely aggregated, larger, angulated whitish globules resembling cobblestones, described as the white cobblestone-like pattern",PDIA-31-22872-g008,NotMatch,NotMatch
+PMC4112267,Figure 9,Dermoscopy shows the presence of a central round dimpling with a darker plug and an accompanying central scar-white area surrounded by a peripheral network (network-like structures),PDIA-31-22872-g009,NotMatch,NotMatch
+PMC4112267,Figure 10,"Dermoscopy revealed the presence of a central round dimpling with a darker centre surrounded by a brownish, peripheral network (network-like structures). Fisheye-like structures are visible in the central part of the lesion",PDIA-31-22872-g010,NotMatch,NotMatch
+PMC4112267,Figure 11,Frequency of occurrence of selected analysed dermoscopic features in the absence of central network-like structures,PDIA-31-22872-g011,NotMatch,NotMatch
+PMC4112267,Figure 12,Frequency of occurrence of selected analysed dermoscopic features in the absence of peripheral network (network-like) structures,PDIA-31-22872-g012,NotMatch,NotMatch
+PMC7220069,Figure 1,"(A) A female, 61 years’ old, with ulceration, erosion, and pain in the left nipple. (B) Ultrasonography revealed dilated irregular subareolar ducts with microcalcifications in ultrasonic firefly imaging. (C) Paget's disease of the nipple, ductal carcinoma below the nipple. Immunohistochemical results: CK5/6 (+), Syn (−), ERα (−), CK14 (+), Her2 (3+), EGFR (2+), Ki-67 (index 20%), p53 (+), PR (−), and CgA (−).",medi-99-e19728-g005,NotMatch,Match
+PMC7220069,Figure 2,"(A) A female, 62 years’ old, with ulceration, pruritus, pain, and blood in the right nipple. (B) Ultrasonography revealed a hypervascularity lesion in CDFI. (C) Paget's disease of the nipple, ductal carcinoma below the nipple. Immunohistochemical results: CK5/6 (−), CK7 (+), ERα (−), CK20 (−), Her2 (3+), GCDFP-15 (−), Ki-67 (index 60%), S100 (−), p53 (+), p63 (−), and PR (−).",medi-99-e19728-g006,NotMatch,NotMatch
+PMC7220069,Figure 3,"(A) Female patient, 31 years’ old. A nodule on right nipple with an opening in the center. A yellowish-white liquid can be produced after the extrusion of the nipple, as well as erosion and crusting in places. (B) Sonography showed well-defined hypoechoic nodules in the inferior part of the nipple. (C) The color Doppler revealed increased blood flow signals in the nodule.",medi-99-e19728-g007,NotMatch,NotMatch
+PMC7220069,Figure 4,"(A) Swollen left nipple compared with the right nipple. The male patient's left nipple had an elevated polypoid nodule of light brownish color. (B) Ultrasonography shows an irregular, hypoechoic nodule with rare blood flow into the mass.",medi-99-e19728-g008,NotMatch,NotMatch
+PMC7220069,Figure 5,"(A) Female patient, 32 years’ old. Presented with left nipple retraction for 2 months. (B) A hypoechoic nodule with unclear margin, irregular shape, and heterogeneous internal echo in the posterior of the nipple (arrow).",medi-99-e19728-g009,NotMatch,NotMatch
+PMC7220069,Figure 6,"(A) Female patient, 22 years’ old. A soft skin tag in the left nipple. (B) Ultrasonography shows a regular, hypoechoic nodule adjacent to the nipple (arrow).",medi-99-e19728-g010,NotMatch,NotMatch
+PMC7220069,Figure 7,"(A) An accessory nipple in the subcoastal area. (B) An accessory nipple in the areola, similar in size to the normal nipple.",medi-99-e19728-g011,Match,NotMatch
+PMC8426447,Fig. 1,Wide resection (black circle) and sentinel node biopsy (SN),40792_2021_1285_Fig1_HTML,NotMatch,NotMatch
+PMC8426447,Fig. 2,A hypoechoic mass 1.7 × 1.4 × 1.2 cm in size (T) under the inner site of the accessory nipple (AN),40792_2021_1285_Fig2_HTML,Match,NotMatch
+PMC8426447,Fig. 3,Enhanced irregular mass connected to the dermal nodule,40792_2021_1285_Fig3_HTML,NotMatch,NotMatch
+PMC8426447,Fig. 4,"Both RI and ICG were detected in an axillary node. (RI scintigraphy, A Injection Site, B Sentinel Node)",40792_2021_1285_Fig4_HTML,NotMatch,NotMatch
+PMC8426447,Fig.5,"a Invasive ductal carcinoma including an intraductal component was connected to the accessory nipple (AN) with normal ductal tissue. b Normal ductal tissue under the AN. c Invasive ductal carcinoma × 400. d Estrogen receptor-positive. e Progesterone receptor-positive. f Her2/neu-negative. g Ki-67 labeling index, 20%",40792_2021_1285_Fig5_HTML,Match,NotMatch
+PMC2008552,Figs. 17-18,,brjcancer00358-0014-a,Empty,Empty
+PMC2008552,Figs. 1-3,,brjcancer00358-0009-a,Empty,Empty
+PMC2008552,Figs. 14-16,,brjcancer00358-0013-a,Empty,Empty
+PMC2008552,Figs. 19-21,,brjcancer00358-0015-a,Empty,Empty
+PMC2008552,Figs. 4-6,,brjcancer00358-0010-a,Empty,Empty
+PMC2008552,Figs. 7-10,,brjcancer00358-0011-a,Empty,Empty
+PMC2008552,Figs. 11-13,,brjcancer00358-0012-a,Empty,Empty
+PMC10516387,Video 1,displays the infiltration and liposuction technique.,,NotMatch,NotMatch
+PMC10516387,Fig. 1.,Glandular breast tissue in the axillary region. This tissue is removed using a combination of curved Mayo scissors to elevate the skin flaps and Bovie cautery for hemostasis.,gox-11-e5189-g001,NotMatch,NotMatch
+PMC10516387,Fig. 2.,"A patient with severe skin laxity, fat, and glandular tissue underwent bilateral liposuction with excision of the excess axillary breast tissue (A). The postoperative image (B) demonstrates the hidden scar placed high in the axillary crease.",gox-11-e5189-g002,NotMatch,NotMatch
+PMC10516387,Video 2,displays axillary tissue removal. Part 1.,,NotMatch,NotMatch
+PMC10516387,Video 3,displays axillary tissue removal. Part 2.,,NotMatch,NotMatch
+PMC10516387,Video 4,displays the skin removal technique and drain placement.,,NotMatch,NotMatch
+PMC10516387,Fig. 3.,Algorithm for excess axillary breast tissue management.,gox-11-e5189-g003,NotMatch,NotMatch
+PMC10516387,Fig. 4.,Grade 1 axillary breast tissue. Grade 1 before (A) and after (B) treatment. Patient with no skin laxity and minimal fat underwent bilateral CoolSculpting for removal of excess axillary breast tissue.,gox-11-e5189-g004,NotMatch,NotMatch
+PMC10516387,Fig. 5.,Grade 2 axillary breast tissue. Grade 2 before (A) and after (B) treatment. Patient with mild skin laxity and fat underwent bilateral BodyTite liposuction for removal of excess axillary breast tissue. The patient also underwent bilateral breast augmentation at the same time as the removal of axillary breast tissue.,gox-11-e5189-g005,NotMatch,NotMatch
+PMC10516387,Fig. 6.,Grade 3 axillary breast tissue. Grade 3 before (A) and after (B) treatment. Patient with moderate skin laxity and fat underwent bilateral liposuction with excision of excess axillary breast tissue.,gox-11-e5189-g006,NotMatch,NotMatch
+PMC10516387,Fig. 7.,"Grade 4 axillary breast tissue. Grade 4 before (A) and after (B) treatment. Patient with severe skin laxity, fat, and glandular tissue underwent bilateral liposuction with excision of the excess axillary breast tissue.",gox-11-e5189-g007,NotMatch,NotMatch
+PMC10516387,Fig. 8.,Axillary breast tissue with bilateral accessory nipples. Before (A) and after (B) treatment. Patient with bilateral accessory nipples underwent bilateral excision of axillary nipples and excess axillary breast tissue.,gox-11-e5189-g008,Match,NotMatch

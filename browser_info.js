@@ -90,7 +90,7 @@ function showNodeInfo(nodeId) {
               '<p>Type: Benign</p>' +
               '<p>UMLS: C0023798</p>';
   }
-  else if (nodeId === 'Pleomorphic lipoma') {
+  else if (nodeId === 'Pleomorphiclipoma') {
     content = '<h3>Pleomorphic lipoma</h3>' +
               '<p>MESH: D008067</p>' +
               '<p>Preferred Name: Pleomorphic lipoma</p>' +
@@ -115,7 +115,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Pleomorphic lipoma/PMC8000249-diagnostics-11-00430-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8000249/bin/diagnostics-11-00430-g004.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Pleomorphic lipoma/PMC3584920-1746-1596-7-155-2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584920/bin/1746-1596-7-155-2.jpg" /></a>';
   }
-  else if (nodeId === 'Spindle cell lipoma') {
+  else if (nodeId === 'Spindlecelllipoma') {
     content = '<h3>Spindle cell lipoma</h3>' +
               '<p>MESH: D008067</p>' +
               '<p>Preferred Name: Spindle cell lipoma</p>' +
@@ -410,7 +410,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Liposarcoma/PMC8001728-diagnostics-11-00496-g009.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8001728/bin/diagnostics-11-00496-g009.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Liposarcoma/PMC4861833-gr4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4861833/bin/gr4.jpg" /></a>';
   }
-  else if (nodeId === 'Accessory nipple') {
+  else if (nodeId === 'Accessorynipple') {
     content = '<h3>Accessory nipple</h3>' +
               '<p>MESH: C562557</p>' +
               '<p>Preferred Name: Accessory nipple</p>' +
@@ -429,7 +429,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Accessory nipple/PMC4516107-abd-90-03-0434-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516107/bin/abd-90-03-0434-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Accessory nipple/PMC7220069-medi-99-e19728-g011.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7220069/bin/medi-99-e19728-g011.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Accessory nipple/PMC4516107-abd-90-03-0434-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4516107/bin/abd-90-03-0434-g02.jpg" /></a>';}
-  else if (nodeId === 'Adenoma, Sweat Gland') {
+  else if (nodeId === 'AdenomaSweatGland') {
     content = '<h3>Adenoma, Sweat Gland</h3>' +
               '<p>MESH: D006607</p>' +
               '<p>Preferred Name: Adenoma, Sweat Gland</p>' +
@@ -440,7 +440,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Adenoma, Sweat Gland/PMC8564211-ACP2021-7866471.003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8564211/bin/ACP2021-7866471.003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Adenoma, Sweat Gland/PMC6256207-abd-93-06-0896-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6256207/bin/abd-93-06-0896-g02.jpg" /></a>';
   }
-  else if (nodeId === 'Benign chondroid syringoma') {
+  else if (nodeId === 'Benignchondroidsyringoma') {
     content = '<h3>Benign chondroid syringoma</h3>' +
               '<p>Preferred Name: Benign chondroid syringoma</p>' +
               '<p>Synonyms: Chondroid syringoma</p>'+ 
@@ -459,7 +459,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Benign chondroid syringoma/PMC9985670-cureus-0015-00000034571-i01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9985670/bin/cureus-0015-00000034571-i01.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Benign chondroid syringoma/PMC3375201-1746-160X-8-8-2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3375201/bin/1746-160X-8-8-2.jpg" /></a>';
   }
-  else if (nodeId === 'Cylindroma of skin') {
+  else if (nodeId === 'Cylindromaofskin') {
     content = '<h3>Cylindroma of skin</h3>' +
               '<p>Preferred Name: Cylindroma of skin</p>' +
               '<p>Synonyms: Cylindroma</p>'+ 
@@ -471,7 +471,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Cylindroma of skin/PMC6210812-JCytol-35-204-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210812/bin/JCytol-35-204-g003.jpg" /></a>';
   }
 
-  else if (nodeId === 'Dermal duct tumor') {
+  else if (nodeId === 'Dermalducttumor') {
     content = '<h3>Dermal duct tumor</h3>' +
               '<p>MESH: D057091</p>' +
               '<p>Preferred Name: Dermal duct tumor</p>' +
@@ -482,7 +482,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Dermal duct tumor/PMC8883970-dermatopathology-09-00007-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8883970/bin/dermatopathology-09-00007-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Dermal duct tumor/PMC8883970-dermatopathology-09-00007-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8883970/bin/dermatopathology-09-00007-g003.jpg" /></a>';
   }
-  else if (nodeId === 'Eccrine poroma') {
+  else if (nodeId === 'Eccrineporoma') {
     content = '<h3>Eccrine poroma</h3>' +
               '<p>MESH: D057091</p>' +
               '<p>Preferred Name: Eccrine poroma</p>' +
@@ -534,7 +534,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Eccrine Poroma/PMC4966403-IJD-61-430-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4966403/bin/IJD-61-430-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Eccrine Poroma/PMC5595608-abd-92-04-0550-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5595608/bin/abd-92-04-0550-g03.jpg" /></a>';
   }
-  else if (nodeId === 'Eccrine acrospiroma') {
+  else if (nodeId === 'Eccrineacrospiroma') {
     content = '<h3>Eccrine acrospiroma</h3>' +
               '<p>MESH: D018250</p>' +
               '<p>Preferred Name: Eccrine acrospiroma</p>' +
@@ -547,7 +547,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Eccrine acrospiroma/PMC4456892-IJABMR-5-145-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4456892/bin/IJABMR-5-145-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Eccrine acrospiroma/PMC4456892-IJABMR-5-145-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4456892/bin/IJABMR-5-145-g002.jpg" /></a>';
   }
-  else if (nodeId === 'Eccrine angiomatous hamartoma') {
+  else if (nodeId === 'Eccrineangiomatoushamartoma') {
     content = '<h3>Eccrine angiomatous hamartoma</h3>' +
               '<p>MESH: D018250 (unsure) </p>' +
               '<p>Preferred Name: Eccrine angiomatous hamartoma</p>' +
@@ -567,7 +567,7 @@ function showNodeInfo(nodeId) {
 '<a href="image_filtered/Webpages_for_image/Eccrine angiomatous hamartoma/PMC9681171-dp1204a161g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9681171/bin/dp1204a161g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Eccrine angiomatous hamartoma/PMC8530048-IJD-66-431-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530048/bin/IJD-66-431-g003.jpg" /></a>';
   }
-  else if (nodeId === 'Eccrine papillary adenoma') {
+  else if (nodeId === 'Eccrinepapillaryadenoma') {
     content = '<h3>Eccrine papillary adenoma</h3>' +
               '<p>MESH: D018250</p>' +
               '<p>Preferred Name: Eccrine papillary adenoma</p>' +
@@ -576,7 +576,7 @@ function showNodeInfo(nodeId) {
               '<p>UMLS: C0334350</p>' +
               '<a href="image_filtered/Webpages_for_image/Eccrine papillary adenoma/PMC8061640-JCAS-13-370-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8061640/bin/JCAS-13-370-g002.jpg" /></a>';
             } 
-else if (nodeId === 'Eccrine spiradenoma') {
+else if (nodeId === 'Eccrinespiradenoma') {
     content = '<h3>Eccrine spiradenoma</h3>' +
               '<p>MESH: D018250</p>' +
               '<p>Preferred Name: Eccrine spiradenoma</p>' +
@@ -608,7 +608,7 @@ else if (nodeId === 'Eccrine spiradenoma') {
 '<a href="image_filtered/Webpages_for_image/Eccrine spiradenoma/PMC2733970-jkms-21-172-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2733970/bin/jkms-21-172-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Eccrine spiradenoma/PMC4738512-IDOJ-6-30-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738512/bin/IDOJ-6-30-g003.jpg" /></a>';
 }
-else if (nodeId === 'Hidradenoma papilliferum') {
+else if (nodeId === 'Hidradenomapapilliferum') {
   content = '<h3>Hidradenoma papilliferum</h3>' +
             '<p>MESH: D000074009</p>' +
             '<p>Preferred Name: Hidradenoma papilliferum</p>' +
@@ -638,7 +638,7 @@ else if (nodeId === 'Hidradenoma papilliferum') {
 '<a href="image_filtered/Webpages_for_image/Hidradenoma papilliferum/PMC3148539-jbc-14-153-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3148539/bin/jbc-14-153-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hidradenoma papilliferum/PMC4818383-JFRH-9-199-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818383/bin/JFRH-9-199-g001.jpg" /></a>';
 }
-else if (nodeId === 'Hidroacanthoma simplex') {
+else if (nodeId === 'Hidroacanthomasimplex') {
   content = '<h3>Hidroacanthoma simplex</h3>' +
             '<p>Preferred Name: Hidroacanthoma simplex</p>' +
             '<p>Type: Benign</p>' +
@@ -649,7 +649,7 @@ else if (nodeId === 'Hidroacanthoma simplex') {
 '<a href="image_filtered/Webpages_for_image/Hidroacanthoma simplex/PMC10327661-dr-15-2-9571-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10327661/bin/dr-15-2-9571-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hidroacanthoma simplex/PMC7423234-IJD-65-318-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7423234/bin/IJD-65-318-g003.jpg" /></a>';
 }
-else if (nodeId === 'Syringocystadenoma papilliferum') {
+else if (nodeId === 'Syringocystadenomapapilliferum') {
   content = '<h3>Syringocystadenoma papilliferum</h3>' +
             '<p>MESH: D000074009</p>' +
             '<p>Preferred Name: Syringocystadenoma papilliferum</p>' +
@@ -814,7 +814,7 @@ else if (nodeId === 'Syringoma') {
 '<a href="image_filtered/Webpages_for_image/Syringoma/PMC4533563-IJD-60-420f-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4533563/bin/IJD-60-420f-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Syringoma/PMC10066760-SKI2-3-e144-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10066760/bin/SKI2-3-e144-g003.jpg" /></a>';
 }
-else if (nodeId === 'Adenoid cystic carcinoma') {
+else if (nodeId === 'Adenoidcysticcarcinoma') {
   content = '<h3>Adenoid cystic carcinoma</h3>' +
             '<p>MESH: D003528</p>' +
             '<p>Preferred Name: Adenoid cystic carcinoma</p>' +
@@ -1050,7 +1050,7 @@ else if (nodeId === 'Adenoid cystic carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Adenoid cystic carcinoma/PMC6940171-medi-98-e18177-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6940171/bin/medi-98-e18177-g005.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Adenoid cystic carcinoma/PMC8637004-gr3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637004/bin/gr3.jpg" /></a>';
 }
-else if (nodeId === 'Digital papillary eccrine carcinoma of skin') {
+else if (nodeId === 'Digitalpapillaryeccrinecarcinomaofskin') {
   content = '<h3>Digital papillary eccrine carcinoma of skin</h3>' +
             '<p>Preferred Name: Digital papillary eccrine carcinoma of skin</p>' +
             '<p>Synonyms: Aggressive digital papillary adenocarcinoma, Papillary digital carcinoma</p>' +
@@ -1068,7 +1068,7 @@ else if (nodeId === 'Digital papillary eccrine carcinoma of skin') {
 '<a href="image_filtered/Webpages_for_image/Digital papillary eccrine carcinoma of skin/PMC5379111-CRIOR2017-6456342.002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5379111/bin/CRIOR2017-6456342.002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Digital papillary eccrine carcinoma of skin/PMC6376506-10.1177_1179547619828723-fig4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6376506/bin/10.1177_1179547619828723-fig4.jpg" /></a>';
 }
-else if (nodeId === 'Endocrine mucin-producing sweat gland carcinoma') {
+else if (nodeId === 'Endocrinemucin-producingsweatglandcarcinoma') {
   content = '<h3>Endocrine mucin-producing sweat gland carcinoma</h3>' +
             '<p>Preferred Name: Endocrine mucin-producing sweat gland carcinoma</p>' +
             '<p>Synonyms: Eccrine mucin-producing sweat gland carcinoma</p>' +
@@ -1091,7 +1091,7 @@ else if (nodeId === 'Endocrine mucin-producing sweat gland carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Endocrine mucin-producing sweat gland carcinoma/PMC5337370-CRIPA2017-6343709.004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337370/bin/CRIPA2017-6343709.004.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Endocrine mucin-producing sweat gland carcinoma/PMC5337370-CRIPA2017-6343709.006.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5337370/bin/CRIPA2017-6343709.006.jpg" /></a>';;
 }
-else if (nodeId === 'Malignant eccrine spiradenoma') {
+else if (nodeId === 'Malignanteccrinespiradenoma') {
   content = '<h3>Malignant eccrine spiradenoma</h3>' +
             '<p>Preferred Name: Malignant eccrine spiradenoma</p>' +
             '<p>Synonyms: Spiradenocarcinoma</p>' +
@@ -1109,7 +1109,7 @@ else if (nodeId === 'Malignant eccrine spiradenoma') {
 '<a href="image_filtered/Webpages_for_image/Malignant eccrine spiradenoma/PMC10246931-cureus-0015-00000040033-i02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246931/bin/cureus-0015-00000040033-i02.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Malignant eccrine spiradenoma/PMC7071686-13000_2020_945_Fig1_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071686/bin/13000_2020_945_Fig1_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Microcystic adnexal carcinoma') {
+else if (nodeId === 'Microcysticadnexalcarcinoma') {
   content = '<h3>Microcystic adnexal carcinoma</h3>' +
             '<p>MESH: C000632664</p>' +
             '<p>Preferred Name: Microcystic adnexal carcinoma</p>' +
@@ -1127,7 +1127,7 @@ else if (nodeId === 'Microcystic adnexal carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Microcystic adnexal carcinoma/PMC4540503-abd-90-03-s1-0036-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4540503/bin/abd-90-03-s1-0036-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Microcystic adnexal carcinoma/PMC8042239-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042239/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Mucinous Adenocarcinoma') {
+else if (nodeId === 'MucinousAdenocarcinoma') {
   content = '<h3>Mucinous Adenocarcinoma</h3>' +
             '<p>MESH: D002288</p>' +
             '<p>Preferred Name: Mucinous Adenocarcinoma</p>' +
@@ -1277,7 +1277,7 @@ else if (nodeId === 'Branchioma') {
             '<a href="image_filtered/Webpages_for_image/Branchioma/PMC6076095-medi-97-e11459-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6076095/bin/medi-97-e11459-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Branchioma/PMC6076095-medi-97-e11459-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6076095/bin/medi-97-e11459-g004.jpg" /></a>';
 }
-else if (nodeId === 'Congenital bronchogenic cyst') {
+else if (nodeId === 'Congenitalbronchogeniccyst') {
   content = '<h3>Congenital bronchogenic cyst</h3>' +
             '<p>MESH: D001994</p>' +
             '<p>Preferred Name: Congenital bronchogenic cyst</p>' +
@@ -1285,7 +1285,7 @@ else if (nodeId === 'Congenital bronchogenic cyst') {
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0006281</p>' ;
 }
-else if (nodeId === 'Dermoid cyst') {
+else if (nodeId === 'Dermoidcyst') {
   content = '<h3>Dermoid cyst</h3>' +
             '<p>MESH: D003884</p>' +
             '<p>Preferred Name: Dermoid cyst</p>' +
@@ -1355,7 +1355,7 @@ else if (nodeId === 'Dermoid cyst') {
 '<a href="image_filtered/Webpages_for_image/Dermoid cyst/PMC5016499-jmm-22-114-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016499/bin/jmm-22-114-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Dermoid cyst/PMC4625219-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4625219/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Epidermal inclusion cyst') {
+else if (nodeId === 'Epidermalinclusioncyst') {
   content = '<h3>Epidermal inclusion cyst</h3>' +
             '<p>Preferred Name: Epidermal inclusion cyst</p>' +
             '<p>Synonyms: Epidermoid cyst</p>' +
@@ -1384,7 +1384,7 @@ else if (nodeId === 'Epidermal inclusion cyst') {
 '<a href="image_filtered/Webpages_for_image/Epidermal inclusion cyst/PMC4171920-IJD-59-490-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4171920/bin/IJD-59-490-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Epidermal inclusion cyst/PMC6486694-13256_2019_2035_Fig3_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6486694/bin/13256_2019_2035_Fig3_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Familial thyroglossal duct cyst') {
+else if (nodeId === 'Familialthyroglossalductcyst') {
   content = '<h3>Familial thyroglossal duct cyst</h3>' +
             '<p>MESH: C536909</p>' +
             '<p>Preferred Name: Familial thyroglossal duct cyst</p>' +
@@ -1415,7 +1415,7 @@ else if (nodeId === 'Hidrocystoma') {
 '<a href="image_filtered/Webpages_for_image/Hidrocystoma/PMC4667602-dp0504a11g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667602/bin/dp0504a11g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hidrocystoma/PMC7992752-ad-31-442-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7992752/bin/ad-31-442-g002.jpg" /></a>';
 }
-else if (nodeId === 'Median raphe cyst') {
+else if (nodeId === 'Medianraphecyst') {
   content = '<h3>Median raphe cyst</h3>' +
             '<p>Preferred Name: Median raphe cyst</p>' +
             '<p>Type: Benign</p>' +
@@ -1435,7 +1435,7 @@ else if (nodeId === 'Median raphe cyst') {
 '<a href="image_filtered/Webpages_for_image/Median raphe cyst/PMC6775486-cp-9-3-1176-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6775486/bin/cp-9-3-1176-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Median raphe cyst/PMC6626626-13256_2019_2133_Fig4_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626626/bin/13256_2019_2133_Fig4_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Pilar cyst') {
+else if (nodeId === 'Pilarcyst') {
   content = '<h3>Pilar cyst</h3>' +
             '<p>MESH: D004814</p>' +
             '<p>Preferred Name: Pilar cyst</p>' +
@@ -1453,14 +1453,14 @@ else if (nodeId === 'Pilar cyst') {
 '<a href="image_filtered/Webpages_for_image/Pilar cyst/PMC10238167-cureus-0015-00000038508-i13.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10238167/bin/cureus-0015-00000038508-i13.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Pilar cyst/PMC6299294-10.1177_1179550618815917-fig3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6299294/bin/10.1177_1179550618815917-fig3.jpg" /></a>';
 }
-else if (nodeId === 'Presternal ciliated cyst') {
+else if (nodeId === 'Presternalciliatedcyst') {
   content = '<h3>Presternal ciliated cyst</h3>' +
             '<p>Preferred Name: Presternal ciliated cyst</p>' +
             '<p>Synonyms: Cutaneous ciliated cyst</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0406823</p>';
 }
-else if (nodeId === 'Proliferating trichilemmal tumor') {
+else if (nodeId === 'Proliferatingtrichilemmaltumor') {
   content = '<h3>Proliferating trichilemmal tumor</h3>' +
             '<p>Preferred Name: Proliferating trichilemmal tumor</p>' +
             '<p>Synonyms: Proliferating pilar cyst</p>' +
@@ -1504,7 +1504,7 @@ else if (nodeId === 'Steatocystomas') {
 '<a href="image_filtered/Webpages_for_image/Steatocystomas/PMC6031952-dpa-0005-0058-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031952/bin/dpa-0005-0058-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Steatocystomas/PMC6465725-cde-0011-0071-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6465725/bin/cde-0011-0071-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Steatocystomas/PMC7992486-ad-30-633-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7992486/bin/ad-30-633-g002.jpg" /></a>';}
-else if (nodeId === 'Vellus hair cyst') {
+else if (nodeId === 'Vellushaircyst') {
   content = '<h3>Vellus hair cyst</h3>' +
             '<p>Preferred Name: Vellus hair cyst</p>' +
             '<p>Type: Benign</p>' +
@@ -1517,7 +1517,7 @@ else if (nodeId === 'Vellus hair cyst') {
 '<a href="image_filtered/Webpages_for_image/Vellus hair cyst/PMC5803851-IJT-10-31-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5803851/bin/IJT-10-31-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Vellus hair cyst/PMC5803851-IJT-10-31-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5803851/bin/IJT-10-31-g003.jpg" /></a>';
 }
-else if (nodeId === 'Acquired Digital Fibrokeratoma') {
+else if (nodeId === 'AcquiredDigitalFibrokeratoma') {
   content = '<h3>Acquired Digital Fibrokeratoma</h3>' +
             '<p>Preferred Name: Acquired Digital Fibrokeratoma</p>' +
             '<p>Type: Benign</p>' +
@@ -1588,7 +1588,7 @@ else if (nodeId === 'Angiofibroma') {
 '<a href="image_filtered/Webpages_for_image/Angiofibroma/PMC4884869-CRIOG2016-2094818.002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4884869/bin/CRIOG2016-2094818.002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Angiofibroma/PMC4989574-JOMFP-20-330a-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4989574/bin/JOMFP-20-330a-g005.jpg" /></a>';
 }
-else if (nodeId === 'Atypical fibroxanthoma of skin') {
+else if (nodeId === 'Atypicalfibroxanthomaofskin') {
   content = '<h3>Atypical fibroxanthoma of skin</h3>' +
             '<p>Preferred Name: Atypical fibroxanthoma of skin</p>' +
             '<p>Synonyms: Atypical fibroxanthoma</p>' +
@@ -1634,7 +1634,7 @@ else if (nodeId === 'Atypical fibroxanthoma of skin') {
 '<a href="image_filtered/Webpages_for_image/Atypical fibroxanthoma of skin/PMC7931565-pathol-2020-02-105-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7931565/bin/pathol-2020-02-105-g002.jpg" /></a>'
             ;
 }
-else if (nodeId === 'Circumscribed storiform collagenoma') {
+else if (nodeId === 'Circumscribedstoriformcollagenoma') {
   content = '<h3>Circumscribed storiform collagenoma</h3>' +
             '<p>Preferred Name: Circumscribed storiform collagenoma</p>' +
             '<p>Synonyms: Sclerotic fibroma</p>' +
@@ -1642,7 +1642,7 @@ else if (nodeId === 'Circumscribed storiform collagenoma') {
             '<p>UMLS: C0406815</p>' +
             '<a href="image_filtered/Webpages_for_image/Circumscribed storiform collagenoma/PMC4821157-cde-0008-0059-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821157/bin/cde-0008-0059-g03.jpg" /></a>';
 }
-else if (nodeId === 'Collagen nevus of skin') {
+else if (nodeId === 'Collagennevusofskin') {
   content = '<h3>Collagen nevus of skin</h3>' +
             '<p>Preferred Name: Collagen nevus of skin</p>' +
             '<p>Synonyms: Collagenoma</p>' +
@@ -1659,7 +1659,7 @@ else if (nodeId === 'Collagen nevus of skin') {
 '<a href="image_filtered/Webpages_for_image/Collagen nevus of skin/PMC10264934-CCR3-11-e7429-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10264934/bin/CCR3-11-e7429-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Collagen nevus of skin/PMC8202495-IDOJ-12-447-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8202495/bin/IDOJ-12-447-g003.jpg" /></a>';
 }
-else if (nodeId === 'Cutaneous Fibrous Histiocytoma') {
+else if (nodeId === 'CutaneousFibrousHistiocytoma') {
   content = '<h3>Cutaneous Fibrous Histiocytoma</h3>' +
             '<p>MESH: D018219</p>' +
             '<p>Preferred Name: Cutaneous Fibrous Histiocytoma</p>' +
@@ -1675,7 +1675,7 @@ else if (nodeId === 'Cutaneous Fibrous Histiocytoma') {
 '<a href="image_filtered/Webpages_for_image/Cutaneous Fibrous Histiocytoma/PMC3420401-CRIM.PATHOLOGY2011-612416.002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3420401/bin/CRIM.PATHOLOGY2011-612416.002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Cutaneous Fibrous Histiocytoma/PMC8395898-dermatopathology-08-00041-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8395898/bin/dermatopathology-08-00041-g001.jpg" /></a>';
 }
-else if (nodeId === 'Dermatofibrosarcoma Protuberans') {
+else if (nodeId === 'DermatofibrosarcomaProtuberans') {
   content = '<h3>Dermatofibrosarcoma Protuberans</h3>' +
             '<p>Preferred Name: Dermatofibrosarcoma Protuberans</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -1816,7 +1816,7 @@ else if (nodeId === 'Dermatomyofibroma') {
 '<a href="image_filtered/Webpages_for_image/Dermatomyofibroma/PMC3199428-ad-23-S72-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199428/bin/ad-23-S72-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Dermatomyofibroma/PMC3199428-ad-23-S72-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199428/bin/ad-23-S72-g003.jpg" /></a>';
 }
-else if (nodeId === 'Epithelioid fibrous histiocytoma') {
+else if (nodeId === 'Epithelioidfibroushistiocytoma') {
   content = '<h3>Epithelioid fibrous histiocytoma</h3>' +
             '<p>Preferred Name: Epithelioid fibrous histiocytoma</p>' +
             '<p>Synonyms: Epithelioid cell histiocytoma</p>' +
@@ -1951,7 +1951,7 @@ else if (nodeId === 'Fibromatosis') {
 '<a href="image_filtered/Webpages_for_image/Fibromatosis/PMC7501420-gr4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7501420/bin/gr4.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Fibromatosis/PMC6495536-13000_2019_814_Fig2_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6495536/bin/13000_2019_814_Fig2_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Fibrous Hamartoma of Infancy') {
+else if (nodeId === 'FibrousHamartomaofInfancy') {
   content = '<h3>Fibrous Hamartoma of Infancy</h3>' +
             '<p>Preferred Name: Fibrous Hamartoma of Infancy</p>' +
             '<p>Synonyms: Fibrous harmatoma of infancy</p>' +
@@ -1972,7 +1972,7 @@ else if (nodeId === 'Fibrous Hamartoma of Infancy') {
 '<a href="image_filtered/Webpages_for_image/Fibrous Hamartoma of Infancy/PMC9083879-autopsy-12-e2021380-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083879/bin/autopsy-12-e2021380-g01.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Fibrous Hamartoma of Infancy/PMC9083879-autopsy-12-e2021380-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9083879/bin/autopsy-12-e2021380-g02.jpg" /></a>';
 }
-else if (nodeId === 'Fibrous histiocytoma of tendon sheath') {
+else if (nodeId === 'Fibroushistiocytomaoftendonsheath') {
   content = '<h3>Fibrous histiocytoma of tendon sheath</h3>' +
             '<p>MESH: D000070779</p>' +
             '<p>Preferred Name: Fibrous histiocytoma of tendon sheath</p>' +
@@ -2097,7 +2097,7 @@ else if (nodeId === 'Fibrous histiocytoma of tendon sheath') {
 '<a href="image_filtered/Webpages_for_image/Fibrous histiocytoma of tendon sheath/PMC7069126-JOMFP-24-73-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7069126/bin/JOMFP-24-73-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Fibrous histiocytoma of tendon sheath/PMC3755283-srep02529-f3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3755283/bin/srep02529-f3.jpg" /></a>';
 }
-else if (nodeId === 'Infantile digital fibroma') {
+else if (nodeId === 'Infantiledigitalfibroma') {
   content = '<h3>Infantile digital fibroma</h3>' +
             '<p>Preferred Name: Infantile digital fibroma</p>' +
             '<p>Type: Benign</p>' +
@@ -2158,7 +2158,7 @@ else if (nodeId === 'Keloid') {
 '<a href="image_filtered/Webpages_for_image/Keloid/PMC8517315-gox-9-e3772-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8517315/bin/gox-9-e3772-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Keloid/PMC9187169-gox-10-e4374-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9187169/bin/gox-10-e4374-g001.jpg" /></a>';
 }
-else if (nodeId === 'Multinucleate cell angiohistiocytoma') {
+else if (nodeId === 'Multinucleatecellangiohistiocytoma') {
   content = '<h3>Multinucleate cell angiohistiocytoma</h3>' +
             '<p>Preferred Name: Multinucleate cell angiohistiocytoma</p>' +
             '<p>Type: Benign</p>' +
@@ -2185,7 +2185,7 @@ else if (nodeId === 'Myofibroma') {
             '<p>Type: Benign</p>' +
             '<p>UMLS: C1266121</p>';
 }
-else if (nodeId === 'Nevus elasticus') {
+else if (nodeId === 'Nevuselasticus') {
   content = '<h3>Nevus elasticus</h3>' +
             '<p>Preferred Name: Nevus elasticus</p>' +
             '<p>Synonyms: Elastoma</p>' +
@@ -2193,7 +2193,7 @@ else if (nodeId === 'Nevus elasticus') {
             '<p>UMLS: C0473583</p>' +
             '<a href="image_filtered/Webpages_for_image/Nevus elasticus/PMC4808714-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808714/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Nodular fasciitis') {
+else if (nodeId === 'Nodularfasciitis') {
   content = '<h3>Nodular fasciitis</h3>' +
             '<p>Preferred Name: Nodular fasciitis</p>' +
             '<p>Synonyms: Nodular fascitis</p>' +
@@ -2245,7 +2245,7 @@ else if (nodeId === 'Nodular fasciitis') {
 '<a href="image_filtered/Webpages_for_image/Nodular fasciitis/PMC3863969-10.1177_2047981613512830-fig3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3863969/bin/10.1177_2047981613512830-fig3.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Nodular fasciitis/PMC4891406-gr2a.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4891406/bin/gr2a.jpg" /></a>';
 }
-else if (nodeId === 'Pleomorphic fibroma') {
+else if (nodeId === 'Pleomorphicfibroma') {
   content = '<h3>Pleomorphic fibroma</h3>' +
             '<p>Preferred Name: Pleomorphic fibroma</p>' +
             '<p>Type: Benign</p>' +
@@ -2254,7 +2254,7 @@ else if (nodeId === 'Pleomorphic fibroma') {
 '<a href="image_filtered/Webpages_for_image/Pleomorphic fibroma/PMC3643370-JCytol-30-71-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3643370/bin/JCytol-30-71-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Pleomorphic fibroma/PMC3643370-JCytol-30-71-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3643370/bin/JCytol-30-71-g003.jpg" /></a>';
 }
-else if (nodeId === 'Skin Undifferentiated Pleomorphic Sarcoma') {
+else if (nodeId === 'SkinUndifferentiatedPleomorphicSarcoma') {
   content = '<h3>Skin Undifferentiated Pleomorphic Sarcoma</h3>' +
             '<p>Preferred Name: Skin Undifferentiated Pleomorphic Sarcoma</p>' +
             '<p>Synonyms: Pleomorphic dermal sarcoma</p>' +
@@ -2265,7 +2265,7 @@ else if (nodeId === 'Skin Undifferentiated Pleomorphic Sarcoma') {
 '<a href="image_filtered/Webpages_for_image/Skin Undifferentiated Pleomorphic Sarcoma/PMC6542061-13256_2019_2093_Fig3_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542061/bin/13256_2019_2093_Fig3_HTML.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Skin Undifferentiated Pleomorphic Sarcoma/PMC6542061-13256_2019_2093_Fig1_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6542061/bin/13256_2019_2093_Fig1_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Skin tag') {
+else if (nodeId === 'Skintag') {
   content = '<h3>Skin tag</h3>' +
             '<p>Preferred Name: Skin tag</p>' +
             '<p>Synonyms: Fibroepithelial polyp</p>' +
@@ -2287,7 +2287,7 @@ else if (nodeId === 'Skin tag') {
 '<a href="image_filtered/Webpages_for_image/Skin tag/PMC10335281-CCID-16-1765-g0002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10335281/bin/CCID-16-1765-g0002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Skin tag/PMC7326686-MBSEH-54-257-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7326686/bin/MBSEH-54-257-g005.jpg" /></a>';
 }
-else if (nodeId === 'Acanthoma, Pilar Sheath') {
+else if (nodeId === 'AcanthomaPilarSheath') {
   content = '<h3>Acanthoma, Pilar Sheath</h3>' +
             '<p>MESH: D049309</p>' +
             '<p>Preferred Name: Acanthoma, Pilar Sheath</p>' +
@@ -2302,7 +2302,7 @@ else if (nodeId === 'Acanthoma, Pilar Sheath') {
 '<a href="image_filtered/Webpages_for_image/Acanthoma, Pilar Sheath/PMC4738490-IJT-7-187-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738490/bin/IJT-7-187-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Acanthoma, Pilar Sheath/PMC4689065-abd-90-06-0780-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4689065/bin/abd-90-06-0780-g02.jpg" /></a>';
 }
-else if (nodeId === 'Cutaneous Lymphadenoma') {
+else if (nodeId === 'CutaneousLymphadenoma') {
   content = '<h3>Cutaneous lymphadenoma</h3>' +
             '<p>Preferred Name: Cutaneous lymphadenoma</p>' +
             '<p>Synonyms: Lymphadenoma</p>' +
@@ -2329,7 +2329,7 @@ else if (nodeId === 'Cutaneous Lymphadenoma') {
 '<a href="image_filtered/Webpages_for_image/Cutaneous lymphadenoma/PMC8428866-pas-45-1382-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8428866/bin/pas-45-1382-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Cutaneous lymphadenoma/PMC9969865-CCID-16-505-g0008.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9969865/bin/CCID-16-505-g0008.jpg" /></a>';
 }
-else if (nodeId === 'Desmoplastic Trichoepithelioma') {
+else if (nodeId === 'DesmoplasticTrichoepithelioma') {
   content = '<h3>Desmoplastic Trichoepithelioma</h3>' +
             '<p>Preferred Name: Desmoplastic Trichoepithelioma</p>' +
             '<p>Type: Benign</p>' +
@@ -2351,7 +2351,7 @@ else if (nodeId === 'Desmoplastic Trichoepithelioma') {
 '<a href="image_filtered/Webpages_for_image/Desmoplastic Trichoepithelioma/PMC7486105-cureus-0012-00000009703-i02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486105/bin/cureus-0012-00000009703-i02.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Desmoplastic Trichoepithelioma/PMC8906298-IJD-66-706d-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8906298/bin/IJD-66-706d-g004.jpg" /></a>';
 }
-else if (nodeId === 'Desmoplastic trichilemmoma') {
+else if (nodeId === 'Desmoplastictrichilemmoma') {
   content = '<h3>Desmoplastic trichilemmoma</h3>' +
             '<p>Preferred Name: Desmoplastic trichilemmoma</p>' +
             '<p>Synonyms: Demoplastic trichilemmoma</p>' +
@@ -2366,7 +2366,7 @@ else if (nodeId === 'Desmoplastic trichilemmoma') {
 '<a href="image_filtered/Webpages_for_image/Desmoplastic trichilemmoma/PMC6726769-10.1177_0300060519859739-fig2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6726769/bin/10.1177_0300060519859739-fig2.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Desmoplastic trichilemmoma/PMC5556743-acfs-18-46-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5556743/bin/acfs-18-46-g004.jpg" /></a>';
 }
-else if (nodeId === 'Dilated pore of winer') {
+else if (nodeId === 'Dilatedporeofwiner') {
   content = '<h3>Dilated pore of winer</h3>' +
             '<p>Preferred Name: Dilated pore of winer</p>' +
             '<p>Type: Benign</p>' +
@@ -2604,7 +2604,7 @@ else if (nodeId === 'Trichofolliculoma') {
 '<a href="image_filtered/Webpages_for_image/Trichofolliculoma/PMC4124687-IJT-6-19-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4124687/bin/IJT-6-19-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Trichofolliculoma/PMC4969489-ad-28-511-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4969489/bin/ad-28-511-g002.jpg" /></a>';
 }
-else if (nodeId === 'Tumor of follicular infundibulum') {
+else if (nodeId === 'Tumoroffollicularinfundibulum') {
   content = '<h3>Tumor of follicular infundibulum</h3>' +
             '<p>Preferred Name: Tumor of follicular infundibulum</p>' +
             '<p>Type: Benign</p>' +
@@ -2617,7 +2617,7 @@ else if (nodeId === 'Tumor of follicular infundibulum') {
 '<a href="image_filtered/Webpages_for_image/Tumor of follicular infundibulum/PMC9525134-cureus-0014-00000028645-i05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9525134/bin/cureus-0014-00000028645-i05.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Tumor of follicular infundibulum/PMC9081419-acfs-2022-00101f8.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9081419/bin/acfs-2022-00101f8.jpg" /></a>';
 }
-else if (nodeId === 'Adult T-Cell Lymphoma') {
+else if (nodeId === 'AdultT-CellLymphoma') {
   content = '<h3>Adult T-Cell Lymphoma/Leukemia</h3>' +
             '<p>MESH: D015459</p>' +
             '<p>Preferred Name: Adult T-Cell Lymphoma/Leukemia</p>' +
@@ -2641,14 +2641,14 @@ else if (nodeId === 'Adult T-Cell Lymphoma') {
 '<a href="image_filtered/Webpages_for_image/Adult T-Cell Lymphoma/PMC9938469-gr1.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9938469/bin/gr1.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Adult T-Cell Lymphoma/PMC6677771-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6677771/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Leukemic infiltration of skin') {
+else if (nodeId === 'Leukemicinfiltrationofskin') {
   content = '<h3>Leukemic infiltration of skin</h3>' +
             '<p>Preferred Name: Leukemic infiltration of skin</p>' +
             '<p>Synonyms: Leukemia cutis</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C0948976</p>';
 }
-else if (nodeId === 'Lymphoma, T-Cell, Cutaneous') {
+else if (nodeId === 'LymphomaT-CellCutaneous') {
   content = '<h3>Lymphoma, T-Cell, Cutaneous</h3>' +
             '<p>MESH: D016410</p>' +
             '<p>Preferred Name: Lymphoma, T-Cell, Cutaneous</p>' +
@@ -2656,7 +2656,7 @@ else if (nodeId === 'Lymphoma, T-Cell, Cutaneous') {
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C0079773</p>';
 }
-else if (nodeId === 'Lymphomatoid papulosis') {
+else if (nodeId === 'Lymphomatoidpapulosis') {
   content = '<h3>Lymphomatoid papulosis</h3>' +
             '<p>MESH: D017731</p>' +
             '<p>Preferred Name: Lymphomatoid papulosis</p>' +
@@ -2681,7 +2681,7 @@ else if (nodeId === 'Lymphomatoid papulosis') {
 '<a href="image_filtered/Webpages_for_image/Lymphomatoid papulosis/PMC4808731-gr4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808731/bin/gr4.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Lymphomatoid papulosis/PMC4808731-gr3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808731/bin/gr3.jpg" /></a>';
 }
-else if (nodeId === 'Mycosis fungoides') {
+else if (nodeId === 'Mycosisfungoides') {
   content = '<h3>Mycosis fungoides</h3>' +
             '<p>MESH: D009182</p>' +
             '<p>Preferred Name: Mycosis fungoides</p>' +
@@ -2893,7 +2893,7 @@ else if (nodeId === 'Mycosis fungoides') {
 '<a href="image_filtered/Webpages_for_image/Mycosis fungoides/PMC5439255-CRIDM2017-6134752.002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439255/bin/CRIDM2017-6134752.002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Mycosis fungoides/PMC6537691-IJD-64-251b-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537691/bin/IJD-64-251b-g005.jpg" /></a>';
 }
-else if (nodeId === 'Nasal Type Extranodal NK') {
+else if (nodeId === 'NasalTypeExtranodalNK') {
   content = '<h3>Nasal Type Extranodal NK/T-Cell Lymphoma</h3>' +
             '<p>MESH: D054391</p>' +
             '<p>Preferred Name: Nasal Type Extranodal NK/T-Cell Lymphoma</p>' +
@@ -2931,7 +2931,7 @@ else if (nodeId === 'Nasal Type Extranodal NK') {
 '<a href="image_filtered/Webpages_for_image/Nasal Type Extranodal NK/PMC8781285-life-12-00073-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8781285/bin/life-12-00073-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Nasal Type Extranodal NK/PMC4725674-cureus-0007-000000000408-i04.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4725674/bin/cureus-0007-000000000408-i04.jpg" /></a>';
 }
-else if (nodeId === 'Primary cutaneous B-cell lymphoma') {
+else if (nodeId === 'PrimarycutaneousB-celllymphoma') {
   content = '<h3>Primary cutaneous B-cell lymphoma</h3>' +
             '<p>Preferred Name: Primary cutaneous B-cell lymphoma</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -2944,7 +2944,7 @@ else if (nodeId === 'Primary cutaneous B-cell lymphoma') {
 '<a href="image_filtered/Webpages_for_image/Primary cutaneous B-cell lymphoma/PMC8824672-dp1201a06g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8824672/bin/dp1201a06g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Primary cutaneous B-cell lymphoma/PMC6434743-IDOJ-10-208-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6434743/bin/IDOJ-10-208-g003.jpg" /></a>';
 }
-else if (nodeId === 'Primary cutaneous anaplastic large cell lymphoma') {
+else if (nodeId === 'Primarycutaneousanaplasticlargecelllymphoma') {
   content = '<h3>Primary cutaneous anaplastic large cell lymphoma</h3>' +
             '<p>MESH: D054446</p>' +
             '<p>Preferred Name: Primary cutaneous anaplastic large cell lymphoma</p>' +
@@ -2970,7 +2970,7 @@ else if (nodeId === 'Primary cutaneous anaplastic large cell lymphoma') {
 '<a href="image_filtered/Webpages_for_image/Primary cutaneous anaplastic large cell lymphoma/PMC6805531-13000_2019_900_Fig2_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6805531/bin/13000_2019_900_Fig2_HTML.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Primary cutaneous anaplastic large cell lymphoma/PMC6805531-13000_2019_900_Fig3_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6805531/bin/13000_2019_900_Fig3_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Subcutaneous panniculitis-like T-cell lymphoma') {
+else if (nodeId === 'Subcutaneouspanniculitis-likeT-celllymphoma') {
   content = '<h3>Subcutaneous panniculitis-like T-cell lymphoma</h3>' +
             '<p>MESH: C537503</p>' +
             '<p>Preferred Name: Subcutaneous panniculitis-like T-cell lymphoma</p>' +
@@ -2994,13 +2994,13 @@ else if (nodeId === 'Subcutaneous panniculitis-like T-cell lymphoma') {
 '<a href="image_filtered/Webpages_for_image/Subcutaneous panniculitis-like T-cell lymphoma/PMC9710456-cde-0014-0319-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9710456/bin/cde-0014-0319-g01.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Subcutaneous panniculitis-like T-cell lymphoma/PMC3350120-CRIM.ONCMED2011-639240.002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3350120/bin/CRIM.ONCMED2011-639240.002.jpg" /></a>';
 }
-else if (nodeId === 'Acantholytic actinic keratosis') {
+else if (nodeId === 'Acantholyticactinickeratosis') {
   content = '<h3>Acantholytic actinic keratosis</h3>' +
             '<p>Preferred Name: Acantholytic actinic keratosis</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C1274595</p>';
 }
-else if (nodeId === 'Acanthoma, Clear Cell') {
+else if (nodeId === 'AcanthomaClearCell') {
   content = '<h3>Acanthoma, Clear Cell</h3>' +
             '<p>MESH: D049309</p>' +
             '<p>Preferred Name: Acanthoma, Clear Cell</p>' +
@@ -3023,7 +3023,7 @@ else if (nodeId === 'Acanthoma, Clear Cell') {
 '<a href="image_filtered/Webpages_for_image/Acanthoma, Clear Cell/PMC5726669-abd-92-05-s1-0027-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5726669/bin/abd-92-05-s1-0027-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Acanthoma, Clear Cell/PMC3657259-IJD-58-162f-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3657259/bin/IJD-58-162f-g002.jpg" /></a>';
 }
-else if (nodeId === 'Actinic keratosis') {
+else if (nodeId === 'Actinickeratosis') {
   content = '<h3>Actinic keratosis</h3>' +
             '<p>MESH: D055623</p>' +
             '<p>Preferred Name: Actinic keratosis</p>' +
@@ -3063,7 +3063,7 @@ else if (nodeId === 'Actinic keratosis') {
 '<a href="image_filtered/Webpages_for_image/Actinic keratosis/PMC3917633-jced-4-e248-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3917633/bin/jced-4-e248-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Actinic keratosis/PMC3916212-MCO-01-04-0621-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3916212/bin/MCO-01-04-0621-g01.jpg" /></a>';
 }
-else if (nodeId === 'Basal cell carcinoma - adenoid') {
+else if (nodeId === 'Basalcellcarcinomaadenoid') {
   content = '<h3>Basal cell carcinoma - adenoid</h3>' +
             '<p>Preferred Name: Basal cell carcinoma - adenoid</p>' +
             '<p>Synonyms: Adenoid basal cell carcinoma</p>' +
@@ -3074,7 +3074,7 @@ else if (nodeId === 'Basal cell carcinoma - adenoid') {
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma - adenoid/PMC3667320-IJD-58-244c-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667320/bin/IJD-58-244c-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma - adenoid/PMC3667320-IJD-58-244c-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3667320/bin/IJD-58-244c-g002.jpg" /></a>';
 }
-else if (nodeId === 'Basal cell carcinoma, infundibulocystic') {
+else if (nodeId === 'Basalcellcarcinomainfundibulocystic') {
   content = '<h3>Basal cell carcinoma, infundibulocystic</h3>' +
             '<p>MESH: C537655</p>' +
             '<p>Preferred Name: Basal cell carcinoma, infundibulocystic</p>' +
@@ -3088,7 +3088,7 @@ else if (nodeId === 'Basal cell carcinoma, infundibulocystic') {
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma, infundibulocystic/PMC4131999-dp0403a09g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4131999/bin/dp0403a09g007.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma, infundibulocystic/PMC4131999-dp0403a09g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4131999/bin/dp0403a09g003.jpg" /></a>';
 }
-else if (nodeId === 'Basal cell carcinoma, micronodular') {
+else if (nodeId === 'Basalcellcarcinomamicronodular') {
   content = '<h3>Basal cell carcinoma, micronodular</h3>' +
             '<p>Preferred Name: Basal cell carcinoma, micronodular</p>' +
             '<p>Synonyms: Micronodular Basal cell carcinoma</p>' +
@@ -3104,21 +3104,21 @@ else if (nodeId === 'Basal cell carcinoma, micronodular') {
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma, nodular/PMC6592668-CHSJ-45-01-116-fig3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6592668/bin/CHSJ-45-01-116-fig3.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Basal cell carcinoma, nodular/PMC6592668-CHSJ-45-01-116-fig2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6592668/bin/CHSJ-45-01-116-fig2.jpg" /></a>';
 }
-else if (nodeId === 'Basal cell carcinoma, nodular') {
+else if (nodeId === 'Basalcellcarcinomanodular') {
   content = '<h3>Basal cell carcinoma, nodular</h3>' +
             '<p>Preferred Name: Basal cell carcinoma, nodular</p>' +
             '<p>Synonyms: Nodular basal cell carcinoma</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C4083056</p>';
 }
-else if (nodeId === 'Basal cell papilloma clonal type') {
+else if (nodeId === 'Basalcellpapillomaclonaltype') {
   content = '<h3>Basal cell papilloma clonal type</h3>' +
             '<p>Preferred Name: Basal cell papilloma clonal type</p>' +
             '<p>Synonyms: Clonal seborrheic keratosis</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C1275159</p>';
 }
-else if (nodeId === 'Bowenoid actinic keratosis') {
+else if (nodeId === 'Bowenoidactinickeratosis') {
   content = '<h3>Bowenoid actinic keratosis</h3>' +
             '<p>Preferred Name: Bowenoid actinic keratosis</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -3126,7 +3126,7 @@ else if (nodeId === 'Bowenoid actinic keratosis') {
             '<a href="image_filtered/Webpages_for_image/Bowenoid actinic keratosis/PMC7036593-cde-0012-0019-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7036593/bin/cde-0012-0019-g01.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Bowenoid actinic keratosis/PMC4802325-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802325/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Epidermal nevus') {
+else if (nodeId === 'Epidermalnevus') {
   content = '<h3>Epidermal nevus</h3>' +
             '<p>MESH: C580062</p>' +
             '<p>Preferred Name: Epidermal nevus</p>' +
@@ -3158,7 +3158,7 @@ else if (nodeId === 'Epidermal nevus') {
 '<a href="image_filtered/Webpages_for_image/Epidermal nevus/PMC4314886-IDOJ-6-37-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314886/bin/IDOJ-6-37-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Epidermal nevus/PMC5869485-cde-0010-0029-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869485/bin/cde-0010-0029-g02.jpg" /></a>';
 }
-else if (nodeId === 'Familial benign pemphigus') {
+else if (nodeId === 'Familialbenignpemphigus') {
   content = '<h3>Familial benign pemphigus</h3>' +
             '<p>MESH: D016506</p>' +
             '<p>Preferred Name: Familial benign pemphigus</p>' +
@@ -3166,7 +3166,7 @@ else if (nodeId === 'Familial benign pemphigus') {
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0085106</p>';
 }
-else if (nodeId === 'Fibroepithelioma of Pinkus') {
+else if (nodeId === 'FibroepitheliomaofPinkus') {
   content = '<h3>Fibroepithelioma of Pinkus</h3>' +
             '<p>Preferred Name: Fibroepithelioma of Pinkus</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -3222,14 +3222,14 @@ else if (nodeId === 'Hyperkeratosis, Epidermolytic') {
 '<a href="image_filtered/Webpages_for_image/Hyperkeratosis, Epidermolytic/PMC3135235-JSC2011-645743.004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3135235/bin/JSC2011-645743.004.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hyperkeratosis, Epidermolytic/PMC4689080-abd-90-06-0888-g05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4689080/bin/abd-90-06-0888-g05.jpg" /></a>';
 }
-else if (nodeId === 'Hypertrophic solar keratosis') {
+else if (nodeId === 'Hypertrophicsolarkeratosis') {
   content = '<h3>Hypertrophic solar keratosis</h3>' +
             '<p>Preferred Name: Hypertrophic solar keratosis</p>' +
             '<p>Synonyms: Hypertrophic actinic keratosis</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C0432525</p>';
 }
-else if (nodeId === 'Inflammatory linear verrucous epidermal nevus') {
+else if (nodeId === 'Inflammatorylinearverrucousepidermalnevus') {
   content = '<h3>Inflammatory linear verrucous epidermal nevus</h3>' +
             '<p>MESH: D054000</p>' +
             '<p>Preferred Name: Inflammatory linear verrucous epidermal nevus</p>' +
@@ -3257,7 +3257,7 @@ else if (nodeId === 'Inflammatory linear verrucous epidermal nevus') {
 '<a href="image_filtered/Webpages_for_image/Inflammatory linear verrucous epidermal nevus/PMC5869485-cde-0010-0029-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869485/bin/cde-0010-0029-g02.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Inflammatory linear verrucous epidermal nevus/PMC10485749-PDIA-40-50853-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10485749/bin/PDIA-40-50853-g002.jpg" /></a>';
 }
-else if (nodeId === 'Inverted follicular keratosis') {
+else if (nodeId === 'Invertedfollicularkeratosis') {
   content = '<h3>Inverted follicular keratosis</h3>' +
             '<p>Preferred Name: Inverted follicular keratosis</p>' +
             '<p>Type: Benign</p>' +
@@ -3352,7 +3352,7 @@ else if (nodeId === 'Keratoacanthoma') {
 '<a href="image_filtered/Webpages_for_image/Keratoacanthoma/PMC6536069-IDOJ-10-360-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6536069/bin/IDOJ-10-360-g005.jpg" /></a>';
 
 }
-else if (nodeId === 'Lichenoid actinic keratosis') {
+else if (nodeId === 'Lichenoidactinickeratosis') {
   content = '<h3>Lichenoid actinic keratosis</h3>' +
             '<p>Preferred Name: Lichenoid actinic keratosis</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -3380,7 +3380,7 @@ else if (nodeId === 'Melanoacanthoma') {
 '<a href="image_filtered/Webpages_for_image/Melanoacanthoma/PMC9792031-IJD-67-404-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9792031/bin/IJD-67-404-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Melanoacanthoma/PMC9792031-IJD-67-404-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9792031/bin/IJD-67-404-g002.jpg" /></a>';
 }
-else if (nodeId === 'Morpheaform basal cell carcinoma') {
+else if (nodeId === 'Morpheaformbasalcellcarcinoma') {
   content = '<h3>Morpheaform basal cell carcinoma</h3>' +
             '<p>Preferred Name: Morpheaform basal cell carcinoma</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -3391,7 +3391,7 @@ else if (nodeId === 'Morpheaform basal cell carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Morpheaform basal cell carcinoma/PMC10399488-ICRP_A_2242494_F0004_C.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399488/bin/ICRP_A_2242494_F0004_C.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Morpheaform basal cell carcinoma/PMC10399488-ICRP_A_2242494_F0005_C.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10399488/bin/ICRP_A_2242494_F0005_C.jpg" /></a>';
 }
-else if (nodeId === 'Nevus comedonicus') {
+else if (nodeId === 'Nevuscomedonicus') {
   content = '<h3>Nevus comedonicus</h3>' +
             '<p>Preferred Name: Nevus comedonicus</p>' +
             '<p>Type: Benign</p>' +
@@ -3409,7 +3409,7 @@ else if (nodeId === 'Nevus comedonicus') {
 '<a href="image_filtered/Webpages_for_image/Nevus comedonicus/PMC4228659-IDOJ-5-520-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228659/bin/IDOJ-5-520-g004.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Nevus comedonicus/PMC6938988-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6938988/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Paget Disease Extramammary') {
+else if (nodeId === 'PagetDiseaseExtramammary') {
   content = '<h3>Paget Disease Extramammary</h3>' +
             '<p>MESH: D010145</p>' +
             '<p>Preferred Name: Paget Disease Extramammary</p>' +
@@ -3418,7 +3418,7 @@ else if (nodeId === 'Paget Disease Extramammary') {
             '<p>UMLS: C0030186</p>' +
             '<a href="image_filtered/Webpages_for_image/Paget Disease Extramammary/PMC9279839-ijgc-2021-003262f07.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9279839/bin/ijgc-2021-003262f07.jpg" /></a>';
 }
-else if (nodeId === 'Pigmented basal cell carcinoma') {
+else if (nodeId === 'Pigmentedbasalcellcarcinoma') {
   content = '<h3>Pigmented basal cell carcinoma</h3>' +
             '<p>MESH: D002280</p>' +
             '<p>Preferred Name: Pigmented basal cell carcinoma</p>' +
@@ -3491,7 +3491,7 @@ else if (nodeId === 'Porokeratosis') {
 '<a href="image_filtered/Webpages_for_image/Porokeratosis/PMC4621363-CRIT2015-356459.001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4621363/bin/CRIT2015-356459.001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Porokeratosis/PMC5839907-ad-30-249-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839907/bin/ad-30-249-g001.jpg" /></a>';
 }
-else if (nodeId === 'Skin Squamous Cell Carcinoma In Situ') {
+else if (nodeId === 'SkinSquamousCellCarcinomaInSitu') {
   content = '<h3>Skin Squamous Cell Carcinoma In Situ</h3>' +
             '<p>Preferred Name: Skin Squamous Cell Carcinoma In Situ</p>' +
             '<p>Synonyms: Squamous cell carcinoma in situ, SCCIS, Bowens disease</p>' +
@@ -3504,7 +3504,7 @@ else if (nodeId === 'Skin Squamous Cell Carcinoma In Situ') {
 '<a href="image_filtered/Webpages_for_image/Skin Squamous Cell Carcinoma In Situ/PMC9305313-gr5.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9305313/bin/gr5.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Skin Squamous Cell Carcinoma In Situ/PMC4581440-13000_2015_396_Fig2_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4581440/bin/13000_2015_396_Fig2_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Squamous cell carcinoma') {
+else if (nodeId === 'Squamouscellcarcinoma') {
   content = '<h3>Squamous cell carcinoma</h3>' +
             '<p>MESH: D002294</p>' +
             '<p>Preferred Name: Squamous cell carcinoma</p>' +
@@ -5058,14 +5058,14 @@ else if (nodeId === 'Squamous cell carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Squamous cell carcinoma/PMC5785164-cbm-14-4-414-1.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5785164/bin/cbm-14-4-414-1.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Squamous cell carcinoma/PMC7184790-cde-0012-0070-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7184790/bin/cde-0012-0070-g03.jpg" /></a>';
 }
-else if (nodeId === 'Squamous cell carcinoma, spindle cell') {
+else if (nodeId === 'Squamouscellcarcinomaspindlecell') {
   content = '<h3>Squamous cell carcinoma, spindle cell</h3>' +
             '<p>Preferred Name: Squamous cell carcinoma, spindle cell</p>' +
             '<p>Synonyms: Spindled squamous cell carcinoma</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
             '<p>UMLS: C0349656</p>';
 }
-else if (nodeId === 'Superficial basal cell carcinoma') {
+else if (nodeId === 'Superficialbasalcellcarcinoma') {
   content = '<h3>Superficial basal cell carcinoma</h3>' +
             '<p>Preferred Name: Superficial basal cell carcinoma</p>' +
             '<p>Type: Premalignant/Malignant</p>' +
@@ -5082,7 +5082,7 @@ else if (nodeId === 'Superficial basal cell carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Superficial basal cell carcinoma/PMC10312345-IMCRJ-16-391-g0003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312345/bin/IMCRJ-16-391-g0003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Superficial basal cell carcinoma/PMC3199435-ad-23-S96-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199435/bin/ad-23-S96-g002.jpg" /></a>';
 }
-else if (nodeId === 'Verrucous carcinoma') {
+else if (nodeId === 'Verrucouscarcinoma') {
   content = '<h3>Verrucous carcinoma</h3>' +
             '<p>MESH: D018289</p>' +
             '<p>Preferred Name: Verrucous carcinoma</p>' +
@@ -5163,7 +5163,7 @@ else if (nodeId === 'Verrucous carcinoma') {
 '<a href="image_filtered/Webpages_for_image/Verrucous carcinoma/PMC6280022-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6280022/bin/gr2.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Verrucous carcinoma/PMC5004563-CCD-7-416-g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5004563/bin/CCD-7-416-g007.jpg" /></a>';
 }
-else if (nodeId === 'Warty dyskeratoma') {
+else if (nodeId === 'Wartydyskeratoma') {
   content = '<h3>Warty dyskeratoma</h3>' +
             '<p>Preferred Name: Warty dyskeratoma</p>' +
             '<p>Type: Benign</p>' +
@@ -5184,14 +5184,14 @@ else if (nodeId === 'Warty dyskeratoma') {
 '<a href="image_filtered/Webpages_for_image/Warty dyskeratoma/PMC5518153-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5518153/bin/gr2.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Warty dyskeratoma/PMC7348662-dr-12-1-8236-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7348662/bin/dr-12-1-8236-g004.jpg" /></a>';
 }
-else if (nodeId === 'Acquired melanocytic nevus') {
+else if (nodeId === 'Acquiredmelanocyticnevus') {
   content = '<h3>Acquired melanocytic nevus</h3>' +
             '<p>Preferred Name: Acquired melanocytic nevus</p>' +
             '<p>Synonyms: Common acquired nevus</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C1302707</p>';
 }
-else if (nodeId === 'Blue nevus') {
+else if (nodeId === 'Bluenevus') {
   content = '<h3>Blue nevus</h3>' +
             '<p>MESH: D018329</p>' +
             '<p>Preferred Name: Blue nevus</p>' +
@@ -5240,14 +5240,14 @@ else if (nodeId === 'Blue nevus') {
 '<a href="image_filtered/Webpages_for_image/Blue nevus/PMC4960676-13104_2016_2174_Fig2_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4960676/bin/13104_2016_2174_Fig2_HTML.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Blue nevus/PMC3663372-dp0204a07g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3663372/bin/dp0204a07g004.jpg" /></a>';
 }
-else if (nodeId === 'Café-au-lait macules with temporal dysrhythmia') {
+else if (nodeId === 'Café-au-laitmaculeswithtemporaldysrhythmia') {
   content = '<h3>Café-au-lait macules with temporal dysrhythmia</h3>' +
             '<p>Preferred Name: Café-au-lait macules with temporal dysrhythmia</p>' +
             '<p>Synonyms: Café au lait macule</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C1321487</p>';
 }
-else if (nodeId === 'Congenital melanocytic nevus') {
+else if (nodeId === 'Congenitalmelanocyticnevus') {
   content = '<h3>Congenital melanocytic nevus</h3>' +
             '<p>Preferred Name: Congenital melanocytic nevus</p>' +
             '<p>Type: Benign</p>' +
@@ -5273,7 +5273,7 @@ else if (nodeId === 'Congenital melanocytic nevus') {
 '<a href="image_filtered/Webpages_for_image/Congenital melanocytic nevus/PMC10338193-gr4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10338193/bin/gr4.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Congenital melanocytic nevus/PMC8751731-IJD-66-576f-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8751731/bin/IJD-66-576f-g003.jpg" /></a>';
 }
-else if (nodeId === 'Deep penetrating melanocytic nevus') {
+else if (nodeId === 'Deeppenetratingmelanocyticnevus') {
   content = '<h3>Deep penetrating melanocytic nevus</h3>' +
             '<p>Preferred Name: Deep penetrating melanocytic nevus</p>' +
             '<p>Synonyms: Deep penetrating nevus</p>' +
@@ -5290,7 +5290,7 @@ else if (nodeId === 'Deep penetrating melanocytic nevus') {
 '<a href="image_filtered/Webpages_for_image/Deep penetrating melanocytic nevus/PMC9299949-cureus-0014-00000026127-i10.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9299949/bin/cureus-0014-00000026127-i10.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Deep penetrating melanocytic nevus/PMC9116555-dp1202a46g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9116555/bin/dp1202a46g002.jpg" /></a>';
 }
-else if (nodeId === 'Dysplastic Nevus') {
+else if (nodeId === 'DysplasticNevus') {
   content = '<h3>Dysplastic Nevus</h3>' +
             '<p>MESH: D004416</p>' +
             '<p>Preferred Name: Dysplastic Nevus</p>' +
@@ -5311,7 +5311,7 @@ else if (nodeId === 'Dysplastic Nevus') {
 '<a href="image_filtered/Webpages_for_image/Dysplastic Nevus/PMC4135124-ad-26-547-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4135124/bin/ad-26-547-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Dysplastic Nevus/PMC6031944-dpa-0005-0053-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6031944/bin/dpa-0005-0053-g02.jpg" /></a>';
 }
-else if (nodeId === 'Epithelioid and spindle cell nevus') {
+else if (nodeId === 'Epithelioidandspindlecellnevus') {
   content = '<h3>Epithelioid and spindle cell nevus</h3>' +
             '<p>MESH: D018332</p>' +
             '<p>Preferred Name: Epithelioid and spindle cell nevus</p>' +
@@ -5331,7 +5331,7 @@ else if (nodeId === 'Freckles') {
 '<a href="image_filtered/Webpages_for_image/Freckles/PMC4170576-astr-87-156-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4170576/bin/astr-87-156-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Freckles/PMC3560166-JCAS-5-261-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3560166/bin/JCAS-5-261-g005.jpg" /></a>';
 }
-else if (nodeId === 'Halo nevus') {
+else if (nodeId === 'Halonevus') {
   content = '<h3>Halo nevus</h3>' +
             '<p>MESH: D055882</p>' +
             '<p>Preferred Name: Halo nevus</p>' +
@@ -5342,7 +5342,7 @@ else if (nodeId === 'Halo nevus') {
 '<a href="image_filtered/Webpages_for_image/Halo nevus/PMC4817486-IJD-61-238e-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4817486/bin/IJD-61-238e-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Halo nevus/PMC8460482-ad-33-481-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8460482/bin/ad-33-481-g002.jpg" /></a>';
 }
-else if (nodeId === 'Lentigo simplex') {
+else if (nodeId === 'Lentigosimplex') {
   content = '<h3>Lentigo simplex</h3>' +
             '<p>Preferred Name: Lentigo simplex</p>' +
             '<p>Type: Benign</p>' +
@@ -6384,7 +6384,7 @@ else if (nodeId === 'Melanoma') {
 '<a href="image_filtered/Webpages_for_image/Melanoma/PMC3754372-abd-88-0403-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754372/bin/abd-88-0403-g01.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Melanoma/PMC4377412-ad-27-201-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4377412/bin/ad-27-201-g003.jpg" /></a>';
 }
-else if (nodeId === 'Recurrent melanocytic nevus') {
+else if (nodeId === 'Recurrentmelanocyticnevus') {
   content = '<h3>Recurrent melanocytic nevus</h3>' +
             '<p>Preferred Name: Recurrent melanocytic nevus</p>' +
             '<p>Synonyms: Recurrent nevus</p>' +
@@ -6396,14 +6396,14 @@ else if (nodeId === 'Recurrent melanocytic nevus') {
 '<a href="image_filtered/Webpages_for_image/Recurrent melanocytic nevus/PMC5595602-abd-92-04-0531-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5595602/bin/abd-92-04-0531-g02.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Recurrent melanocytic nevus/PMC5595602-abd-92-04-0531-g01.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5595602/bin/abd-92-04-0531-g01.jpg" /></a>';
 }
-else if (nodeId === 'Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome') {
+else if (nodeId === 'Severegrowthdeficiencystrabismusextensivedermalmelanocytosisintellectualdisabilitysyndrome') {
   content = '<h3>Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome</h3>' +
             '<p>Preferred Name: Severe growth deficiency, strabismus, extensive dermal melanocytosis, intellectual disability syndrome</p>' +
             '<p>Synonyms: Dermal melanocytosis</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C5567481</p>';
 }
-else if (nodeId === 'Solar lentigo') {
+else if (nodeId === 'Solarlentigo') {
   content = '<h3>Solar lentigo</h3>' +
             '<p>Preferred Name: Solar lentigo</p>' +
             '<p>Type: Benign</p>' +
@@ -6413,14 +6413,14 @@ else if (nodeId === 'Solar lentigo') {
 '<a href="image_filtered/Webpages_for_image/Solar lentigo/PMC8648420-dp1104a94g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648420/bin/dp1104a94g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Solar lentigo/PMC3663342-dp0202a08g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3663342/bin/dp0202a08g003.jpg" /></a>';
 }
-else if (nodeId === 'balloon cell nevus') {
+else if (nodeId === 'ballooncellnevus') {
   content = '<h3>balloon cell nevus</h3>' +
             '<p>Preferred Name: balloon cell nevus</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0334425</p>' + 
             '<a href="image_filtered/Webpages_for_image/balloon cell nevus/PMC7109564-gr3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7109564/bin/gr3.jpg" /></a>';
 }
-else if (nodeId === 'Cellular neurothekeoma') {
+else if (nodeId === 'Cellularneurothekeoma') {
   content = '<h3>Cellular neurothekeoma</h3>' +
             '<p>Preferred Name: Cellular neurothekeoma</p>' +
             '<p>Type: Benign</p>' +
@@ -6445,7 +6445,7 @@ else if (nodeId === 'Cellular neurothekeoma') {
 '<a href="image_filtered/Webpages_for_image/Cellular neurothekeoma/PMC8530069-IJD-66-416-g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530069/bin/IJD-66-416-g007.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Cellular neurothekeoma/PMC5010351-gox-4-e1006-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5010351/bin/gox-4-e1006-g003.jpg" /></a>';
 }
-else if (nodeId === 'Dermal nerve sheath myxoma') {
+else if (nodeId === 'Dermalnervesheathmyxoma') {
   content = '<h3>Dermal nerve sheath myxoma</h3>' +
             '<p>Preferred Name: Dermal nerve sheath myxoma</p>' +
             '<p>Synonyms: Nerve sheath myxoma</p>' +
@@ -6457,14 +6457,14 @@ else if (nodeId === 'Dermal nerve sheath myxoma') {
 '<a href="image_filtered/Webpages_for_image/Dermal nerve sheath myxoma/PMC8530069-IJD-66-416-g004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530069/bin/IJD-66-416-g004.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Dermal nerve sheath myxoma/PMC8530069-IJD-66-416-g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8530069/bin/IJD-66-416-g007.jpg" /></a>';
 }
-else if (nodeId === 'Ganglioneuroma of skin') {
+else if (nodeId === 'Ganglioneuromaofskin') {
   content = '<h3>Ganglioneuroma of skin</h3>' +
             '<p>Preferred Name: Ganglioneuroma of skin</p>' +
             '<p>Synonyms: Cutaneous ganglioneuroma</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0346063</p>';
 }
-else if (nodeId === 'Granular cell tumor') {
+else if (nodeId === 'Granularcelltumor') {
   content = '<h3>Granular cell tumor</h3>' +
             '<p>MESH: D016586</p>' +
             '<p>Preferred Name: Granular cell tumor</p>' +
@@ -6625,7 +6625,7 @@ else if (nodeId === 'Granular cell tumor') {
 '<a href="image_filtered/Webpages_for_image/Granular cell tumor/PMC4850888-WeiMCS000380_F1.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4850888/bin/WeiMCS000380_F1.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Granular cell tumor/PMC3206371-JSC2011-497648.004.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206371/bin/JSC2011-497648.004.jpg" /></a>';
 }
-else if (nodeId === 'Malignant peripheral nerve sheath tumor') {
+else if (nodeId === 'Malignantperipheralnervesheathtumor') {
   content = '<h3>Malignant peripheral nerve sheath tumor</h3>' +
             '<p>MESH: D018319</p>' +
             '<p>Preferred Name: Malignant peripheral nerve sheath tumor</p>' +
@@ -6731,7 +6731,7 @@ else if (nodeId === 'Malignant peripheral nerve sheath tumor') {
 '<a href="image_filtered/Webpages_for_image/Malignant peripheral nerve sheath tumor/PMC10257786-RJME-64-1-73-fig15.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10257786/bin/RJME-64-1-73-fig15.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Malignant peripheral nerve sheath tumor/PMC9303829-cureus-0014-00000026140-i05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9303829/bin/cureus-0014-00000026140-i05.jpg" /></a>';
 }
-else if (nodeId === 'Merkel cell carcinoma') {
+else if (nodeId === 'Merkelcellcarcinoma') {
   content = '<h3>Merkel cell carcinoma</h3>' +
             '<p>MESH: D015266</p>' +
             '<p>Preferred Name: Merkel cell carcinoma</p>' +
@@ -7250,7 +7250,7 @@ else if (nodeId === 'Neurofibroma') {
 '<a href="image_filtered/Webpages_for_image/Neurofibroma/PMC4852185-cureus-0008-000000000548-i03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4852185/bin/cureus-0008-000000000548-i03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Neurofibroma/PMC6495536-13000_2019_814_Fig2_HTML.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6495536/bin/13000_2019_814_Fig2_HTML.jpg" /></a>';
 }
-else if (nodeId === 'Palisaded encapsulated neuroma') {
+else if (nodeId === 'Palisadedencapsulatedneuroma') {
   content = '<h3>Palisaded encapsulated neuroma</h3>' +
             '<p>Preferred Name: Palisaded encapsulated neuroma</p>' +
             '<p>Type: Benign</p>' +
@@ -7306,7 +7306,7 @@ else if (nodeId === 'Polydactyly') {
 '<a href="image_filtered/Webpages_for_image/Polydactyly/PMC8082007-ad-33-108-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082007/bin/ad-33-108-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Polydactyly/PMC5447349-IDOJ-8-220-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5447349/bin/IDOJ-8-220-g003.jpg" /></a>';
 }
-else if (nodeId === 'Traumatic neuroma') {
+else if (nodeId === 'Traumaticneuroma') {
   content = '<h3>Traumatic neuroma</h3>' +
             '<p>Preferred Name: Traumatic neuroma</p>' +
             '<p>Type: Benign</p>' +
@@ -7326,7 +7326,7 @@ else if (nodeId === 'Traumatic neuroma') {
 '<a href="image_filtered/Webpages_for_image/Traumatic neuroma/PMC9403427-WJG-28-4211-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9403427/bin/WJG-28-4211-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Traumatic neuroma/PMC10095338-jcm-12-02476-g006.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10095338/bin/jcm-12-02476-g006.jpg" /></a>';
 }
-else if (nodeId === 'Nevus Sebaceus of Jadassohn') {
+else if (nodeId === 'NevusSebaceusofJadassohn') {
   content = '<h3>Nevus Sebaceus of Jadassohn</h3>' +
             '<p>MESH: D054000</p>' +
             '<p>Preferred Name: Nevus Sebaceus of Jadassohn</p>' +
@@ -7361,7 +7361,7 @@ else if (nodeId === 'Sebaceoma') {
 '<a href="image_filtered/Webpages_for_image/Sebaceoma/PMC9455101-IJD-67-209b-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9455101/bin/IJD-67-209b-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Sebaceoma/PMC4488995-NAJMS-7-275-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4488995/bin/NAJMS-7-275-g002.jpg" /></a>';
 }
-else if (nodeId === 'Sebaceous Adenocarcinoma') {
+else if (nodeId === 'SebaceousAdenocarcinoma') {
   content = '<h3>Sebaceous Adenocarcinoma</h3>' +
             '<p>MESH: D018266</p>' +
             '<p>Preferred Name: Sebaceous Adenocarcinoma</p>' +
@@ -7378,7 +7378,7 @@ else if (nodeId === 'Sebaceous Adenocarcinoma') {
 '<a href="image_filtered/Webpages_for_image/Sebaceous Adenocarcinoma/PMC9651249-NJMS-13-176-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9651249/bin/NJMS-13-176-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Sebaceous Adenocarcinoma/PMC5556710-acfs-15-32-g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5556710/bin/acfs-15-32-g007.jpg" /></a>';
 }
-else if (nodeId === 'Sebaceous adenoma') {
+else if (nodeId === 'Sebaceousadenoma') {
   content = '<h3>Sebaceous adenoma</h3>' +
             '<p>Preferred Name: Sebaceous adenoma</p>' +
             '<p>Type: Benign</p>' +
@@ -7388,7 +7388,7 @@ else if (nodeId === 'Sebaceous adenoma') {
 '<a href="image_filtered/Webpages_for_image/Sebaceous adenoma/PMC9081419-acfs-2022-00101f7.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9081419/bin/acfs-2022-00101f7.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Sebaceous adenoma/PMC6726862-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6726862/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Sebaceous hyperplasia') {
+else if (nodeId === 'Sebaceoushyperplasia') {
   content = '<h3>Sebaceous hyperplasia</h3>' +
             '<p>Preferred Name: Sebaceous hyperplasia</p>' +
             '<p>Type: Benign</p>' +
@@ -7405,20 +7405,20 @@ else if (nodeId === 'Sebaceous hyperplasia') {
 '<a href="image_filtered/Webpages_for_image/Sebaceous hyperplasia/PMC4738484-IJT-7-170-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4738484/bin/IJT-7-170-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Sebaceous hyperplasia/PMC7379409-turkjmedsci-50-832-fig001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7379409/bin/turkjmedsci-50-832-fig001.jpg" /></a>';
 }
-else if (nodeId === 'Genital leiomyoma') {
+else if (nodeId === 'Genitalleiomyoma') {
   content = '<h3>Genital leiomyoma</h3>' +
             '<p>Preferred Name: Genital leiomyoma</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C1275267</p>';
 }
-else if (nodeId === 'Pigmented hairy epidermal nevus') {
+else if (nodeId === 'Pigmentedhairyepidermalnevus') {
   content = '<h3>Pigmented hairy epidermal nevus</h3>' +
             '<p>Preferred Name: Pigmented hairy epidermal nevus</p>' +
             '<p>Synonyms: Becker nevus</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0263579</p>';
 }
-else if (nodeId === 'Pilar leiomyoma') {
+else if (nodeId === 'Pilarleiomyoma') {
   content = '<h3>Pilar leiomyoma</h3>' +
             '<p>Preferred Name: Pilar leiomyoma</p>' +
             '<p>Type: Benign</p>' +
@@ -7797,7 +7797,7 @@ else if (nodeId === 'Angiokeratoma') {
 '<a href="image_filtered/Webpages_for_image/Angiokeratoma/PMC3263134-JCAS-4-205-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3263134/bin/JCAS-4-205-g002.jpg" /></a>';
 
 }
-else if (nodeId === 'Angioma serpiginosum') {
+else if (nodeId === 'Angiomaserpiginosum') {
   content = '<h3>Angioma serpiginosum</h3>' +
             '<p>MESH: C536366</p>' +
             '<p>Preferred Name: Angioma serpiginosum</p>' +
@@ -7827,7 +7827,7 @@ else if (nodeId === 'Angioma serpiginosum') {
 '<a href="image_filtered/Webpages_for_image/Angioma serpiginosum/PMC10389151-IJD-68-354c-g006.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10389151/bin/IJD-68-354c-g006.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Angioma serpiginosum/PMC10389151-IJD-68-354c-g007.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10389151/bin/IJD-68-354c-g007.jpg" /></a>';
 }
-else if (nodeId === 'Angiomatosis Bacillary') {
+else if (nodeId === 'AngiomatosisBacillary') {
   content = '<h3>Angiomatosis, Bacillary</h3>' +
             '<p>MESH: D016917</p>' +
             '<p>Preferred Name: Angiomatosis, Bacillary</p>' +
@@ -7840,7 +7840,7 @@ else if (nodeId === 'Angiomatosis Bacillary') {
 '<a href="image_filtered/Webpages_for_image/Angiomatosis_Bacillary/PMC5193195-abd-91-06-0811-g03.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5193195/bin/abd-91-06-0811-g03.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Angiomatosis_Bacillary/PMC9405931-1678-9849-rsbmt-55-e0101-2022-gf3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9405931/bin/1678-9849-rsbmt-55-e0101-2022-gf3.jpg" /></a>';
 }
-else if (nodeId === 'Congenital arteriovenous malformation') {
+else if (nodeId === 'Congenitalarteriovenousmalformation') {
   content = '<h3>Congenital arteriovenous malformation</h3>' +
             '<p>MESH: D001165</p>' +
             '<p>Preferred Name: Congenital arteriovenous malformation</p>' +
@@ -7850,7 +7850,7 @@ else if (nodeId === 'Congenital arteriovenous malformation') {
             '<a href="image_filtered/Webpages_for_image/Congenital arteriovenous malformation/PMC8434792-PAMJ-39-170-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8434792/bin/PAMJ-39-170-g001.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Congenital arteriovenous malformation/PMC2693832-jkms-22-746-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2693832/bin/jkms-22-746-g005.jpg" /></a>';
 }
-else if (nodeId === 'Epithelioid hemangioma of skin') {
+else if (nodeId === 'Epithelioidhemangiomaofskin') {
   content = '<h3>Epithelioid hemangioma of skin</h3>' +
             '<p>MESH: D000796</p>' +
             '<p>Preferred Name: Epithelioid hemangioma of skin</p>' +
@@ -7867,7 +7867,7 @@ else if (nodeId === 'Epithelioid hemangioma of skin') {
 '<a href="image_filtered/Webpages_for_image/Epithelioid hemangioma of skin/PMC7983550-cro-0014-0309-g05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7983550/bin/cro-0014-0309-g05.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Epithelioid hemangioma of skin/PMC3482809-IJD-57-401-g005.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3482809/bin/IJD-57-401-g005.jpg" /></a>';
 }
-else if (nodeId === 'Glomeruloid hemangioma') {
+else if (nodeId === 'Glomeruloidhemangioma') {
   content = '<h3>Glomeruloid hemangioma</h3>' +
             '<p>Preferred Name: Glomeruloid hemangioma</p>' +
             '<p>Type: Benign</p>' +
@@ -7879,7 +7879,7 @@ else if (nodeId === 'Glomeruloid hemangioma') {
 '<a href="image_filtered/Webpages_for_image/Glomeruloid hemangioma/PMC3657245-IJD-58-160d-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3657245/bin/IJD-58-160d-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Glomeruloid hemangioma/PMC5383761-ad-29-249-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383761/bin/ad-29-249-g002.jpg" /></a>';
 }
-else if (nodeId === 'Glomus tumor') {
+else if (nodeId === 'Glomustumor') {
   content = '<h3>Glomus tumor</h3>' +
             '<p>MESH: D005918</p>' +
             '<p>Preferred Name: Glomus tumor</p>' +
@@ -7971,7 +7971,7 @@ else if (nodeId === 'Glomus tumor') {
 '<a href="image_filtered/Webpages_for_image/Glomus tumor/PMC8046612-kjo-2020-0113f1.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8046612/bin/kjo-2020-0113f1.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Glomus tumor/PMC6739266-gr4.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6739266/bin/gr4.jpg" /></a>';
 }
-else if (nodeId === 'Hemangioma, Cavernous') {
+else if (nodeId === 'HemangiomaCavernous') {
   content = '<h3>Hemangioma, Cavernous</h3>' +
             '<p>MESH: D006392</p>' +
             '<p>Preferred Name: Hemangioma, Cavernous</p>' +
@@ -8126,7 +8126,7 @@ else if (nodeId === 'Hemangiosarcoma') {
 '<a href="image_filtered/Webpages_for_image/Hemangiosarcoma/PMC5828302-CRIONM2018-8672407.003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5828302/bin/CRIONM2018-8672407.003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hemangiosarcoma/PMC4684944-JVIM-29-1088-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684944/bin/JVIM-29-1088-g002.jpg" /></a>';
 }
-else if (nodeId === 'Hobnail Hemangioma') {
+else if (nodeId === 'HobnailHemangioma') {
   content = '<h3>Hobnail Hemangioma</h3>' +
             '<p>Preferred Name: Hobnail Hemangioma</p>' +
             '<p>Synonyms: Targetoid hemosiderotic hemangioma</p>' +
@@ -8146,7 +8146,7 @@ else if (nodeId === 'Hobnail Hemangioma') {
 '<a href="image_filtered/Webpages_for_image/Hobnail Hemangioma/PMC4230664-abd-89-06-0956-g04.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4230664/bin/abd-89-06-0956-g04.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Hobnail Hemangioma/PMC4230664-abd-89-06-0956-g05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4230664/bin/abd-89-06-0956-g05.jpg" /></a>';
 }
-else if (nodeId === 'Intravascular papillary endothelial hyperplasia') {
+else if (nodeId === 'Intravascularpapillaryendothelialhyperplasia') {
   content = '<h3>Intravascular papillary endothelial hyperplasia</h3>' +
             '<p>Preferred Name: Intravascular papillary endothelial hyperplasia</p>' +
             '<p>Type: Benign</p>' +
@@ -8176,7 +8176,7 @@ else if (nodeId === 'Intravascular papillary endothelial hyperplasia') {
 '<a href="image_filtered/Webpages_for_image/Intravascular papillary endothelial hyperplasia/PMC6641681-medi-98-e16391-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6641681/bin/medi-98-e16391-g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Intravascular papillary endothelial hyperplasia/PMC6728626-jkaoms-45-180-g006.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728626/bin/jkaoms-45-180-g006.jpg" /></a>';
 }
-else if (nodeId === 'Kaposi sarcoma') {
+else if (nodeId === 'Kaposisarcoma') {
   content = '<h3>Kaposi sarcoma</h3>' +
             '<p>MESH: D012514</p>' +
             '<p>Preferred Name: Kaposi sarcoma</p>' +
@@ -8309,7 +8309,7 @@ else if (nodeId === 'Kaposi sarcoma') {
 '<a href="image_filtered/Webpages_for_image/Kaposi sarcoma/PMC6807071-gr5.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6807071/bin/gr5.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Kaposi sarcoma/PMC5539803-amjcaserep-18-830-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5539803/bin/amjcaserep-18-830-g003.jpg" /></a>';
 }
-else if (nodeId === 'Kaposiform hemangioendothelioma') {
+else if (nodeId === 'Kaposiformhemangioendothelioma') {
   content = '<h3>Kaposiform hemangioendothelioma</h3>' +
             '<p>MESH: C537007</p>' +
             '<p>Preferred Name: Kaposiform hemangioendothelioma</p>' +
@@ -8342,7 +8342,7 @@ else if (nodeId === 'Kaposiform hemangioendothelioma') {
 '<a href="image_filtered/Webpages_for_image/Kaposiform hemangioendothelioma/PMC6014259-JMAU-5-49-g002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6014259/bin/JMAU-5-49-g002.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Kaposiform hemangioendothelioma/PMC6014259-JMAU-5-49-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6014259/bin/JMAU-5-49-g003.jpg" /></a>';
 }
-else if (nodeId === 'Kimura disease') {
+else if (nodeId === 'Kimuradisease') {
   content = '<h3>Kimura disease</h3>' +
             '<p>MESH: D000082242</p>' +
             '<p>Preferred Name: Kimura disease</p>' +
@@ -8519,7 +8519,7 @@ else if (nodeId === 'Lymphangioma') {
 '<a href="image_filtered/Webpages_for_image/Lymphangioma/PMC8605189-gr3.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8605189/bin/gr3.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Lymphangioma/PMC5958815-gr2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5958815/bin/gr2.jpg" /></a>';
 }
-else if (nodeId === 'Microvenular hemangioma') {
+else if (nodeId === 'Microvenularhemangioma') {
   content = '<h3>Microvenular hemangioma</h3>' +
             '<p>Preferred Name: Microvenular hemangioma</p>' +
             '<p>Type: Benign</p>' +
@@ -8528,7 +8528,7 @@ else if (nodeId === 'Microvenular hemangioma') {
 '<a href="image_filtered/Webpages_for_image/Microvenular hemangioma/PMC5808364-dp0801a02g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5808364/bin/dp0801a02g003.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Microvenular hemangioma/PMC5808364-dp0801a02g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5808364/bin/dp0801a02g001.jpg" /></a>';
 }
-else if (nodeId === 'Port-Wine Stain') {
+else if (nodeId === 'Port-WineStain') {
   content = '<h3>Port-Wine Stain</h3>' +
             '<p>MESH: D019339</p>' +
             '<p>Preferred Name: Port-Wine Stain</p>' +
@@ -8542,7 +8542,7 @@ else if (nodeId === 'Port-Wine Stain') {
 '<a href="image_filtered/Webpages_for_image/Port-Wine Stain/PMC4148289-abd-89-04-0669-g02.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148289/bin/abd-89-04-0669-g02.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Port-Wine Stain/PMC5491995-jfb-08-00014-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5491995/bin/jfb-08-00014-g001.jpg" /></a>';
 }
-else if (nodeId === 'Pyogenic granuloma') {
+else if (nodeId === 'Pyogenicgranuloma') {
   content = '<h3>Pyogenic granuloma</h3>' +
             '<p>MESH: D017789</p>' +
             '<p>Preferred Name: Pyogenic granuloma</p>' +
@@ -8641,14 +8641,14 @@ else if (nodeId === 'Pyogenic granuloma') {
 '<a href="image_filtered/Webpages_for_image/Pyogenic granuloma/PMC8807426-cureus-0014-00000020904-i05.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8807426/bin/cureus-0014-00000020904-i05.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Pyogenic granuloma/PMC9453113-f1000research-11-139459-g0002.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9453113/bin/f1000research-11-139459-g0002.jpg" /></a>';
 }
-else if (nodeId === 'Senile angioma') {
+else if (nodeId === 'Senileangioma') {
   content = '<h3>Senile angioma</h3>' +
             '<p>Preferred Name: Senile angioma</p>' +
             '<p>Synonyms: Cherry angioma</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0343082</p>';
 }
-else if (nodeId === 'Spindle cell hemangioma') {
+else if (nodeId === 'Spindlecellhemangioma') {
   content = '<h3>Spindle cell hemangioma</h3>' +
             '<p>Preferred Name: Spindle cell hemangioma</p>' +
             '<p>Type: Benign</p>' +
@@ -8667,7 +8667,7 @@ else if (nodeId === 'Spindle cell hemangioma') {
 '<a href="image_filtered/Webpages_for_image/Spindle cell hemangioma/PMC3141690-1752-1947-5-224-2.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3141690/bin/1752-1947-5-224-2.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Spindle cell hemangioma/PMC8600265-fped-09-767927-g0003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8600265/bin/fped-09-767927-g0003.jpg" /></a>';
 }
-else if (nodeId === 'Strawberry nevus of skin') {
+else if (nodeId === 'Strawberrynevusofskin') {
   content = '<h3>Strawberry nevus of skin</h3>' +
             '<p>MESH: D018324</p>' +
             '<p>Preferred Name: Strawberry nevus of skin</p>' +
@@ -8684,7 +8684,7 @@ else if (nodeId === 'Strawberry nevus of skin') {
 '<a href="image_filtered/Webpages_for_image/Strawberry nevus of skin/PMC3913963-1756-8722-7-13-1.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3913963/bin/1756-8722-7-13-1.jpg" /></a>'+
 '<a href="image_filtered/Webpages_for_image/Strawberry nevus of skin/PMC4779160-ijpho-5-249-g001.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779160/bin/ijpho-5-249-g001.jpg" /></a>';
 }
-else if (nodeId === 'Tufted angioma of skin') {
+else if (nodeId === 'Tuftedangiomaofskin') {
   content = '<h3>Tufted angioma of skin</h3>' +
             '<p>MESH: C536924</p>' +
             '<p>Preferred Name: Tufted angioma of skin</p>' +
@@ -8693,7 +8693,7 @@ else if (nodeId === 'Tufted angioma of skin') {
             '<p>UMLS: C0346073</p>'+
             '<a href="image_filtered/Webpages_for_image/Tufted angioma of skin/PMC9802615-APC-15-304-g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9802615/bin/APC-15-304-g003.jpg" /></a>';
 }
-else if (nodeId === 'Venous lake') {
+else if (nodeId === 'Venouslake') {
   content = '<h3>Venous lake</h3>' +
             '<p>Preferred Name: Venous lake</p>' +
             '<p>Type: Benign</p>' +
@@ -8937,69 +8937,70 @@ var allNodes = [
 function searchTree(value) {
   var suggestions = document.getElementById('suggestions');
   
-  // 如果用户没有输入，清空建议并返回
   if (!value) {
     suggestions.innerHTML = '';
     return;
   }
 
-  // 转为小写以进行不区分大小写的比较
   var lowerValue = value.toLowerCase();
-  
-  // 过滤出匹配的节点名称
   var matches = allNodes.filter(function(node) {
     return node.toLowerCase().includes(lowerValue);
   });
 
-  // 创建建议列表
   suggestions.innerHTML = '';
   matches.forEach(function(match) {
     var div = document.createElement('div');
     div.textContent = match;
+    div.classList.add('suggestion-item');
     div.onclick = function() {
-      document.getElementById('mySearch').value = match; // 将选择的节点名称放入搜索框
-      showContent(match); // 调用showContent函数显示节点内容
-      suggestions.innerHTML = ''; // 清空建议列表
+      document.getElementById('mySearch').value = match;
+      showContent(match);
+      suggestions.innerHTML = '';
     };
     suggestions.appendChild(div);
   });
 }
 
 function showContent(nodeName) {
-  // 根据nodeName获取内容，并将其设置为contentDiv的innerHTML
   var contentDiv = document.getElementById('content');
-  contentDiv.innerHTML = '<h3>' + nodeName + '</h3>'; // 使用nodeName获取真实内容
-  
-  // 展开树并定位到对应节点
-  expandAndHighlight(nodeName); // 调用展开并高亮显示节点的函数
+  contentDiv.innerHTML = '<h3>' + nodeName + '</h3>';
+  expandAndHighlight(nodeName);
 }
 
 function expandAndHighlight(nodeName) {
-  // 展开树形结构并滚动到节点
-  var nodeElement = document.getElementById(nodeName);
-  if (nodeElement) {
-    // 循环通过父元素向上遍历树，直到根元素
-    var parent = nodeElement.parentElement;
-    while (parent && parent!==document) {
-      // 检查是否有需要点击的 '+' toggle
-      var toggle = parent.querySelector('.toggle');
-      if (toggle && toggle.textContent === '+') {
-        toggle.click(); // 展开父节点
+  console.log("Trying to expand and highlight: " + nodeName);
+
+  // 获取所有节点元素
+  var nodeElements = document.querySelectorAll('.node');
+
+  nodeElements.forEach(function(nodeElement) {
+    if (nodeElement.textContent.trim() === nodeName.trim()) {
+      console.log("Node found: ", nodeElement);
+
+      // 确保节点可见
+      nodeElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+      // 展开父节点
+      var parent = nodeElement.parentElement;
+      while (parent && parent !== document) {
+        var toggle = parent.querySelector('.toggle');
+        if (toggle && toggle.textContent === '+') {
+          toggle.click(); // 展开父节点
+        }
+        parent = parent.parentElement;
       }
-      // 继续向上移动到父元素
-      parent = parent.parentElement;
+      
+      // 模拟点击事件
+      var clickEvent = new MouseEvent('click', { bubbles: true, cancelable: true, view: window });
+      nodeElement.dispatchEvent(clickEvent);
     }
-    // 最后，滚动到节点，确保它在视图中
-    nodeElement.scrollIntoView(true); 
-  
-  var nodes = document.getElementsByClassName('node'); // 假设您的节点都有class="node"
-  for (var i = 0; i < nodes.length; i++) {
-    if (nodes[i].textContent === nodeName) {
-      nodes[i].scrollIntoView(true); // 滚动到节点
-      nodes[i].click(); // 如果节点绑定了点击事件来展开/收起
-      break; // 找到匹配的节点后就可以退出循环了
-    }
-  }}}
+  });
+}
 
-
-
+// 绑定所有节点的 click 事件
+document.querySelectorAll('.node').forEach(function(node) {
+  node.addEventListener('click', function() {
+    console.log("Node clicked: " + node.textContent);
+    // 在这里添加展开/收起逻辑
+  });
+});

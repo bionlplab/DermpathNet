@@ -1,0 +1,33 @@
+pmcid,label,caption,graphic,disease,modality
+PMC5916412,Figure 1,Erythematous papules in the right malar region,abd-93-02-0291-g01,NotMatch,NotMatch
+PMC5916412,Figure 2,"Non-desquamative erythematous papule in the left malar region with
+well-defined limits",abd-93-02-0291-g02,NotMatch,NotMatch
+PMC5916412,Figure 3,"Multinucleated cells in the superficial dermis with an angular outline
+(detailed in lower right corner, Hematoxylin & eosin, X100).
+Proliferation of small dilated vessels, slight interstitial infiltrate
+of spindle or dendritic perivascular cells, mostly lymphohistiocytic
+(Hematoxylin & eosin, X40)",abd-93-02-0291-g03,NotMatch,Match
+PMC5916412,Figure 4,"On the left, staining of endothelial, dendritic, and multinucleated cells
+by vimentin (magnification X400). In the center, staining of dendritic
+cells by factor XIIIa (magnification X400). On the right, endothelial
+cell staining by factor VIII (magnification X100)",abd-93-02-0291-g04,NotMatch,Match
+PMC6434101,Fig 1,Multinucleate cell angiohistiocytoma before treatment.,gr1,Match,NotMatch
+PMC6434101,Fig 2,Multinucleate cell angiohistiocytoma 3 months after last treatment with fractionated ablative CO2 laser shows sustained improvements in appearance of lesions and associated pruritus.,gr2,Match,NotMatch
+PMC6818368,Fig 1,"Clinical findings at baseline. Multiple, discrete, well-circumscribed, smooth, somewhat flat-topped, erythematous-to-violaceous papules on the bilateral dorsal hands.",gr1,NotMatch,NotMatch
+PMC6818368,Fig 2,Histopathologic findings at 10× magnification. Numerous small ectatic blood vessels and increased dermal cellularity within a collagenous stroma in the superficial and mid dermis.,gr2,NotMatch,NotMatch
+PMC6818368,Fig 3,Histopathologic findings at 20× magnification. Numerous scattered large angulated multinucleate cells and fibrohistiocytic cells.,gr3,NotMatch,NotMatch
+PMC6818368,Fig 4,Clinical findings at 8-month follow-up. Significant reduction in the induration and discoloration of MCAH after KTP laser.,gr4,NotMatch,NotMatch
+PMC9141302,Figure 1,"Clinical and dermoscopical aspect of the lesion. (A) Solitary, reddish lesion located on the right breast of a 66-year-old woman. (B) Close-up image of the lesion in panel A (measuring scale graded in centimeters)—asymmetrical lesion with ill-defined borders and peripheral brown pigmentation. (C) Dermoscopically, the lesion was characterized by the presence of a reddish areas, coalescing white patches, clusters of in-focus, short, truncated blood vessels and dotted vessels (red arrow), and a peripheral, brown reticulated pattern (black arrow).",diagnostics-12-01276-g001,NotMatch,NotMatch
+PMC9141302,Figure 2,"Histopathological and RCM aspects of the lesion. (A) Histological architecture of the lesion showing a hyperplastic epidermis, basaloid induction, a proliferation of small vessels, and thickened collagen fibers arranged parallel to the surface, at the level of the reticular dermis (hematoxylin–eosin, 40×). (B) RCM mosaic depicting a poorly outlined lesion, presenting with a regular honeycomb pattern and clusters of hyper-reflective cells at the periphery. (C) RCM close-up mosaic of the hyper-reflective cells at the periphery (red arrowheads) (correlating histologically to pigmented keratinocytes). (D) RCM mosaic showing numerous round, dark spaces at the dermal–epidermal junction (red arrows). (E) RCM mosaic at the level of the upper dermis demonstrating hyper-reflective, strand-like structures (white arrows) which correlate to dense collagen bundles parallel to the surface on histology. (F,H) Histopathology photomicrographs (hematoxylin–eosin) revealing multinucleated cells (black arrowheads) corresponding on RCM (G,I) to mildly reflective, bizarre structures with angulated edges (white arrowheads).",diagnostics-12-01276-g002,NotMatch,NotMatch
+PMC7335878,Figure 1,"Cutaneous erythematoviolaceous flatted papules ranging from 3 to 10 mm in diameter, arranged on the dorsum.",gr1,NotMatch,NotMatch
+PMC7335878,Figure 2,"Regular acanthosis in the epidermis and overall increased cellularity were present throughout the dermis, as well as an increased number of dilated blood vessels in the upper and mid dermis, lymphohistiocytic infiltrate, and thicker collagen bundles (Hematoxylin & eosin, ×40).",gr2,NotMatch,NotMatch
+PMC7335878,Figure 3,"Characteristic irregular multinucleate cells of MCAH, typified by angular borders and multiple potentially hyperchromatic nuclei in the dermis and enlargement of endothelial nuclei in the capillaries (Hematoxylin & eosin, ×400).",gr3,NotMatch,NotMatch
+PMC7335878,Figure 4,Immunohistochemistry study. Histiocytic and multinucleated cells are positive for Factor XIIIa (×400).,gr4,NotMatch,NotMatch
+PMC7335878,Figure 5,Immunohistochemistry study. Positive for CD68 (×400).,gr5,NotMatch,NotMatch
+PMC10205445,Fig 1,,gr1,Empty,Empty
+PMC10205445,Fig 2,,gr2,Empty,Empty
+PMC10404551,Figure 1,Brownish-erythematous papules affecting the upper limbs and trunk (A and B) and at closer view (C),gr1,NotMatch,NotMatch
+PMC10404551,Figure 2,Dermoscopy showing a peripheral network with a central homogeneous pink area,gr2,NotMatch,NotMatch
+PMC10404551,Figure 3,"(A) The superficial reticular dermis shows proliferated capillaries with dilated lumen (Hematoxylin & eosin, ×40). (B) In some regions, multinucleate cells with ample cytoplasm interspersed with fibroblasts, lymphocytes, and histiocytes are observed. (Hematoxylin & eosin, ×400). (C) Some multinucleate cells have a spiky cytoplasm (arrow; Hematoxylin & eosin, ×400)",gr3,NotMatch,NotMatch
+PMC10404551,Figure 4,(A) Immunohistochemical analysis showing immunoexpression of CD138 in the cytoplasmic membrane of interstitial plasma cells that permeate the lymphoid aggregates (×100). (B) Cytoplasmic immunoexpression of factor XIIIa in spiky multinucleate cells (arrow; ×400),gr4,NotMatch,Match
+PMC10404551,Figure 5,"Decrease in the number, pigmentation and size of the lesions after one year in the anterior thoracic region (A) and back region (B and C).",gr5,NotMatch,NotMatch

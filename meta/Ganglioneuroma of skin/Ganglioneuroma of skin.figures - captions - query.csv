@@ -1,0 +1,13 @@
+pmcid,label,caption,graphic,disease,modality
+PMC4472344,Fig 1,Structures of the O-specific polysaccharides from E. coli O24 and O56.,pone.0129492.g001,NotMatch,NotMatch
+PMC4472344,Fig 2,SDS-PAGE analysis of lipopolysaccharides from E. coli O24 (1) and O56 (2) serotypes (A) and their immunoblotting with affinity purified rabbit antibodies anti-E. coli O24 (B) and anti-E. coli O56 (C).,pone.0129492.g002,NotMatch,NotMatch
+PMC4472344,Fig 3,"Metastatic colon adenocarcinoma in liver.Strong positive staining is seen in the glandular cells of this metastatic tumor with O56 antibody; LSAB, hematoxylin counterstained, magnification 100x.",pone.0129492.g003,NotMatch,Match
+PMC4472344,Fig 4,"Hepatocellular carcinoma (HCC).The cells of HCC reveal a strong diffuse reaction against O56 antibody; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g004,NotMatch,Match
+PMC4472344,Fig 5,"Cholangiocellular carcinoma (CCC).The cells of CCC reveal a very strong diffuse reaction against O56 antibody; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g005,NotMatch,Match
+PMC4472344,Fig 6,"Ganglioneuroma.A positive moderate reaction against O56 antibody is seen in the ganglion cells of this benign tumor in the centre of microphotograph; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g006,NotMatch,Match
+PMC4472344,Fig 7,"Renal graft chronic rejection.The cells of renal tubules show strong positive staining against O56 antibody; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g007,NotMatch,Match
+PMC4472344,Fig 8,"Neural ganglia.The cells of neural ganglia show a moderate positive reaction against O56 antibody; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g008,NotMatch,Match
+PMC4472344,Fig 9,"Thyroid gland.Thyrocytes of the normal thyroid gland show a strong reaction against O56 antibody; LSAB, hematoxylin counterstained, magn. 100x.",pone.0129492.g009,NotMatch,Match
+PMC4472344,Fig 10,"Negative control—no reaction with O56 antibody.Specimen from the colon adenocarcinoma G1 (counterstaining with hematoxylin-eosin), magn. 100x. First antibody O56 was omitted and replaced by TBS.",pone.0129492.g010,NotMatch,Match
+PMC4472344,Fig 11,"Metastatic colon adenocarcinoma in liver- control.No staining is seen in the glandular cells of this metastatic tumor with O56 antibody blocked with LPS O56; LSAB, hematoxylin counterstained, magnification 100x.",pone.0129492.g011,NotMatch,Match
+PMC4472344,Fig 12,"Metastatic colon adenocarcinoma in liver- control.No staining is seen in the glandular cells of this metastatic tumor with O56 antibody after periodate oxidation of tissue sample; LSAB, hematoxylin counterstained, magnification 100x.",pone.0129492.g012,NotMatch,Match

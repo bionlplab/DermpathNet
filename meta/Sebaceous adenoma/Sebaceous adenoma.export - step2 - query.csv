@@ -1,0 +1,36 @@
+pmid,pmcid,title,journal,insert_time,has_targz,disease
+23579539,PMC3621651,A case of sebaceous adenoma of the eyelid showing excessively rapid growth.,Clin Ophthalmol,2023-12-17-22-15-44,True,Match
+24009635,PMC3759639,Sebaceous carcinoma arising in mature cystic teratoma of ovary.,Korean J Pathol,2023-12-17-22-15-44,True,NotMatch
+24847433,PMC4019922,Clear cell myoepithelioma of palate with emphasis on clinical and histological differential diagnosis.,Clin Pract,2023-12-17-22-15-44,True,NotMatch
+25340101,PMC4205983,"Tuberous sclerosis, deep vein thrombosis and lack of C and S proteins: A case report.",J Renal Inj Prev,2023-12-17-22-15-44,True,NotMatch
+26312706,PMC4540540,The role of immunohistochemistry in the Muir-Torre Syndrome.,An Bras Dermatol,2023-12-17-22-15-44,True,NotMatch
+26595821,PMC4894790,GATA3 Expression in Normal Skin and in Benign and Malignant Epidermal and Cutaneous Adnexal Neoplasms.,Am J Dermatopathol,2023-12-17-22-15-44,True,NotMatch
+27293570,PMC4898341,Muir-Torre syndrome in a haemodialysis patient.,Clin Kidney J,2023-12-17-22-15-44,True,NotMatch
+27504445,PMC4965540,Lrig1 Expression in Human Sebaceous Gland Tumors.,Dermatopathology (Basel),2023-12-17-22-15-44,True,NotMatch
+28507641,PMC5429559,A case report of Muir-Torre syndrome in a woman with breast cancer and MSI-Low skin squamous cell carcinoma.,Hered Cancer Clin Pract,2023-12-17-22-15-44,True,NotMatch
+29520211,PMC5839087,Electrochemotherapy with Bleomycin of Different types of Cutaneous Tumours in a Ferret (Mustela Putorius Furo).,Radiol Oncol,2023-12-17-22-15-44,True,NotMatch
+29850273,PMC5932521,Desmoplastic Fibroma Recurrence Associated with Tuberous Sclerosis in a Young Patient.,Case Rep Dent,2023-12-17-22-15-44,True,NotMatch
+30619624,PMC6299912,An unusual case of tuberous sclerosis incidentally discovered in adulthood: case report and review of the literature.,Acta Radiol Open,2023-12-17-22-15-44,True,NotMatch
+31162827,PMC6625139,Tumor mutational signatures in sebaceous skin lesions from individuals with Lynch syndrome.,Mol Genet Genomic Med,2023-12-17-22-15-44,True,NotMatch
+31209701,PMC6822986,Analysis of the Clinical Relevance of Histological Classification of Benign Epithelial Salivary Gland Tumours.,Adv Ther,2023-12-17-22-15-44,True,NotMatch
+31508474,PMC6726862,Sebaceous adenoma in the setting of immunosuppression for kidney transplantation.,JAAD Case Rep,2023-12-17-22-15-44,True,Match
+32904278,PMC7452313,Genetic heterogeneity in a patient with Muir-Torre syndrome.,JAAD Case Rep,2023-12-17-22-15-44,True,NotMatch
+33179085,PMC7684873,Bioinformatics analysis of the microRNA-mRNA network in sebaceous gland carcinoma of the eyelid.,Mol Med Rep,2023-12-17-22-15-44,True,NotMatch
+33288371,PMC7838088,Case for diagnosis. Verrucous plaque on the pubic region.,An Bras Dermatol,2023-12-17-22-15-44,True,NotMatch
+33911534,PMC7992712,Clinical Features and Association with Visceral Malignancy in 80 Patients with Sebaceous Neoplasms.,Ann Dermatol,2023-12-17-22-15-44,True,NotMatch
+33977078,PMC8064920,Papillary Renal Cell Carcinoma in Lynch/Muir-Torre Syndrome with Germline Pathogenic Variant in MSH6 and Molecular Analysis: Report of a Case and Review of the Literature.,J Kidney Cancer VHL,2023-12-17-22-15-44,True,NotMatch
+34036002,PMC8136295,A Case of Muir-Torre Syndrome.,Cureus,2023-12-17-22-15-44,True,NotMatch
+34287324,PMC8293182,GLUT1 Expression in Cutaneous Sebaceous Lesions Determined by Immunohistochemical Staining Patterns.,Dermatopathology (Basel),2023-12-17-22-15-44,True,NotMatch
+34745849,PMC8564211,Expression and Significance of AQP3 in Cutaneous Lesions.,Anal Cell Pathol (Amst),2023-12-17-22-15-44,True,NotMatch
+34760092,PMC8559639,A non-classic form of McCune Albright syndrome with different presentations and review of the literatures.,Caspian J Intern Med,2023-12-17-22-15-44,True,NotMatch
+35350087,PMC9081419,Development of seven secondary neoplasms in a nevus sebaceous: a case report and literature review.,Arch Craniofac Surg,2023-12-17-22-15-44,True,NotMatch
+35622689,PMC10623525,Dermatofibrosarcoma protuberans misdiagnosed as sebaceous adenoma and incompletely resected in a child: A case report.,J Clin Lab Anal,2023-12-17-22-15-44,False,Match
+35626386,PMC9140677,An Extremely Rare Case of Sebaceous Adenoma Involving the Parotid Gland.,Diagnostics (Basel),2023-12-17-22-15-44,True,Match
+36386050,PMC9647324,"Sebaceous ""adenoma"" of an arm recurring as a carcinoma: The value of DNA mismatch repair gene expression immunohistochemistry.",JAAD Case Rep,2023-12-17-22-15-44,True,NotMatch
+36465367,PMC9714634,Improved NGS-based detection of microsatellite instability using tumor-only data.,Front Oncol,2023-12-17-22-15-44,True,NotMatch
+36756793,PMC9909380,Multi-organ carcinogenicity by inhalation exposure to 2-Bromopropane in rats.,J Occup Health,2023-12-17-22-15-44,True,NotMatch
+36824550,PMC9941027,Germline Testing of Mismatch Repair Genes Is Needed in the Initial Evaluation of Patients With Muir-Torre Syndrome-Associated Cutaneous Sebaceous Neoplasms: A Case Series.,Cureus,2023-12-17-22-15-44,True,NotMatch
+37238164,PMC10217338,Sebaceous Neoplasms.,Diagnostics (Basel),2023-12-17-22-15-44,True,NotMatch
+37485243,PMC10359681,Orbital Perivascular Epithelioid Cell Tumor in a Case of Tuberous Sclerosis.,Case Rep Ophthalmol,2023-12-17-22-15-44,True,NotMatch
+37550731,PMC10405381,Machine learning for classification of cutaneous sebaceous neoplasms: implementing decision tree model using cytological and architectural features.,Diagn Pathol,2023-12-17-22-15-44,True,NotMatch
+37560545,PMC10409540,Efficacy and Safety of Carbon Dioxide Laser System in the Treatment of Scalp Sebaceous Adenoma With the Use of a New Scanner Unit.,J Med Cases,2023-12-17-22-15-44,True,Match
