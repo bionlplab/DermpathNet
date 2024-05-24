@@ -1,8 +1,8 @@
 .image-link img {
-    width: auto; /* 或者你可以设置为具体的大小，比如 width: 150px; */
-    max-width: 50%; /* 这将确保图片最大宽度为其容器宽度的50% */
-    height: auto; /* 保持图片高宽比 */
-    display: block; /* 图片显示为块级元素 */
-    margin: 0 auto; /* 上下边距为0，左右自动（这将使得图片居中显示） */
+    width: auto;
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
   
