@@ -1,0 +1,254 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<meta charset="UTF-8"> 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<title>DermpathNet Download Page</title> 
+
+
+
+<style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            
+        }
+
+        header h1 {
+            padding: 5px 0;
+            margin: 0;
+            text-align: center;
+        }
+        
+        .banner {
+            position: relative; /* Make sure the banner is positioned */
+            height: 250px; /* Or the height you want */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            overflow: hidden; /* Ensure no overflow from pseudo-element */
+          }
+      .banner::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('image_filtered/Dermoid cyst/PMC6631357-vetsci-06-00050-g001.jpg');
+        background-size: cover;
+        background-position: center;
+        filter: brightness(80%); /* Adjust brightness here */
+        z-index: -1; /* Place the pseudo-element behind the content */
+      }
+    
+      .banner-content {
+        z-index: 2; /* 确保文字内容在遮罩层上方 */
+        color: white; /* 白色文字 */
+        text-shadow: 0px 0px 8px rgba(0, 0, 0, 1); /* 文字阴影增加可读性 */
+        position: relative; /* 相对定位保持在遮罩层之上 */
+        padding: 20px; /* 根据需要添加内边距 */
+        font-size: 1.3em; /* 调整字体大小 */
+        text-align: center;
+        filter: brightness(100%);
+        width: 100%;
+    }
+    nav {
+        background: #e67470;
+        color: white;
+        text-align: center;
+        height: 15px;
+        padding: 10px;
+        
+    }
+    nav.container {
+        display: flex; /* Continue using flex layout */
+        justify-content: center; /* Horizontally center all child items */
+        align-items: center; /* Vertically center all child items */
+        flex-wrap: nowrap; /* Prevent navigation links from wrapping */
+        padding: 0; /* If needed, remove padding */
+        list-style-type: none; /* Remove list markers if it's a list */
+    }
+    nav a {
+        color: white;
+        text-decoration: none;
+        padding: 0px 40px; 
+        font-size: 19px;
+        font-weight: bold;
+        margin-top: -2px;
+        text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
+    }
+
+
+        article {
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+        }
+
+        
+        .search-container {
+            width: 100%; /* Adjust based on preference */
+            padding: 20px;
+            background: #fff; /* A light background for the search area */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+            border-radius: 5px; /* Rounded corners for modern look */
+            text-align: center;
+        }
+
+        input[type="search"] {
+            width: 70%;
+            padding: 10px;
+            margin-right: 100px;
+            border: 1px solid #ccc;
+            border-radius: 5px; /* Rounded corners */
+            font-size: 16px; /* Larger font size for readability */
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #e95318;
+            color: white;
+            border: none;
+            border-radius: 5px; /* Rounded corners */
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #e75925;
+        }
+        
+
+        .image-container {
+            position: relative;
+            width: 50%; /* Adjust the width as needed */
+            background: rgba(0, 0, 0, 0.5);
+            margin-bottom: 100px;
+        }
+
+        .clickable-image {
+            width: auto; 
+            max-width: 100%; 
+            max-height: 100%;
+            object-fit: contain; /* 保持图片比例 */
+            }
+
+        .overlay-text-top {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: rgb(255, 255, 255);
+        font-size: 24px; /* Adjust the size as needed */
+        cursor: pointer;
+        }
+
+        .content-container {
+            padding-bottom: 100px; /* 或者至少和页脚的高度一样，加上您需要的空间 */
+        }
+      
+    
+    .site-footer {
+        background-color: #e67470; /* 页脚背景颜色 */
+        color: white; /* 文字颜色 */
+        text-align: center; /* 内容居中 */
+        padding: 20px 0; /* 上下内边距 */
+        font-size: 0.8rem; /* 字体大小 */
+        width: 80%;
+        position: fixed;
+        bottom: 0;
+    }
+    
+    .site-footer p {
+        margin: 5px 0; /* 段落间距 */
+    }
+    
+    .site-footer a {
+        color: #fff; /* 链接文字颜色 */
+        text-decoration: underline; /* 链接下划线 */
+        margin: 0 5px; /* 链接之间的间距 */
+    } 
+    .Net-info {
+        max-width: 800px; /* or your preferred width */
+        margin: 20px auto; /* centers the section with some space around */
+        padding: 15px;
+        background-color: #f9f9f9; /* light background color for the section */
+        border-radius: 8px; /* optional: rounds the corners */
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* optional: adds a subtle shadow */
+    }
+    
+    .Net-info h2 {
+        text-align: center; /* centers the heading */
+        color: #333; /* dark color for the text */
+        margin-bottom: 15px; /* adds some space below the heading */
+    }
+    
+    .Net-info p {
+        text-align: justify; /* justifies the text */
+        color: #666; /* slightly lighter color for the paragraph text */
+        line-height: 1.6; /* increases line height for readability */
+    }
+    body {
+        padding-bottom: 100px; /* 至少等于页脚的高度 */
+        max-width: 80%; /* 限制最大宽度 */
+        align-items: center;
+        margin: 0 auto;
+      }
+      
+
+</style>
+
+</head> 
+
+<body> 
+
+
+<div class="banner">
+        <div class="banner-content">
+            <h1>DermpathNet</h1>
+        </div>
+</div>
+
+        <nav>
+            <a href="home-page.html" target="_blank">
+                <text type="button">Home</text>
+            </a>
+            <a href="browser-page-317.html" target="_blank">
+                <text type="button">Browse</text>
+            </a>
+            <a href="download-page.html" target="_blank">
+                <text type="button">Downloads</text>
+            </a>
+            <a href="contact-us.html" target="_blank">
+                <text type="button">About</text>
+            </a>
+        </nav>
+
+<section class="Net-info">
+    <h2>What is Dermatology ImageNet?</h2>
+    <p>Dermatology ImageNet service of the National Library of Medicine enables search and retrieval of abstracts and images (including charts, graphs, clinical images, etc.) from the open source literature, and biomedical image collections.</p>
+    <p>Searching may be done using text queries as well as query images. Dermatology ImageNet provides access to over 3.7 million images from about 1.2 million PubMed Central® articles; 7,470 chest x-rays with 3,955 radiology reports; 67,517 images from NLM History of Medicine collection; and 2,064 orthopedic illustrations.</p>
+    <h2>May I reuse an image I found through Dermatology ImageNet?</h2>
+    <p>We cannot grant permissions to use images. Copyright remains with the authors or the journal. A link to the copyright license type may be found below the individual Dermatology ImageNet image on the detailed view page. If copyright restrictions for an image are not specified or are unclear, please contact the journal that published the image.</p>
+</section>
+
+<footer class="site-footer">
+  <p>@2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
+  <p>Privacy Policy | Terms of Service | Cookie Policy</p>
+</footer>
+</body>
+</html>
