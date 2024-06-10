@@ -1,46 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DermpathNet Browser</title>
-
-<script src="browser_info.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DermpathNet</title>
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="tree-structure.css">
+  <script src="browser_info.js"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </head>
 
 <body>
-<link rel="stylesheet" href="tree-structure.css">
-<div class="banner">
-    <div class="banner-content">
-        <h1>DermpathNet</h1>
-        <h3 style="align-self: flex-end; text-align: center;">There are 166 categories and 7799 images</h3>
-    </div>
-</div>
+<div class="all-container">
+  <div class="banner">
+      <div class="banner-content">
+          <h1>DermpathNet</h1>
+          <h3 style="align-self: flex-end; text-align: center;">166 categories, 7799 images</h3>
+      </div>
+  </div>
 
-<nav>
-  
-      <a href="home-page.html" target="_blank">
-          <text type="button">Home</text>
-      </a>
-      <a href="browser-page-317.html" target="_blank">
-          <text type="button">Browse</text>
-      </a>
-      <a href="download-page.html" target="_blank">
-          <text type="button">Downloads</text>
-      </a>
-      <a href="contact-us.html" target="_blank">
-          <text type="button">About</text>
-      </a>
-  
-</nav>
+  <nav>
+    <a href="index.html">
+        <text type="button">Home</text>
+    </a>
+    <a href="browser-page-317.html">
+        <text type="button">Browse</text>
+    </a>
+    <a href="download-page.html">
+        <text type="button">Downloads</text>
+    </a>
+    <a href="contact-us.html">
+        <text type="button">About</text>
+    </a>
+  </nav>
 
-<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-<script src="//code.jquery.com/jquery-1.12.4.js"></script>
-<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<div class="search-container">
-  <input type="text" id="mySearch" placeholder="Search..." onkeyup="searchTree(this.value)">
-  <button onclick="searchTree(document.getElementById('mySearch').value)">Search</button>
-</div>
+
+  <div class="search-container">
+    <input type="text" id="mySearch" placeholder="Search..." onkeyup="searchTree(this.value)">
+    <button onclick="searchTree(document.getElementById('mySearch').value)">Search</button>
+  </div>
 
 <div id="suggestions"></div>
 <div id="content">
@@ -76,6 +76,7 @@
                     <span class="node" id="Spindlecelllipoma"> Spindle cell lipoma</span>
                   </li> 
                 </ul>
+              </li>
               <li><span class="toggle">+</span> Premalignant/Malignant
                 <ul>
                   <li>
@@ -85,6 +86,7 @@
                 </ul>
               </li>
             </ul>
+        </li>
         <li><span class="toggle">+</span> Adnexal
             <ul>
               <li><span class="toggle">+</span> Benign
@@ -180,10 +182,7 @@
                   </ul>
                 </li>                
             </ul>
-          </li>
-      
-        
-            
+        </li>
         <li><span class="toggle">+</span> Cystic
             <ul>
               <li><span class="toggle">+</span> Benign
@@ -237,13 +236,14 @@
                     <span class="node" id="Vellushaircyst">Vellus hair cyst</span>
                   </li>
                   </ul>
+                </li>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                   
                   </ul>
                 </li>
               </ul>
-        
+        </li>
         
         
             
@@ -906,15 +906,17 @@
             </ul>
        
         </ul>
-      
-    
 </div>
+
 <div id="infoPanel" class="info-panel">
 </div>
+
 </div>
-    <footer class="site-footer">
-      <p>@2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
-      <p>Privacy Policy | Terms of Service | Cookie Policy</p>
-    </footer>
+
+<footer class="site-footer">
+  <p>© 2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
+  <!-- <p>Privacy Policy | Terms of Service | Cookie Policy</p> -->
+</footer>
+</div>
 </body>
 </html>

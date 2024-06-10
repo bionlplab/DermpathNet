@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DermpathNet About Us</title>
+    <title>DermpathNet</title>
+    <link rel="stylesheet" href="main.css">
     <script>
         document.querySelectorAll('.image-slider a').forEach(item => {
             item.addEventListener('mouseover', () => {
@@ -13,327 +14,69 @@
                 document.querySelector('.image-slider').style.animationPlayState = 'running';
             });
         });
-        
     </script>
     <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            position: center;
-        }
-
-        /*header {
-            background: #d43c05;
-            color: white;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #b90d0d 1px solid;
-        }*/
-
-        header h1 {
-            padding: 5px 0;
-            margin: 0;
-            text-align: center;
-        }
-        /*.banner {
-            background-image: url('/Users/stephaniexu/Downloads/image_filtered/Dermoid cyst/PMC6631357-vetsci-06-00050-g001.jpg');
-            background-size: cover;
-            background-position: center;
-            height: 250px; /* 或者你想要的高度 
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-          }*/
-
-          .banner {
-            position: relative; /* Make sure the banner is positioned */
-            height: 250px; /* Or the height you want */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 100%;
-            overflow: hidden; /* Ensure no overflow from pseudo-element */
-          }
-          .banner::before {
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            background-image: url('image_filtered/Dermoid cyst/PMC6631357-vetsci-06-00050-g001.jpg');
-            background-size: cover;
-            background-position: center;
-            filter: brightness(80%); /* Adjust brightness here */
-            z-index: -1; /* Place the pseudo-element behind the content */
-          }
-        
-        /* 提升白色文字的可读性 */
-        .banner-content {
-            z-index: 2; /* 确保文字内容在遮罩层上方 */
-            color: white; /* 白色文字 */
-            text-shadow: 0px 0px 8px rgba(0, 0, 0, 1); /* 文字阴影增加可读性 */
-            position: relative; /* 相对定位保持在遮罩层之上 */
-            padding: 20px; /* 根据需要添加内边距 */
-            font-size: 1.3em; /* 调整字体大小 */
-            text-align: center;
-            filter: brightness(100%);
-            width: 100%;
-        }
-        nav {
-            background: #e67470;
-            color: white;
-            text-align: center;
-            height: 15px;
-            padding: 10px;
-            
-        }
-        nav.container {
-            display: flex; /* Continue using flex layout */
-            justify-content: center; /* Horizontally center all child items */
-            align-items: center; /* Vertically center all child items */
-            flex-wrap: nowrap; /* Prevent navigation links from wrapping */
-            padding: 0; /* If needed, remove padding */
-            list-style-type: none; /* Remove list markers if it's a list */
-        }
-        nav a {
-            color: white;
-            text-decoration: none;
-            padding: 0px 40px; 
-            font-size: 19px;
-            font-weight: bold;
-            margin-top: -2px;
-            text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.4);
-        }
-
-
-        article {
-            margin-top: 20px;
-            padding: 20px;
-            background: white;
-        }
-
-
-        input[type="search"] {
-            width: 70%;
-            padding: 10px;
-            margin-right: 100px;
-            border: 1px solid #ccc;
-            border-radius: 5px; /* Rounded corners */
-            font-size: 16px; /* Larger font size for readability */
-        }
-
-        button {
-            padding: 10px 20px;
-            background-color: #e95318;
-            color: white;
-            border: none;
-            border-radius: 5px; /* Rounded corners */
-            cursor: pointer;
-            font-size: 16px;
-        }
-        button:hover {
-            background-color: #e75925;
-        }
-        
-
-        .image-container {
-            position: relative;
-            width: 50%; /* Adjust the width as needed */
-            background: rgba(0, 0, 0, 0.5)
-        }
-
-        .clickable-image {
-            width: 100%;
-            cursor: pointer;
-        }
-
-        .overlay-text-top {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: rgb(255, 255, 255);
-        font-size: 24px; /* Adjust the size as needed */
-        cursor: pointer;
-        }
-
-        .figures-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
-        .more-content {
-            margin-bottom: 100px; /* 调整这个值直到看起来合适 */
-        }
-
-        .slideshow-container {
-            width: 100%; 
-            overflow: hidden;
-        }
-        
-        .image-slider {
-            display: flex;
-            animation: slide 30s linear infinite;
-        }
-        
-        .image-slider a {
-            flex: 0 0 auto;
-            transition: transform 0.5s ease;
-        }
-        
-        .image-slider img {
-            width: 200px; /* 设置图片宽度 */
-            height: 200px; /* 设置图片高度 */
-            object-fit: cover; /* 裁剪并填充至容器，保持图片比例 */
-            transition: transform 0.5s ease;
-        }
-        
-        
-        .image-slider a:hover img {
-            transform: scale(1.1); /* 鼠标悬停时放大 */
-        }
-        
-        @keyframes slide {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-100%); }
-        }
-        
-        .more-link {
-            display: block;
-            /* 更多样式 */
-        }
-        .more-module {
-            display: block;
-            text-align: center;
-            padding: 20px;
-            background-color: #f8f8f8;
-            color: #000;
-            text-decoration: none; /* 去除链接下划线 */
-            transition: transform 0.3s ease;
-        }
-        
-        .more-module:hover {
-            transform: scale(1.05); /* 放大效果 */
-        }
-        
-        .more-content h2 {
-            font-size: 1.5rem; /* 标题大小 */
-            margin-bottom: 0.5rem;
-        }
-        
-        .more-content p {
-            font-size: 1rem; /* 段落文本大小 */
-        }
-        .site-footer {
-            background-color: #e67470; /* 页脚背景颜色 */
-            color: white; /* 文字颜色 */
-            text-align: center; /* 内容居中 */
-            padding: 20px 0; /* 上下内边距 */
-            font-size: 0.8rem; /* 字体大小 */
-            width: 80%;
-            position: fixed;
-            bottom: 0;
-        }
-        
-        .site-footer p {
-            margin: 5px 0; /* 段落间距 */
-        }
-        
-        .site-footer a {
-            color: #fff; /* 链接文字颜色 */
-            text-decoration: underline; /* 链接下划线 */
-            margin: 0 5px; /* 链接之间的间距 */
-        }        
-        .download-container {
-            text-align: center; /* 图标居中显示 */
-            padding: 20px 0; /* 添加一些上下填充 */
-            bottom: 500px;
-        }
-        
-        .download-container img {
-            width: 50px; /* 或者根据实际需要设置图标大小 */
-            height: auto; /* 保持图标的高宽比 */
-            cursor: pointer; /* 鼠标悬停时显示手形指针 */
-        }
-        body {
-            padding-bottom: 100px; /* 至少等于页脚的高度 */
-        }
-        .all-container {
-            max-width: 80%; /* 或者你想要的宽度百分比 */
-            margin: 0 auto; /* 上下边距为 0，左右自动以居中内容 */
-          }
-
     </style>
-<div class="all-container">
 </head>
 <body>
+<div class="all-container">
     <div class="banner">
         <div class="banner-content">
             <h1>DermpathNet</h1>
+            <h3 style="align-self: flex-end; text-align: center;">166 categories, 7799 images</h3>
         </div>
     </div>
-    <nav> 
 
-        <a href="home-page.html" target="_blank">
-            <text type="button">Home</text>
-        </a>
-        <a href="browser-page-317.html" target="_blank">
-            <text type="button">Browse</text>
-        </a>
-        <a href="download-page.html" target="_blank">
-            <text type="button">Downloads</text>
-        </a>
-        <a href="contact-us.html" target="_blank">
-            <text type="button">About</text>
-        </a>
-    </nav> 
+<nav>
+  <a href="index.html">
+      <text type="button">Home</text>
+  </a>
+  <a href="browser-page-317.html">
+      <text type="button">Browse</text>
+  </a>
+  <a href="download-page.html">
+      <text type="button">Downloads</text>
+  </a>
+  <a href="contact-us.html">
+      <text type="button">About</text>
+  </a>
+</nav>
     
     <article>
         <div class="container">
-            <h3>Overview</h3>
+            <h2>Overview</h2>
             Welcome to DermpathNet! DermpathNet is an ongoing research effort to curate open-source peer-reviewed diagnoses-based dermatopathology images from PubMed Central ® <a href="https://www.ncbi.nlm.nih.gov/pmc/">(PMC)</a> as a central repository for dermatologists, pathologists, and trainees.
         </div>
         <div class="container">
-            <h3>What is DermpathNet?</h3>
+            <h2>What is DermpathNet?</h2>
             <p>DermpathNet is an encyclopedia hosting over 7,000 images and 100 diagnoses spanning common and rare benign and malignant cutaneous neoplasms. All images are curated from PMC using an Artificial Intelligence (AI)-powered workflow and secondarily inspected by experts. All images hosted are peer-reviewed and open-access and can be used for research or teaching. Images are organized according to the ontologic hierarchy of the corresponding diagnoses, and the website also features a search bar for rapid retrieval of a particular diagnosis. </p>
         </div>
         <div class="container">
-            <h3>Why DermpathNet? </h3>
+            <h2>Why DermpathNet? </h2>
             <p>Accessing high-quality open-access dermatopathology image databases for learning and cross-referencing poses a common challenge for clinicians and dermatopathology trainees. While existing platforms like VisualDx offer collections, they often require subscriptions which limit accessibility. 
 
                 Here, we employed an AI-enabled workflow to curate and categorize images from the PubMed Central (PMC) database, covering over 100 benign and malignant cutaneous neoplasms. We have established a comprehensive dermatopathology database for educational, cross-referencing, and machine-learning purposes. All images hosted on the website have been peer-reviewed and annotated according to the corresponding figure legends in the manuscript.  </p>
         </div>
         <div class="container">
-            <h3>Does ImageNet own the images? Can I download the images?</h3>
+            <h2>Does ImageNet own the images? Can I download the images?</h2>
             <p>No, ImageNet does not own the copyright of the images. The images are open-access and hosted by PMC and can be downloaded for research and education purposes. </p>
         </div>
         <div class="container">
-            <h3>Key Research Team Members</h3>
-            
+            <h2>Key Research Team Members</h2>
+            <ul>
                 <li>Ziyang Xu, MD, PhD; Perelman Department of Dermatology, New York Langone Health</li>
                 <li>Mingquan Lin, PhD; Department of Population Health Sciences, Weill Cornell Medicine</li>
                 <li>Alexandra Flamm, MD; Perelman Department of Dermatology, New York Langone Health</li>
                 <li>Ata Moshiri, MD; Perelman Department of Dermatology, New York Langone Health</li>
                 <li>Yifan Peng, PhD; Department of Population Health Sciences, Weill Cornell Medicine</li>
-            
+            </ul>
         </div>
     </article>
 
     <footer class="site-footer">
-        <p>@2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
-        <p>Privacy Policy | Terms of Service | Cookie Policy</p>
+        <p>© 2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
+        <!-- <p>Privacy Policy | Terms of Service | Cookie Policy</p> -->
     </footer>
-
+</div>
 </body>
 </html>
-</div>
