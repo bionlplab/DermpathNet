@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>DermpathNet</title>
   <link rel="stylesheet" href="main.css">
-  <link rel="stylesheet" href="tree-structure.css">
+  <link rel="stylesheet" href="tree-structure_correct.css">
   <script src="browser_info.js"></script>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="//code.jquery.com/jquery-1.12.4.js"></script>
@@ -21,26 +21,30 @@
       </div>
   </div>
 
-  <nav>
-    <a href="index.html">
-        <text type="button">Home</text>
-    </a>
-    <a href="browser-page-317.html">
-        <text type="button">Browse</text>
-    </a>
-    <a href="download-page.html">
-        <text type="button">Downloads</text>
-    </a>
-    <a href="contact-us.html">
-        <text type="button">About</text>
-    </a>
-  </nav>
+<nav>
+  
+      <a href="index.html" target="_blank">
+          <text type="button">Home</text>
+      </a>
+      <a href="browser-page-317.html" target="_blank">
+          <text type="button">Browse</text>
+      </a>
+      <a href="download-page.html" target="_blank">
+          <text type="button">Downloads</text>
+      </a>
+      <a href="contact-us.html" target="_blank">
+          <text type="button">About</text>
+      </a>
+  
+</nav>
 
-
-  <div class="search-container">
-    <input type="text" id="mySearch" placeholder="Search..." onkeyup="searchTree(this.value)">
-    <button onclick="searchTree(document.getElementById('mySearch').value)">Search</button>
-  </div>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<div class="search-container">
+  <input type="text" id="mySearch" placeholder="Search..." onkeyup="searchTree(this.value)">
+  <button onclick="searchTree(document.getElementById('mySearch').value)">Search</button>
+</div>
 
 <div id="suggestions"></div>
 <div id="content">
@@ -76,7 +80,6 @@
                     <span class="node" id="Spindlecelllipoma"> Spindle cell lipoma</span>
                   </li> 
                 </ul>
-              </li>
               <li><span class="toggle">+</span> Premalignant/Malignant
                 <ul>
                   <li>
@@ -183,6 +186,7 @@
                 </li>                
             </ul>
         </li>
+                
         <li><span class="toggle">+</span> Cystic
             <ul>
               <li><span class="toggle">+</span> Benign
@@ -236,17 +240,13 @@
                     <span class="node" id="Vellushaircyst">Vellus hair cyst</span>
                   </li>
                   </ul>
-                </li>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                   
                   </ul>
                 </li>
-              </ul>
+            </ul>
         </li>
-        
-        
-            
         <li><span class="toggle">+</span> Fibrohistiocytic
               <ul>
                 <li><span class="toggle">+</span> Benign
@@ -338,11 +338,10 @@
                       <span class="toggle">+</span>
                       <span class="node" id="Skin UndifferentiatedPleomorphicSarcoma">Skin Undifferentiated Pleomorphic Sarcoma</span>
                     </li>
-                  </li>
+
                   </ul>
-                </li>
               </ul>
-           
+        </li>
         <li><span class="toggle">+</span> Follicular
             <ul>
                 <li><span class="toggle">+</span> Benign
@@ -405,13 +404,11 @@
                   </ul>
                 </li>
             </ul>
-          
+        </li>
         <li><span class="toggle">+</span> Hematolymphoid
             <ul>
-              <li><span class="toggle">+</span> Benign
-              <ul>
-                    
-              </ul>
+              <li><span class="toggle">+</span> Benign 
+              </li>
               <li><span class="toggle">+</span> Premalignant/Malignant
                 <ul>
                   <li>
@@ -453,9 +450,7 @@
               </ul>
               </li>
             </ul>
-        
-        
-            
+        </li>     
         <li><span class="toggle">+</span> Keratinocytic
             <ul>
               <li><span class="toggle">+</span> Benign
@@ -509,7 +504,7 @@
                   <span class="node" id="Wartydyskeratoma">Warty dyskeratoma</span>
                 </li>
               </ul>
-                <li><span class="toggle">+</span> Premalignant/Malignant
+              <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
                       <span class="toggle">+</span>
@@ -588,11 +583,11 @@
                       <span class="node" id="Verrucouscarcinoma">Verrucous carcinoma</span>
                     </li>
                   </ul>
-              </ul>
-           
+            </ul>
+        </li>
             
-            <li><span class="toggle">+</span> Melanocytic
-              <ul>
+        <li><span class="toggle">+</span> Melanocytic
+            <ul>
                 <li><span class="toggle">+</span> Benign
                   <ul>
                     <li>
@@ -601,7 +596,7 @@
                     </li>
                     <li>
                       <span class="toggle">+</span>
-                      <span class="node" id="Ballooncellnevus">Balloon cell nevus</span>
+                      <span class="node" id="ballooncellnevus">Balloon cell nevus</span>
                     </li>
                     <li>
                       <span class="toggle">+</span>
@@ -640,8 +635,10 @@
                       <span class="node" id="Solarlentigo">Solar lentigo</span>
                     </li>
                   </ul>
+                </li>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
+                  
                     <li>
                       <span class="toggle">+</span>
                       <span class="node" id="Deeppenetratingmelanocyticnevus">Deep penetrating melanocytic nevus</span>
@@ -660,12 +657,10 @@
                     </li>
                   </ul>
                 </li>
-              </ul>
+            </ul>
+        </li>  
             
-            
-        
-           
-          <li><span class="toggle">+</span> Neural or neuroendocrine
+        <li><span class="toggle">+</span> Neural or neuroendocrine
               <ul>
                 <li><span class="toggle">+</span> Benign
                 <ul>
@@ -710,6 +705,7 @@
                     <span class="node" id="Traumaticneuroma">Traumatic neuroma</span>
                   </li>
                   </ul>
+                  </li>
                 <li><span class="toggle">+</span> Premalignant/Malignant
                   <ul>
                     <li>
@@ -727,11 +723,7 @@
                   </ul>
                 </li>
               </ul>
-            
-            </li>
-          
-        
-        
+        </li>
         
         <li><span class="toggle">+</span> Sebaceous
             <ul>
@@ -753,16 +745,18 @@
                     <span class="toggle">+</span>
                     <span class="node" id="Sebaceoushyperplasia">Sebaceous hyperplasia</span>
                   </li>
-                    </ul>
-                  <li><span class="toggle">+</span> Premalignant/Malignant
-                    <ul>
+                </ul>
+                </li>
+              <li><span class="toggle">+</span> Premalignant/Malignant
+                <ul>
                       <li>
                         <span class="toggle">+</span>
                         <span class="node" id="SebaceousAdenocarcinoma">Sebaceous Adenocarcinoma</span>
                       </li>
-                    </ul>
-                  </li>
                 </ul>
+                </li>
+            </ul>
+        </li>
 
         <li><span class="toggle">+</span> Smooth muscle
             <ul>
@@ -772,27 +766,28 @@
                     <span class="toggle">+</span>
                     <span class="node" id="Genitalleiomyoma">Genital leiomyoma</span>
                   </li>
-                        <li>
-                          <span class="toggle">+</span>
-                          <span class="node" id="Pigmentedhairyepidermalnevus">Pigmented hairy epidermal nevus</span>
-                        </li>
-                        <li>
-                          <span class="toggle">+</span>
-                          <span class="node" id="Pilarleiomyoma">Pilar leiomyoma</span>
-                        </li>
-                      </li>
+                  <li>
+                      <span class="toggle">+</span>
+                      <span class="node" id="Pigmentedhairyepidermalnevus">Pigmented hairy epidermal nevus</span>
+                  </li>
+                  <li>
+                      <span class="toggle">+</span>
+                      <span class="node" id="Pilarleiomyoma">Pilar leiomyoma</span>
+                  </li>
                 </ul>
+              </li>
               <li><span class="toggle">+</span> Premalignant/Malignant
                     <ul>
-                      <li>
+                    <li>
                         <span class="toggle">+</span>
                         <span class="node" id="Leiomyosarcoma">Leiomyosarcoma</span>
-                      </li>
+                    </li>
                     </ul>
               </li>
-              </ul>
+            </ul>
             
-        
+        </li>
+
         <li><span class="toggle">+</span> Vascular
               <ul>
                 <li><span class="toggle">+</span> Benign
@@ -882,8 +877,9 @@
                       <span class="node" id="Venouslake">Venous lake</span>
                     </li>
                   </ul>
+                </li>
                   
-                  <li><span class="toggle">+</span> Premalignant/Malignant
+                <li><span class="toggle">+</span> Premalignant/Malignant
                     <ul>
                       <li>
                         <span class="toggle">+</span>
@@ -897,26 +893,23 @@
                         <span class="toggle">+</span>
                         <span class="node" id="Kaposiformhemangioendothelioma">Kaposiform hemangioendothelioma</span>
                       </li>
-                    </li>
                     </ul>
-                  </li>
+                </li>
                 
-              
-              </li>
             </ul>
-       
-        </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+      
+    
 </div>
-
 <div id="infoPanel" class="info-panel">
 </div>
-
 </div>
-
-<footer class="site-footer">
-  <p>© 2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
-  <!-- <p>Privacy Policy | Terms of Service | Cookie Policy</p> -->
-</footer>
-</div>
+    <footer class="site-footer">
+      <p>@2024 New York University Grossman School of Medicine, Weill Cornell Medicine</p>
+      <!--<p>Privacy Policy | Terms of Service | Cookie Policy</p>-->
+    </footer>
 </body>
 </html>

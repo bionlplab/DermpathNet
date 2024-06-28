@@ -1,0 +1,114 @@
+/* 用于页面布局的Flexbox样式 */
+/* You may want to add styles to hide/show toggle based on search */
+/*CSS class for highlighting*/
+.highlight {
+  background-color: yellow; 
+}
+
+.tree ul {
+    list-style-type: none;
+    position: relative;
+    padding-left: 20px;
+}
+
+.tree ul ul {
+    display: none;
+}
+
+.tree li {
+    margin: 0.5em 0;
+    line-height: 1.2em;
+    position: relative;
+}
+
+.tree .toggle {
+    cursor: pointer;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+      
+.container {
+    width: 100%;
+    display: flex;
+    margin: auto;
+    overflow: hidden;
+    position: center;
+}
+  
+/* 左侧树形结构的样式 */
+body .container .tree {
+  float: left;
+/*  flex: 1;*/
+/*  padding-right: 20px;*/
+  width: 300px;
+}
+
+body .container .info-panel {
+  margin-left: 20px;
+/*  flex: 1;*/
+  padding-left: 20px;
+  border-left: 1px solid #ccc;
+  /*line-height: 6.0px;*/
+/*  clear: both;*/
+}
+
+/* 点击节点时的效果 */
+.tree .node.active {
+  background-color: #B31B1B; /* 选中项的背景颜色 */
+  border-radius: 5px; /* 圆角边框 */
+  padding: 5px;
+}
+
+/* 适当调整列表项的样式 */
+.tree li {
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+.custom-img-size {
+  width: auto !important; /* 自动宽度，可以按比例缩放 */
+  max-width: 80% !important; /* 最大宽度为容器的50% */
+  height: auto !important; /* 高度自动，保持图片比例 */
+  display: block;
+  margin: 10px auto !important; /* 增加上下边距，并在页面中心显示 */
+}
+
+/* 设定文本输入框的样式 */
+#mySearch {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ddd; /* 边框颜色可以根据你的网页设计来定 */
+  border-radius: 4px; /* 圆角边框 */
+  width: 250px; /* 或者根据需要设置宽度 */
+  outline: none; /* 移除聚焦时的默认轮廓线 */
+}
+
+/* 设定文本输入框聚焦时的样式 */
+#mySearch:focus {
+  border-color: #9ecaed;
+  box-shadow: 0 0 10px #9ecaed;
+}
+
+.search-container button {
+  padding: 10px 20px;
+  margin-left: 8px; /* 输入框和按钮之间的间隔 */
+  background-color: #CF4520; /* 背景颜色 */
+  color: white;
+  border: none;
+  border-radius: 4px; /* 圆角边框 */
+  cursor: pointer; /* 鼠标悬停时的手形图标 */
+  outline: none; /* 移除聚焦时的默认轮廓线 */
+}
+
+.search-container button:hover {
+  background-color: #B31B1B; /* 鼠标悬停时的背景颜色变化 */
+}
+
+.search-container {
+  margin-bottom: 20px; /* 添加一些空间在搜索框和树形结构之间 */
+  margin-left: 0%;
+}
+
+
+
+

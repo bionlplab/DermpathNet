@@ -6414,7 +6414,7 @@ else if (nodeId === 'Solarlentigo') {
 '<a href="image_filtered/Webpages_for_image/Solar lentigo/PMC3663342-dp0202a08g003.html" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3663342/bin/dp0202a08g003.jpg" /></a>';
 }
 else if (nodeId === 'ballooncellnevus') {
-  content = '<h3>balloon cell nevus</h3>' +
+  content = '<h3>Balloon cell nevus</h3>' +
             '<p>Preferred Name: balloon cell nevus</p>' +
             '<p>Type: Benign</p>' +
             '<p>UMLS: C0334425</p>' + 
