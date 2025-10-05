@@ -1,0 +1,16 @@
+requests
+pandas
+docopt
+tqdm
+biopython
+bioc
+Pillow
+tensorflow
+keras
+tabulate
+opencv-python
+nltk
+python-docx
+dominate
+PyYAML
+bs4
